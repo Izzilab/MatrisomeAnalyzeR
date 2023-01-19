@@ -13,15 +13,19 @@ matriannotate <- function(data=NULL,
                           species=NULL){
   if(is.null(data)){
     cat(crayon::red("no data provided, execution stops \n"))
+    stop()
   }
   if(class(data)!="data.frame"){
     cat(crayon::red("data should be in data.frame format, execution stops \n"))
+    stop()
   }
   if(is.null(gene.column)){
     cat(crayon::red("a column indicating gene IDs must be provided, execution stops \n"))
+    stop()
   }
   if(is.null(species)){
     cat(crayon::red("no species provided, execution stops"))
+    stop()
   }
 
   df <- data
@@ -56,18 +60,23 @@ matriannotate <- function(data=NULL,
 matrianalyze <- function(data=NULL){
   if(is.null(data)){
     cat(crayon::red("no data provided, execution stops \n"))
+    stop()
   }
   if(class(data)!="data.frame"){
     cat(crayon::red("data should be in data.frame format, execution stops \n"))
+    stop()
   }
   if(length(attributes(data))<1){
     cat(crayon::red("data should be annotated first, execution stops \n"))
+    stop()
   }
   if(attributes(data)$workflow!="matrisomeannotatoR"){
     cat(crayon::red("data should be annotated first, execution stops \n"))
+    stop()
   }
   if(ncol(data)<=3){
     cat(crayon::red("input data had only one column and cannot be tabulated, execution stops \n"))
+    stop()
   }
   
   n <- "Annotated Gene"
@@ -109,12 +118,15 @@ matribar <- function(data=NULL,
                      print.plot=TRUE){
   if(is.null(data)){
     cat(crayon::red("no data provided, execution stops \n"))
+    stop()
   }
   if(class(data)!="data.frame"){
     cat(crayon::red("data should be in data.frame format, execution stops \n"))
+    stop()
   }
   if(attributes(data)$workflow!="matrisomeannotatoR"){
     cat(crayon::red("graphs can only be drawn for annotated files, execution stops \n"))
+    stop()
   }
 
   gdf <- data
@@ -188,12 +200,15 @@ matriflow <- function(data=NULL,
                       print.plot=TRUE){
   if(is.null(data)){
     cat(crayon::red("no data provided, execution stops \n"))
+    stop()
   }
   if(class(data)!="data.frame"){
     cat(crayon::red("data should be in data.frame format, execution stops \n"))
+    stop()
   }
   if(attributes(data)$workflow!="matrisomeannotatoR"){
     cat(crayon::red("graphs can only be drawn for annotated files, execution stops \n"))
+    stop()
   }
 
   require(ggalluvial)
@@ -249,12 +264,15 @@ matripie <- function(data=NULL,
                      print.plot=TRUE){
   if(is.null(data)){
     cat(crayon::red("no data provided, execution stops \n"))
+    stop()
   }
   if(class(data)!="data.frame"){
     cat(crayon::red("data should be in data.frame format, execution stops \n"))
+    stop()
   }
   if(attributes(data)$workflow!="matrisomeannotatoR"){
     cat(crayon::red("graphs can only be drawn for annotated files, execution stops \n"))
+    stop()
   }
 
   gdf <- data
