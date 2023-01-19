@@ -1,0 +1,15 @@
+Package: MatrisomeAnalyzeR
+Type: Package
+Title: Annotation of gene tables with matrisome genes
+Version: 1.0.1
+Author: NabaLab & IzziLab
+Maintainer: IzziLab <valerio.izzi@oulu.fi>
+Description: Annotation of gene tables with matrisome genes.
+License: GPL (>=3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Depends: R (>= 2.10)
+Imports: dplyr,data.table,ggplot2,ggalluvial,webr,crayon
+NeedsCompilation: no
+Packaged: 2023-01-13 03:46:25 UTC; Val
