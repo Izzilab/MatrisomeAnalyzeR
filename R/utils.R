@@ -66,7 +66,10 @@ matrianalyze <- function(data=NULL){
   if(attributes(data)$workflow!="matrisomeannotatoR"){
     cat(crayon::red("data should be annotated first, execution stops \n"))
   }
-
+  if(ncol(data)<=3){
+    cat(crayon::red("input data had only one column and cannot be tabulated, execution stops \n"))
+  }
+  
   n <- "Annotated Gene"
   df <- data
   tr <- suppressWarnings(
