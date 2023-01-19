@@ -63,7 +63,7 @@ style matripie fill: #E4FCFB, stroke:#F1F1F0
 gl((genes)) -.- it((table)) -- column & species --> mann[matriannotate] --> at((annotated)) -.- matribar & matriflow & matripie
 at -..- mana[matrianalyze] --> tb((tab))
 ```
-> **Figure 1. MatrisomeAnalyzeR workflow.** Input table is annotated by `matriannotate`, then parsed to `matrianalyze` for analysis.
+> **Figure 1. MatrisomeAnalyzeR workflow.** Input table is annotated by `matriannotate`, then visualized by as barplot, flow-chart and/or pie plot. Results can optionally be passed to `matrianalyze` for tabulation analysis.
 
 As a demonstration, let's use the example provided by the old [MatrisomeAnalyzer](http://matrisomeproject.mit.edu/analytical-tools/matrisome-analyzer/) web-page: [matrisomeanalyzer_testfile.csv](http://matrisomeproject.mit.edu/static/media/uploads/matrisomeanalyzer_testfile.csv). In addition to Matrisome Divisions and Categories, the rest of the column headers indicate: SampleName_PeptideAbundance ( total intensity of peptide abundance), SampleName_Spectra (number of spectra), SampleName_UniquePeptides (number of unique peptides)
 ```R
