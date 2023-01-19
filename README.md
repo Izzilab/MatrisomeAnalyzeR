@@ -2,7 +2,7 @@
 _under construction_
 
 ## Abstract
-**Motivation**: Identification of genes, belonging to the same (extra-)cellular component, provides important functional information and is an essential first step in the analyzis of different datasets. The extracellular matrix (ECM) is a complex meshwork of proteins that fall into specific divisions and categories, depending on their scaffolding, enzymatic and signaling activities. The Matrisome database provides such classification of ECM proteins and represents an centralized resource for cross-referencing different -omics studies, focused on ECM.  
+**Motivation**: Identification of genes, belonging to the same (extra-)cellular component, provides important functional information and is an essential first step in the analyzis of different datasets. The extracellular matrix (ECM) is a complex meshwork of proteins that fall into specific divisions and categories, depending on their scaffolding, enzymatic and signaling activities. The [Matrisome](https://matrisomedb.org/) database provides such classification of ECM proteins, and represents a centralized resource for the analyzis of different *-omics* studies, with focus on ECM.  
 **Results**: Here, we present an updated version of MatrisomeAnalyzeR (MAR) -- an automated tool, communicating with Matrisome to dissect proteomic datasets for their ECM content. MAR has been completely rewritten from the ground up and is distributed as an R package, providing numerous usability and analytical improvements.
 
 
@@ -34,7 +34,7 @@ library(MatrisomeAnalyzeR)
 ```
 
 ## Functions provided by the package
-The MatrisomeAnalyzeR package provides the following funtions (given in the relative order of their typical usage):
+The MatrisomeAnalyzeR package provides the following functions (given in the relative order of their typical usage):
 1. `matriannotate`: adds Matrisome annotations to an input table of genes
 2. `matrianalyze`: creates tabulations of *matriannotated* data
 3. Post-run analyzes
