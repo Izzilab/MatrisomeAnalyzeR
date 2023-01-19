@@ -44,7 +44,7 @@ The MatrisomeAnalyzeR package provides the following functions (given in the rel
 
 ## Example usage
 The workflow (Figure 1) has 2 steps for the user to carry out:
-1. Input table of genes is processed by `matriannotate` which recognizes those found in Matrisome and extracts their specific traits from the database, such as *Division* and *Category*. The user should specify the column with gene identifiers and the species (such as: `human`, `mouse`, `c.elegans`, `drosophila`, `zebrafish`, `quail`).
+1. Input table of genes is processed by `matriannotate` which recognizes those found in Matrisome and extracts their specific traits from the database, such as *Division* and *Category* (Figure 3). The user should specify the column with gene identifiers and the species (such as: `human`, `mouse`, `c.elegans`, `drosophila`, `zebrafish`, `quail`).
    * (Optional) The annotated list of genes can then be analyzed by `matrianalyze`, which takes into account the rest of the columns from the input data table.
 2. The results can be visualized in three different ways by functions: `matribar`, `matriflow` and `matripie`.
 ```mermaid
@@ -84,3 +84,49 @@ matribar(data = genes.ann)
 matriflow(data = genes.ann)
 matripie(data = genes.ann)
 ```
+
+## MatrisomeAnalyzeR pipeline
+The individual steps of the pipeline are straighforward (Figure 2).
+```mermaid
+%%{init: {'theme': 'neutral' } }%%
+flowchart LR
+style gl fill: #FCF4E4, stroke:#F1F1F0
+style it fill: #FCF4E4, stroke:#F1F1F0
+style ms fill: #F1FCE4, stroke:#F1F1F0
+style an fill: #E4FCFB, stroke:#F1F1F0
+style tabulate fill: #E4FCFB, stroke:#F1F1F0
+style barplot fill: #E4FCFB, stroke:#F1F1F0
+style fl fill: #E4FCFB, stroke:#F1F1F0
+style piechart fill: #E4FCFB, stroke:#F1F1F0
+
+gl((genes)) -.- it((table)) -- add columns --> an((annotate))
+it <-. species .-> ms((Matrisome))
+it <-. genes .-> ms((Matrisome))
+ms -. division  .- an
+ms -. category .- an
+
+an -.- barplot & fl(flowchart) & piechart
+an -..- tabulate
+```
+> **Figure 2. MatrisomeAnalyzeR pipeline.** The input data is compared against the matrisome DB, based on the column containing genes identifiers and species. ECM genes have their characteristics added, creating an annotated version of the table. It can be visualized as a barplot, flowchart or piechart. Optionally it can be further tabulated.
+
+
+```mermaid
+%%{init: {'theme': 'neutral' } }%%
+flowchart TB
+style category fill: #F1FCE4, stroke:#F1F1F0
+style division fill: #F1FCE4, stroke:#F1F1F0
+style glycoproteins fill: #F1FCE4, stroke:#F1F1F0
+style collagens fill: #F1FCE4, stroke:#F1F1F0
+style proteoglycans fill: #F1FCE4, stroke:#F1F1F0
+style affiliated fill: #F1FCE4, stroke:#F1F1F0
+style regulators fill: #F1FCE4, stroke:#F1F1F0
+style secreted fill: #F1FCE4, stroke:#F1F1F0
+style core fill: #F1FCE4, stroke:#F1F1F0
+style associated fill: #F1FCE4, stroke:#F1F1F0
+
+category -.- glycoproteins & collagens & proteoglycans -.- core
+category -.- affiliated & regulators & secreted -.- associated
+core & associated -.- division
+```
+> **Figure 3. Matrisome organization.** Database components belong to 6 **categories** that make up the *core* and *associated* **divisions** of the database.
