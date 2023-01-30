@@ -2,50 +2,48 @@
 _under construction_
 
 ## Abstract
-**Motivation**: Identification of genes, belonging to the same (extra-)cellular component, provides important functional information and is an essential first step in the analyzis of different datasets. The extracellular matrix (ECM) is a complex meshwork of proteins that fall into specific divisions and categories, depending on their scaffolding, enzymatic and signaling activities. The [Matrisome](https://matrisomedb.org/) database provides such classification of ECM proteins, and represents a centralized resource for the analyzis of different *-omics* studies, with focus on ECM.  
-**Results**: Here, we present an updated version of MatrisomeAnalyzeR (MAR) -- an automated tool, communicating with Matrisome to dissect proteomic datasets for their ECM content. MAR has been completely rewritten from the ground up and is distributed as an R package, providing numerous usability and analytical improvements.
+**Motivation**: The identification of genes belonging to the same functional compartment provides important information about the processes happening in cells and tissues, and is an essential step in the analysis of different datasets. The extracellular matrix proper (ECM), together with the host of other proteins interacting with it, is a complex meshwork of proteins that can be organized into specific *categories* and *families*, depending on the scaffolding, enzymatic and signalling activities of each protein. The Matrisome database (MatrisomeDB) provides - among other things - a centralized, multi-species classification of ECM proteins, and is a crucial resource for the matrix-centered analysis of different *-omics* studies.  
+**Results**: Here, we present an updated version of the previous [MatrisomeAnalyzeRLinuxV1](http://matrisomeproject.mit.edu/analytical-tools/matrisome-annotator/) (MAR) -- a tool intended to communicate with [MatrisomeDB](https://matrisomedb.org/) server to annotate proteomic datasets for the presence and abundance of ECM elements. We have completely rewritten MAR from the ground up, to make it faster, reactive, and compliant with a larger set of data types and multiple species. The updated MAR tool now exists in two forms, a ShinyApp (reachable from the MatrisomeBD) meant for a one-stop "click and forget" experience and the MatriAnalyzeR package, an R library providing extended usability and multiple graphical options.
 
 
 ## Installation
-MatrisomeAnalyzeR dependencies are: `shiny`, `DT`, `dplyr`, `data.table`, `ggplot2`, `shinyWidgets`, `shinyjs`, `shinyhelper`. On a stock R environment ("no third-party packages installed), follow these steps:
+MatrisomeAnalyzeR dependencies are: `dplyr`, `data.table`, `ggplot2`, `ggalluvial`, `webr`, `crayon`, `moonBook`. On a stock R environment ("no third-party packages installed), follow these steps:
 ```R
-install.package("shiny")
-install.package("DT")
 install.package("dplyr")
 install.package("data.table")
 install.package("ggplot2")
-install.package("shinyWidgets")
-install.package("shinyjs")
-install.package("shinyhelper")
+install.package("ggalluvial")
+install.package("webr")
+install.package("crayon")
+install.package("moonBook")
 devtools::install_github("izzilab/MatrisomeAnalyzeR")
 ```
 
 The libraries should load automatically. However, if manual loading is required, this is the full list:
 ```R
-library(shiny)
-library(DT)
-library(dplyr)
-library(data.table)
-library(ggplot2)
-library(shinyWidgets)
-library(shinyjs)
-library(shinyhelper)
-library(MatrisomeAnalyzeR)
+library("dplyr")
+library("data.table")
+library("ggplot2")
+library("ggalluvial")
+library("webr")
+library("crayon")
+library("moonBook")
+library("MatrisomeAnalyzeR")
 ```
 
 ## Functions provided by the package
 The MatrisomeAnalyzeR package provides the following functions (given in the relative order of their typical usage):
-1. `matriannotate`: adds Matrisome annotations to an input table of genes
+1. `matriannotate`: adds Matrisome annotations to an input table of genes/proteins
 2. `matrianalyze`: creates tabulations of *matriannotated* data
-3. Post-run analyzes
+3. Post-run analyses
    * `matribar`: creates barplots for matriannotated data
    * `matriflow`: renders an alluvial plot for matriannotated data
    * `matripie`: makes a donutpie for matriannotated data
 
 ## Example usage
 The workflow (Figure 1) has 2 steps for the user to carry out:
-1. Input table of genes is processed by `matriannotate` which recognizes those found in Matrisome and extracts their specific traits from the database, such as *Division* and *Category* (Figure 3). The user should specify the column with gene identifiers and the species (such as: `human`, `mouse`, `c.elegans`, `drosophila`, `zebrafish`, `quail`).
-   * (Optional) The annotated list of genes can then be analyzed by `matrianalyze`, which takes into account the rest of the columns from the input data table.
+1. Input table of genes is processed by `matriannotate` which recognizes those found in MatrisomeDB and extracts their specific traits from the database, such as *Family* and *Category* (Figure 3). The user should specify the column with gene/family identifiers and the species (such as: `human`, `mouse`, `c.elegans`, `drosophila`, `zebrafish`, `quail`).
+   * (Optional) The annotated list of genes can then be analyzed by `matrianalyze`, which takes into account the rest of the columns from the input data table, and calculates column-wise sum (if numeric) for each category and family member.
 2. The results can be visualized in three different ways by functions: `matribar`, `matriflow` and `matripie`.
 ```mermaid
 %%{init: {'theme': 'neutral' } }%%
@@ -102,7 +100,7 @@ style piechart fill: #E4FCFB, stroke:#F1F1F0
 gl((genes)) -.- it((table)) -- add columns --> an((annotate))
 it <-. species .-> ms((Matrisome))
 it <-. genes .-> ms((Matrisome))
-ms -. division  .- an
+ms -. family  .- an
 ms -. category .- an
 
 an -.- barplot & fl(flowchart) & piechart
@@ -114,8 +112,8 @@ an -..- tabulate
 ```mermaid
 %%{init: {'theme': 'neutral' } }%%
 flowchart TB
+style family fill: #F1FCE4, stroke:#F1F1F0
 style category fill: #F1FCE4, stroke:#F1F1F0
-style division fill: #F1FCE4, stroke:#F1F1F0
 style glycoproteins fill: #F1FCE4, stroke:#F1F1F0
 style collagens fill: #F1FCE4, stroke:#F1F1F0
 style proteoglycans fill: #F1FCE4, stroke:#F1F1F0
@@ -125,8 +123,8 @@ style secreted fill: #F1FCE4, stroke:#F1F1F0
 style core fill: #F1FCE4, stroke:#F1F1F0
 style associated fill: #F1FCE4, stroke:#F1F1F0
 
-category -.- glycoproteins & collagens & proteoglycans -.- core
-category -.- affiliated & regulators & secreted -.- associated
-core & associated -.- division
+family -.- glycoproteins & collagens & proteoglycans -.- core
+family -.- affiliated & regulators & secreted -.- associated
+core & associated -.- category
 ```
-> **Figure 3. Matrisome organization.** Database components belong to 6 **categories** that make up the *core* and *associated* **divisions** of the database.
+> **Figure 3. Matrisome organization.** Database components belong to 6 **families** that make up the *core* and *associated* **categories** of the database.
