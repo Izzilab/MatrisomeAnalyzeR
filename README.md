@@ -42,7 +42,7 @@ The MatrisomeAnalyzeR package provides the following functions (given in the rel
 
 ## Example usage
 The workflow (Figure 1) has 2 steps for the user to carry out:
-1. Input table of genes is processed by `matriannotate` which recognizes those found in MatrisomeDB and extracts their specific traits from the database, such as *Family* and *Category* (Figure 3). The user should specify the column with gene/family identifiers and the species (such as: `human`, `mouse`, `c.elegans`, `drosophila`, `zebrafish`, `quail`).
+1. Input table of genes is processed by `matriannotate` which recognizes those found in MatrisomeDB and extracts their specific traits from the database, such as *Family* and *Category* (Figure 2). The user should specify the column with gene/family identifiers and the species (such as: `human`, `mouse`, `c.elegans`, `drosophila`, `zebrafish`, `quail`).
    * (Optional) The annotated list of genes can then be analyzed by `matrianalyze`, which takes into account the rest of the columns from the input data table, and calculates column-wise sum (if numeric) for each category and family member.
 2. The results can be visualized in three different ways by functions: `matribar`, `matriflow` and `matripie`.
 ```mermaid
@@ -83,8 +83,28 @@ matriflow(data = genes.ann)
 matripie(data = genes.ann)
 ```
 
+```mermaid
+%%{init: {'theme': 'neutral' } }%%
+flowchart TB
+style family fill: #F1FCE4, stroke:#F1F1F0
+style category fill: #F1FCE4, stroke:#F1F1F0
+style glycoproteins fill: #F1FCE4, stroke:#F1F1F0
+style collagens fill: #F1FCE4, stroke:#F1F1F0
+style proteoglycans fill: #F1FCE4, stroke:#F1F1F0
+style affiliated fill: #F1FCE4, stroke:#F1F1F0
+style regulators fill: #F1FCE4, stroke:#F1F1F0
+style secreted fill: #F1FCE4, stroke:#F1F1F0
+style core fill: #F1FCE4, stroke:#F1F1F0
+style associated fill: #F1FCE4, stroke:#F1F1F0
+
+family -.- glycoproteins & collagens & proteoglycans -.- core
+family -.- affiliated & regulators & secreted -.- associated
+core & associated -.- category
+```
+> **Figure 2. Matrisome organization.** Database components belong to 6 **families** that make up the *core* and *associated* **categories** of the database.
+
 ## MatrisomeAnalyzeR pipeline
-The individual steps of the pipeline are straighforward (Figure 2).
+The individual steps of the pipeline are straighforward (Figure 3).
 ```mermaid
 %%{init: {'theme': 'neutral' } }%%
 flowchart LR
@@ -106,25 +126,4 @@ ms -. category .- an
 an -.- barplot & fl(flowchart) & piechart
 an -..- tabulate
 ```
-> **Figure 2. MatrisomeAnalyzeR pipeline.** The input data is compared against the matrisome DB, based on the column containing genes identifiers and species. ECM genes have their characteristics added, creating an annotated version of the table. It can be visualized as a barplot, flowchart or piechart. Optionally it can be further tabulated.
-
-
-```mermaid
-%%{init: {'theme': 'neutral' } }%%
-flowchart TB
-style family fill: #F1FCE4, stroke:#F1F1F0
-style category fill: #F1FCE4, stroke:#F1F1F0
-style glycoproteins fill: #F1FCE4, stroke:#F1F1F0
-style collagens fill: #F1FCE4, stroke:#F1F1F0
-style proteoglycans fill: #F1FCE4, stroke:#F1F1F0
-style affiliated fill: #F1FCE4, stroke:#F1F1F0
-style regulators fill: #F1FCE4, stroke:#F1F1F0
-style secreted fill: #F1FCE4, stroke:#F1F1F0
-style core fill: #F1FCE4, stroke:#F1F1F0
-style associated fill: #F1FCE4, stroke:#F1F1F0
-
-family -.- glycoproteins & collagens & proteoglycans -.- core
-family -.- affiliated & regulators & secreted -.- associated
-core & associated -.- category
-```
-> **Figure 3. Matrisome organization.** Database components belong to 6 **families** that make up the *core* and *associated* **categories** of the database.
+> **Figure 3. MatrisomeAnalyzeR pipeline.** The input data is compared against the matrisome DB, based on the column containing genes identifiers and species. ECM genes have their characteristics added, creating an annotated version of the table. It can be visualized as a barplot, flowchart or piechart. Optionally it can be further tabulated.
