@@ -1,0 +1,611 @@
+﻿Proteins,Gene Symbol,Molecular Weight,Protein Grouping Ambiguity,Total Spectrum Count_hFT1-1,Total Spectrum Count_hFT1-2,Total Spectrum Count_hFT1-3,Exclusive Spectrum Count_hFT1-1,Exclusive Spectrum Count_hFT1-2,Exclusive Spectrum Count_hFT1-3,Total Unique Spectrum Count_hFT1-1,Total Unique Spectrum Count_hFT1-2,Total Unique Spectrum Count_hFT1-3,Exclusive Unique Spectrum Count_hFT1-1,Exclusive Unique Spectrum Count_hFT1-2,Exclusive Unique Spectrum Count_hFT1-3,Total Unique Peptide Count_hFT1-1,Total Unique Peptide Count_hFT1-2,Total Unique Peptide Count_hFT1-3,Exclusive Unique Peptide Count_hFT1-1,Exclusive Unique Peptide Count_hFT1-2,Exclusive Unique Peptide Count_hFT1-3,Protein Identification Probability_hFT1-1,Protein Identification Probability_hFT1-2,Protein Identification Probability_hFT1-3,Percent Coverage_hFT1-1,Percent Coverage_hFT1-2,Percent Coverage_hFT1-3,Percentage of Total Spectra_hFT1-1,Percentage of Total Spectra_hFT1-2,Percentage of Total Spectra_hFT1-3
+von Willebrand factor OS=Homo sapiens OX=9606 GN=VWF PE=1 SV=4,VWF,309 kDa,,7,6,7,7,6,7,5,5,5,5,5,5,5,5,4,5,5,4,100%,100%,100%,2.45%,2.74%,2.03%,0.01%,0.01%,0.01%
+von Willebrand factor A domain-containing protein 1 OS=Homo sapiens OX=9606 GN=VWA1 PE=1 SV=1,VWA1,47 kDa,,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,100%,99%,0,7.19%,3.60%,0,0.00%,0.00%,0
+rRNA 2'-O-methyltransferase fibrillarin OS=Homo sapiens OX=9606 GN=FBL PE=1 SV=2,FBL,34 kDa,,3,2,2,3,2,2,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,99%,9.35%,3.43%,3.43%,0.00%,0.00%,0.00%
+cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Homo sapiens OX=9606 GN=PRKAR1A PE=1 SV=1,PRKAR1A,43 kDa,TRUE,5,4,2,5,4,2,3,3,2,3,3,2,2,2,2,2,2,2,100%,100%,100%,7.35%,7.35%,7.35%,0.01%,0.01%,0.00%
+Zyxin OS=Homo sapiens OX=9606 GN=ZYX PE=1 SV=1,ZYX,61 kDa,,23,20,23,23,20,23,13,12,9,13,12,9,10,8,8,10,8,8,100%,100%,100%,27.30%,22.00%,22.00%,0.03%,0.03%,0.04%
+Zinc finger protein 438 OS=Homo sapiens OX=9606 GN=ZNF438 PE=1 SV=1,ZNF438,92 kDa,,6,2,4,6,2,4,1,1,2,1,1,2,1,1,2,1,1,2,99%,98%,100%,1.57%,1.57%,3.14%,0.01%,0.00%,0.01%
+Y-box-binding protein 3 OS=Homo sapiens OX=9606 GN=YBX3 PE=1 SV=4,YBX3,40 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7%,0,0,0.00%,0,0,0.00%,0,0
+X-ray repair cross-complementing protein 6 OS=Homo sapiens OX=9606 GN=XRCC6 PE=1 SV=2,XRCC6,70 kDa,,13,3,6,13,3,6,9,3,5,9,3,5,7,3,5,7,3,5,100%,100%,100%,13.60%,6.24%,8.70%,0.02%,0.00%,0.01%
+X-ray repair cross-complementing protein 5 OS=Homo sapiens OX=9606 GN=XRCC5 PE=1 SV=3,XRCC5,83 kDa,,8,4,4,8,4,4,4,1,1,4,1,1,4,1,1,4,1,1,100%,99%,99%,8.20%,1.23%,1.23%,0.01%,0.01%,0.01%
+Wiskott-Aldrich syndrome protein family member 2 OS=Homo sapiens OX=9606 GN=WASF2 PE=1 SV=3,WASF2,54 kDa,,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,97%,6.43%,5.22%,2.61%,0.00%,0.00%,0.00%
+WD repeat-containing protein 1 OS=Homo sapiens OX=9606 GN=WDR1 PE=1 SV=4,WDR1,66 kDa,,32,19,25,32,19,25,16,11,14,16,11,14,12,7,9,12,7,9,100%,100%,100%,29.50%,14.90%,21.60%,0.05%,0.03%,0.04%
+Voltage-dependent anion-selective channel protein 2 OS=Homo sapiens OX=9606 GN=VDAC2 PE=1 SV=2,VDAC2,32 kDa,,9,4,5,9,4,5,6,3,3,6,3,3,5,3,3,5,3,3,100%,100%,100%,26.90%,12.20%,14.30%,0.01%,0.01%,0.01%
+Voltage-dependent anion-selective channel protein 1 OS=Homo sapiens OX=9606 GN=VDAC1 PE=1 SV=2,VDAC1,31 kDa,,3,1,1,3,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,98%,98%,7.07%,4.24%,4.24%,0.00%,0.00%,0.00%
+Vitronectin OS=Homo sapiens OX=9606 GN=VTN PE=1 SV=1,VTN,54 kDa,,28,20,20,28,20,20,10,9,11,10,9,11,8,7,7,8,7,7,100%,100%,100%,22.40%,19.20%,20.70%,0.04%,0.03%,0.03%
+Vitamin D-binding protein OS=Homo sapiens OX=9606 GN=GC PE=1 SV=2,GC,53 kDa,,7,8,7,7,8,7,7,5,7,7,5,7,2,3,4,2,3,4,100%,100%,100%,8.02%,12.70%,17.30%,0.01%,0.01%,0.01%
+Vinexin OS=Homo sapiens OX=9606 GN=SORBS3 PE=1 SV=2,SORBS3,75 kDa,,3,2,2,3,2,2,2,2,2,2,2,2,1,2,2,1,2,2,99%,100%,100%,1.94%,3.87%,3.87%,0.00%,0.00%,0.00%
+Vinculin OS=Homo sapiens OX=9606 GN=VCL PE=1 SV=4,VCL,124 kDa,,125,109,114,125,109,114,62,49,54,62,49,54,38,33,32,38,33,32,100%,100%,100%,40.70%,37.30%,36.20%,0.18%,0.17%,0.18%
+Vimentin OS=Homo sapiens OX=9606 GN=VIM PE=1 SV=4,VIM,54 kDa,TRUE,554,440,455,473,378,394,127,100,107,114,89,98,40,40,40,35,35,35,100%,100%,100%,70.20%,70.20%,69.70%,0.81%,0.68%,0.72%
+Vigilin OS=Homo sapiens OX=9606 GN=HDLBP PE=1 SV=2,HDLBP,141 kDa,,3,0,1,3,0,1,3,0,1,3,0,1,3,0,1,3,0,1,100%,98%,98%,2.84%,0.00%,0.79%,0.00%,0.00%,0.00%
+Vesicle-fusing ATPase OS=Homo sapiens OX=9606 GN=NSF PE=1 SV=3,NSF,83 kDa,,1,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,2,0,99%,100%,54%,1.75%,3.23%,0.00%,0.00%,0.00%,0.00%
+Versican core protein OS=Homo sapiens OX=9606 GN=VCAN PE=1 SV=3,VCAN,373 kDa,,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,98%,0.59%,0.24%,0.24%,0.00%,0.00%,0.00%
+Vasodilator-stimulated phosphoprotein OS=Homo sapiens OX=9606 GN=VASP PE=1 SV=3,VASP,40 kDa,,4,2,2,4,2,2,2,1,1,2,1,1,2,1,1,2,1,1,100%,100%,99%,6.84%,3.42%,3.42%,0.01%,0.00%,0.00%
+Valine--tRNA ligase OS=Homo sapiens OX=9606 GN=VARS PE=1 SV=4,VARS,140 kDa,,3,1,3,3,1,3,3,1,2,3,1,2,3,1,2,3,1,2,100%,100%,100%,3.40%,1.19%,2.45%,0.00%,0.00%,0.00%
+Vacuolar protein sorting-associated protein 35 OS=Homo sapiens OX=9606 GN=VPS35 PE=1 SV=2,VPS35,92 kDa,,5,3,3,5,3,3,3,2,2,3,2,2,3,2,2,3,2,2,100%,100%,100%,4.52%,3.14%,3.14%,0.01%,0.00%,0.00%
+"V-type proton ATPase subunit B, brain isoform OS=Homo sapiens OX=9606 GN=ATP6V1B2 PE=1 SV=3",ATP6V1B2,57 kDa,,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,100%,0,94%,5.68%,0,2.74%,0.00%,0,0.00%
+Utrophin OS=Homo sapiens OX=9606 GN=UTRN PE=1 SV=2,UTRN,394 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,99%,20%,0.82%,0.00%,0.00%,0.00%,0.00%,0.00%
+Unconventional myosin-Ic OS=Homo sapiens OX=9606 GN=MYO1C PE=1 SV=4,MYO1C,122 kDa,,36,27,33,36,27,33,15,10,12,15,10,12,11,8,10,11,8,10,100%,100%,100%,13.50%,9.97%,12.60%,0.05%,0.04%,0.05%
+Uncharacterized protein C1orf198 OS=Homo sapiens OX=9606 GN=C1orf198 PE=1 SV=1,C1orf198,36 kDa,,3,3,2,3,3,2,3,3,1,3,3,1,3,3,1,3,3,1,100%,100%,99%,14.10%,14.10%,5.81%,0.00%,0.00%,0.00%
+Ubiquitin-like modifier-activating enzyme 1 OS=Homo sapiens OX=9606 GN=UBA1 PE=1 SV=3,UBA1,118 kDa,,32,23,22,32,23,22,14,14,13,14,14,13,12,11,10,12,11,10,100%,100%,100%,16.80%,15.50%,13.30%,0.05%,0.04%,0.04%
+Ubiquitin-conjugating enzyme E2 N OS=Homo sapiens OX=9606 GN=UBE2N PE=1 SV=1,UBE2N,17 kDa,,0,2,2,0,2,2,0,2,2,0,2,2,0,2,2,0,2,2,67%,100%,100%,0.00%,12.50%,12.50%,0.00%,0.00%,0.00%
+Ubiquitin-60S ribosomal protein L40 OS=Homo sapiens OX=9606 GN=UBA52 PE=1 SV=2,UBA52,15 kDa,TRUE,32,31,30,0,0,0,9,9,8,0,0,0,5,6,5,0,0,0,23%,27%,43%,41.40%,41.40%,41.40%,0.05%,0.05%,0.05%
+Ubiquitin carboxyl-terminal hydrolase isozyme L1 OS=Homo sapiens OX=9606 GN=UCHL1 PE=1 SV=2,UCHL1,25 kDa,,6,6,6,6,6,6,4,4,3,4,4,3,4,3,3,4,3,3,100%,100%,100%,26.00%,22.40%,16.10%,0.01%,0.01%,0.01%
+UV excision repair protein RAD23 homolog B OS=Homo sapiens OX=9606 GN=RAD23B PE=1 SV=1,RAD23B,43 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,0,0,11.50%,0,0,0.00%,0,0
+UTP--glucose-1-phosphate uridylyltransferase OS=Homo sapiens OX=9606 GN=UGP2 PE=1 SV=5,UGP2,57 kDa,,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,4.13%,4.13%,4.13%,0.00%,0.00%,0.00%
+UDP-glucose 6-dehydrogenase OS=Homo sapiens OX=9606 GN=UGDH PE=1 SV=1,UGDH,55 kDa,,5,3,2,5,3,2,3,3,2,3,3,2,3,3,2,3,3,2,100%,100%,100%,8.10%,8.10%,4.66%,0.01%,0.00%,0.00%
+Tubulointerstitial nephritis antigen-like OS=Homo sapiens OX=9606 GN=TINAGL1 PE=1 SV=1,TINAGL1,52 kDa,,4,2,2,4,2,2,3,1,2,3,1,2,2,1,2,2,1,2,100%,100%,100%,7.92%,2.78%,7.92%,0.01%,0.00%,0.00%
+Tubulin beta-6 chain OS=Homo sapiens OX=9606 GN=TUBB6 PE=1 SV=1,TUBB6,50 kDa,TRUE,21,14,15,2,1,3,8,6,7,2,1,2,6,5,6,2,1,2,100%,100%,100%,17.00%,13.70%,16.40%,0.03%,0.02%,0.02%
+Tubulin alpha-1B chain OS=Homo sapiens OX=9606 GN=TUBA1B PE=1 SV=1,TUBA1B,50 kDa,TRUE,106,83,75,0,1,0,23,18,17,0,1,0,9,8,7,0,1,0,100%,100%,100%,29.50%,25.10%,22.20%,0.16%,0.13%,0.12%
+Tropomyosin beta chain OS=Homo sapiens OX=9606 GN=TPM2 PE=1 SV=1,TPM2,33 kDa,TRUE,105,107,106,33,29,33,44,36,33,17,12,12,22,20,18,8,7,6,100%,100%,100%,57.40%,56.00%,46.50%,0.15%,0.17%,0.17%
+Tropomyosin alpha-4 chain OS=Homo sapiens OX=9606 GN=TPM4 PE=1 SV=3,TPM4,29 kDa,TRUE,61,54,51,17,14,11,25,20,16,13,10,8,17,15,13,9,8,7,100%,100%,100%,61.70%,60.10%,45.60%,0.09%,0.08%,0.08%
+Tropomodulin-3 OS=Homo sapiens OX=9606 GN=TMOD3 PE=1 SV=1,TMOD3,40 kDa,TRUE,2,1,2,1,0,1,2,1,2,1,0,1,2,1,2,1,0,1,99%,39%,100%,5.40%,2.27%,5.40%,0.00%,0.00%,0.00%
+Tropomodulin-1 OS=Homo sapiens OX=9606 GN=TMOD1 PE=1 SV=1,TMOD1,41 kDa,TRUE,2,2,1,1,1,0,2,2,1,1,1,0,2,2,1,1,1,0,97%,100%,45%,5.29%,5.29%,2.23%,0.00%,0.00%,0.00%
+Triosephosphate isomerase OS=Homo sapiens OX=9606 GN=TPI1 PE=1 SV=3,TPI1,31 kDa,,36,29,26,36,29,26,15,13,11,15,13,11,9,8,7,9,8,7,100%,100%,100%,44.10%,40.60%,35.00%,0.05%,0.05%,0.04%
+"Trifunctional enzyme subunit alpha, mitochondrial OS=Homo sapiens OX=9606 GN=HADHA PE=1 SV=2",HADHA,83 kDa,,6,1,3,6,1,3,4,1,2,4,1,2,4,1,2,4,1,2,100%,99%,100%,10.40%,2.75%,4.33%,0.01%,0.00%,0.00%
+Transmembrane protein 43 OS=Homo sapiens OX=9606 GN=TMEM43 PE=1 SV=1,TMEM43,45 kDa,,3,0,0,3,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,0,77%,6.75%,0,0.00%,0.00%,0,0.00%
+Transketolase OS=Homo sapiens OX=9606 GN=TKT PE=1 SV=3,TKT,68 kDa,,27,21,19,27,21,19,12,9,9,12,9,9,8,6,6,8,6,6,100%,100%,100%,20.70%,14.90%,14.90%,0.04%,0.03%,0.03%
+Transitional endoplasmic reticulum ATPase OS=Homo sapiens OX=9606 GN=VCP PE=1 SV=4,VCP,89 kDa,,32,20,18,32,20,18,16,12,11,16,12,11,11,9,10,11,9,10,100%,100%,100%,18.50%,16.30%,18.60%,0.05%,0.03%,0.03%
+Transgelin-2 OS=Homo sapiens OX=9606 GN=TAGLN2 PE=1 SV=3,TAGLN2,22 kDa,,7,2,3,7,2,3,5,2,3,5,2,3,4,2,3,4,2,3,100%,100%,100%,25.60%,11.60%,18.60%,0.01%,0.00%,0.00%
+Transgelin OS=Homo sapiens OX=9606 GN=TAGLN PE=1 SV=4,TAGLN,23 kDa,,61,55,52,61,55,52,20,19,19,20,19,19,10,10,10,10,10,10,100%,100%,100%,48.30%,48.30%,48.30%,0.09%,0.09%,0.08%
+Transforming growth factor-beta-induced protein ig-h3 OS=Homo sapiens OX=9606 GN=TGFBI PE=1 SV=1,TGFBI,75 kDa,,11,4,4,11,4,4,10,4,4,10,4,4,7,3,3,7,3,3,100%,100%,100%,16.00%,5.71%,5.71%,0.02%,0.01%,0.01%
+Transforming growth factor beta-1-induced transcript 1 protein OS=Homo sapiens OX=9606 GN=TGFB1I1 PE=1 SV=2,TGFB1I1,50 kDa,,7,5,4,7,5,4,5,4,4,5,4,4,3,3,3,3,3,3,100%,100%,100%,10.40%,10.40%,10.40%,0.01%,0.01%,0.01%
+Transcription intermediary factor 1-beta OS=Homo sapiens OX=9606 GN=TRIM28 PE=1 SV=5,TRIM28,89 kDa,,3,2,0,3,2,0,2,1,0,2,1,0,2,1,0,2,1,0,100%,98%,66%,6.83%,1.80%,0.00%,0.00%,0.00%,0.00%
+Transaldolase OS=Homo sapiens OX=9606 GN=TALDO1 PE=1 SV=2,TALDO1,38 kDa,,9,8,8,9,8,8,3,3,5,3,3,5,3,3,3,3,3,3,100%,100%,100%,9.50%,9.50%,9.50%,0.01%,0.01%,0.01%
+Torsin-1A-interacting protein 1 OS=Homo sapiens OX=9606 GN=TOR1AIP1 PE=1 SV=2,TOR1AIP1,66 kDa,,2,3,1,2,3,1,1,2,1,1,2,1,1,2,1,1,2,1,100%,100%,100%,2.40%,4.46%,2.40%,0.00%,0.00%,0.00%
+Titin OS=Homo sapiens OX=9606 GN=TTN PE=1 SV=4,TTN,3816 kDa,,1,4,1,1,4,1,1,3,1,1,3,1,1,3,1,1,3,1,100%,100%,100%,0.03%,0.09%,0.03%,0.00%,0.01%,0.00%
+Thrombospondin-2 OS=Homo sapiens OX=9606 GN=THBS2 PE=1 SV=2,THBS2,130 kDa,TRUE,2,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,22%,0,0,1.19%,0,0,0.00%,0,0
+Thioredoxin domain-containing protein 17 OS=Homo sapiens OX=9606 GN=TXNDC17 PE=1 SV=1,TXNDC17,14 kDa,,1,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,2,0,99%,100%,0,7.32%,18.70%,0,0.00%,0.00%,0
+Thioredoxin domain-containing protein 5 OS=Homo sapiens OX=9606 GN=TXNDC5 PE=1 SV=2,TXNDC5,48 kDa,,11,9,9,11,9,9,8,7,7,8,7,7,7,5,5,7,5,5,100%,100%,100%,17.60%,11.10%,10.90%,0.02%,0.01%,0.01%
+Thioredoxin OS=Homo sapiens OX=9606 GN=TXN PE=1 SV=3,TXN,12 kDa,,4,4,4,4,4,4,2,2,2,2,2,2,1,2,2,1,2,2,100%,100%,100%,10.50%,22.90%,22.90%,0.01%,0.01%,0.01%
+Testin OS=Homo sapiens OX=9606 GN=TES PE=1 SV=1,TES,48 kDa,,3,0,0,3,0,0,3,0,0,3,0,0,2,0,0,2,0,0,100%,31%,0,7.84%,0.00%,0,0.00%,0.00%,0
+Tensin-3 OS=Homo sapiens OX=9606 GN=TNS3 PE=1 SV=2,TNS3,155 kDa,TRUE,2,1,2,0,0,0,2,1,2,0,0,0,1,1,1,0,0,0,14%,20%,9%,0.90%,0.90%,0.90%,0.00%,0.00%,0.00%
+Tenascin-X OS=Homo sapiens OX=9606 GN=TNXB PE=1 SV=5,TNXB,458 kDa,,91,64,67,91,64,67,64,43,47,64,43,47,47,34,36,47,34,36,100%,100%,100%,15.60%,12.30%,12.30%,0.13%,0.10%,0.11%
+Tenascin OS=Homo sapiens OX=9606 GN=TNC PE=1 SV=3,TNC,241 kDa,,7,4,5,7,4,5,7,3,4,7,3,4,6,3,4,6,3,4,100%,100%,100%,4.32%,2.32%,3.13%,0.01%,0.01%,0.01%
+Talin-2 OS=Homo sapiens OX=9606 GN=TLN2 PE=1 SV=4,TLN2,272 kDa,TRUE,20,16,14,5,4,2,11,11,8,2,3,2,8,6,6,2,1,1,100%,100%,98%,4.56%,3.54%,3.54%,0.03%,0.03%,0.02%
+TRIO and F-actin-binding protein OS=Homo sapiens OX=9606 GN=TRIOBP PE=1 SV=3,TRIOBP,261 kDa,,3,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,53%,87%,1.35%,0.00%,0.00%,0.00%,0.00%,0.00%
+TATA-binding protein-associated factor 2N OS=Homo sapiens OX=9606 GN=TAF15 PE=1 SV=1,TAF15,62 kDa,TRUE,7,3,5,3,0,1,2,2,3,1,0,1,2,2,3,1,0,1,100%,71%,100%,7.26%,3.89%,9.63%,0.01%,0.00%,0.01%
+TAR DNA-binding protein 43 OS=Homo sapiens OX=9606 GN=TARDBP PE=1 SV=1,TARDBP,45 kDa,,6,2,2,6,2,2,6,2,2,6,2,2,3,2,1,3,2,1,100%,100%,99%,15.90%,13.00%,8.70%,0.01%,0.00%,0.00%
+T-complex protein 1 subunit zeta OS=Homo sapiens OX=9606 GN=CCT6A PE=1 SV=3,CCT6A,58 kDa,,8,6,5,8,6,5,4,4,3,4,4,3,4,4,3,4,4,3,100%,100%,100%,12.40%,9.42%,7.72%,0.01%,0.01%,0.01%
+T-complex protein 1 subunit theta OS=Homo sapiens OX=9606 GN=CCT8 PE=1 SV=4,CCT8,60 kDa,,10,9,9,10,9,9,8,6,6,8,6,6,8,6,6,8,6,6,100%,100%,100%,19.30%,13.30%,13.30%,0.02%,0.01%,0.01%
+T-complex protein 1 subunit gamma OS=Homo sapiens OX=9606 GN=CCT3 PE=1 SV=4,CCT3,61 kDa,,6,7,5,6,7,5,4,4,3,4,4,3,4,4,3,4,4,3,100%,100%,100%,8.99%,8.99%,6.42%,0.01%,0.01%,0.01%
+T-complex protein 1 subunit eta OS=Homo sapiens OX=9606 GN=CCT7 PE=1 SV=2,CCT7,59 kDa,,10,4,3,10,4,3,7,4,2,7,4,2,5,3,2,5,3,2,100%,100%,100%,13.60%,9.58%,6.63%,0.02%,0.01%,0.00%
+T-complex protein 1 subunit epsilon OS=Homo sapiens OX=9606 GN=CCT5 PE=1 SV=1,CCT5,60 kDa,,2,3,3,2,3,3,1,2,2,1,2,2,1,2,1,1,2,1,99%,100%,94%,2.59%,4.07%,2.59%,0.00%,0.00%,0.00%
+T-complex protein 1 subunit delta OS=Homo sapiens OX=9606 GN=CCT4 PE=1 SV=4,CCT4,58 kDa,,4,2,1,4,2,1,3,2,1,3,2,1,2,2,1,2,2,1,100%,100%,100%,7.79%,7.79%,2.41%,0.01%,0.00%,0.00%
+T-complex protein 1 subunit alpha OS=Homo sapiens OX=9606 GN=TCP1 PE=1 SV=1,TCP1,60 kDa,,8,7,5,8,7,5,6,6,4,6,6,4,6,4,3,6,4,3,100%,100%,100%,13.30%,7.37%,5.58%,0.01%,0.01%,0.01%
+Synaptopodin-2 OS=Homo sapiens OX=9606 GN=SYNPO2 PE=1 SV=2,SYNPO2,118 kDa,,46,37,33,46,37,33,31,21,20,31,21,20,19,18,16,19,18,16,100%,100%,100%,26.10%,24.70%,23.40%,0.07%,0.06%,0.05%
+Synaptopodin OS=Homo sapiens OX=9606 GN=SYNPO PE=1 SV=2,SYNPO,99 kDa,,3,6,2,3,6,2,3,4,2,3,4,2,2,4,2,2,4,2,100%,100%,100%,3.44%,8.07%,3.44%,0.00%,0.01%,0.00%
+Synaptic vesicle membrane protein VAT-1 homolog OS=Homo sapiens OX=9606 GN=VAT1 PE=1 SV=2,VAT1,42 kDa,,16,9,8,16,9,8,10,7,6,10,7,6,7,4,6,7,4,6,100%,100%,100%,24.70%,13.20%,21.10%,0.02%,0.01%,0.01%
+Supervillin OS=Homo sapiens OX=9606 GN=SVIL PE=1 SV=2,SVIL,248 kDa,,0,2,2,0,2,2,0,2,2,0,2,2,0,2,2,0,2,2,98%,100%,100%,0.00%,1.54%,1.54%,0.00%,0.00%,0.00%
+Superoxide dismutase [Cu-Zn] OS=Homo sapiens OX=9606 GN=SOD1 PE=1 SV=2,SOD1,16 kDa,,3,2,0,3,2,0,2,2,0,2,2,0,2,2,0,2,2,0,100%,100%,97%,15.60%,15.60%,0.00%,0.00%,0.00%,0.00%
+Stress-induced-phosphoprotein 1 OS=Homo sapiens OX=9606 GN=STIP1 PE=1 SV=1,STIP1,63 kDa,,4,4,3,4,4,3,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,100%,4.97%,4.97%,2.39%,0.01%,0.01%,0.00%
+"Stress-70 protein, mitochondrial OS=Homo sapiens OX=9606 GN=HSPA9 PE=1 SV=2",HSPA9,74 kDa,,11,7,7,11,7,7,10,6,6,10,6,6,8,6,5,8,6,5,100%,100%,100%,14.00%,11.20%,9.57%,0.02%,0.01%,0.01%
+Stathmin-2 OS=Homo sapiens OX=9606 GN=STMN2 PE=1 SV=3,STMN2,21 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Staphylococcal nuclease domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SND1 PE=1 SV=1,SND1,102 kDa,,8,0,1,8,0,1,8,0,1,8,0,1,6,0,1,6,0,1,100%,25%,100%,8.02%,0.00%,1.43%,0.01%,0.00%,0.00%
+Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,CTTN,62 kDa,,10,3,6,10,3,6,9,2,5,9,2,5,5,2,4,5,2,4,100%,100%,100%,14.50%,8.91%,16.20%,0.02%,0.00%,0.01%
+Spondin-1 OS=Homo sapiens OX=9606 GN=SPON1 PE=1 SV=2,SPON1,91 kDa,,4,2,4,4,2,4,3,2,4,3,2,4,3,2,3,3,2,3,100%,100%,100%,4.96%,3.59%,4.96%,0.01%,0.00%,0.01%
+"Splicing factor, proline- and glutamine-rich OS=Homo sapiens OX=9606 GN=SFPQ PE=1 SV=2",SFPQ,76 kDa,,8,6,4,8,6,4,6,4,3,6,4,3,4,3,3,4,3,3,100%,100%,100%,6.93%,5.23%,5.23%,0.01%,0.01%,0.01%
+Splicing factor 3B subunit 3 OS=Homo sapiens OX=9606 GN=SF3B3 PE=1 SV=4,SF3B3,136 kDa,,3,2,2,3,2,2,3,1,1,3,1,1,3,1,1,3,1,1,100%,99%,99%,3.04%,0.99%,0.99%,0.00%,0.00%,0.00%
+Spliceosome RNA helicase DDX39B OS=Homo sapiens OX=9606 GN=DDX39B PE=1 SV=1,DDX39B,49 kDa,TRUE,2,2,3,1,1,3,2,2,2,1,1,2,2,2,1,1,1,1,100%,100%,99%,6.07%,6.07%,2.80%,0.00%,0.00%,0.00%
+"Spectrin beta chain, non-erythrocytic 2 OS=Homo sapiens OX=9606 GN=SPTBN2 PE=1 SV=3",SPTBN2,271 kDa,TRUE,4,2,2,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,15%,22%,13%,0.42%,0.42%,0.42%,0.01%,0.00%,0.00%
+"Spectrin beta chain, erythrocytic OS=Homo sapiens OX=9606 GN=SPTB PE=1 SV=5",SPTB,246 kDa,TRUE,3,2,3,3,2,3,3,2,3,3,2,3,3,2,3,3,2,3,100%,100%,100%,2.06%,1.12%,2.06%,0.00%,0.00%,0.00%
+"Spectrin alpha chain, non-erythrocytic 1 OS=Homo sapiens OX=9606 GN=SPTAN1 PE=1 SV=3",SPTAN1,285 kDa,,87,67,65,87,67,65,60,39,40,60,39,40,45,30,32,45,30,32,100%,100%,100%,22.90%,16.00%,17.00%,0.13%,0.10%,0.10%
+Sorbin and SH3 domain-containing protein 2 OS=Homo sapiens OX=9606 GN=SORBS2 PE=1 SV=3,SORBS2,124 kDa,TRUE,27,19,20,26,19,20,14,7,9,13,7,9,12,7,8,11,7,8,100%,100%,100%,14.80%,10.30%,11.30%,0.04%,0.03%,0.03%
+Sorbin and SH3 domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SORBS1 PE=1 SV=3,SORBS1,143 kDa,TRUE,12,11,12,11,11,12,10,6,7,9,6,7,7,5,7,6,5,7,100%,100%,100%,7.20%,5.26%,7.89%,0.02%,0.02%,0.02%
+Somatomedin-B and thrombospondin type-1 domain-containing protein OS=Homo sapiens OX=9606 GN=SBSPON PE=1 SV=2,SBSPON,30 kDa,,3,2,4,3,2,4,3,2,4,3,2,4,3,2,3,3,2,3,100%,100%,100%,20.50%,15.90%,20.50%,0.00%,0.00%,0.01%
+Sodium/potassium-transporting ATPase subunit alpha-3 OS=Homo sapiens OX=9606 GN=ATP1A3 PE=1 SV=3,ATP1A3,112 kDa,TRUE,0,0,7,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,8%,0,0,7.31%,0,0,0.01%
+Sialic acid synthase OS=Homo sapiens OX=9606 GN=NANS PE=1 SV=2,NANS,40 kDa,,4,3,2,4,3,2,3,2,2,3,2,2,2,2,2,2,2,2,100%,100%,100%,8.91%,8.91%,8.91%,0.01%,0.00%,0.00%
+Serum amyloid P-component OS=Homo sapiens OX=9606 GN=APCS PE=1 SV=2,APCS,25 kDa,,7,3,3,7,3,3,6,3,2,6,3,2,5,3,2,5,3,2,100%,100%,100%,28.30%,17.00%,12.60%,0.01%,0.00%,0.00%
+Serum albumin OS=Homo sapiens OX=9606 GN=ALB PE=1 SV=2,ALB,69 kDa,,945,932,945,945,932,945,112,93,97,112,93,97,46,40,41,46,40,41,100%,100%,100%,62.20%,57.80%,58.90%,1.40%,1.40%,1.50%
+Serpin H1 OS=Homo sapiens OX=9606 GN=SERPINH1 PE=1 SV=2,SERPINH1,46 kDa,,27,20,19,27,20,19,12,7,10,12,7,10,7,6,6,7,6,6,100%,100%,100%,20.30%,20.10%,20.10%,0.04%,0.03%,0.03%
+Serpin B6 OS=Homo sapiens OX=9606 GN=SERPINB6 PE=1 SV=3,SERPINB6,43 kDa,,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,7.18%,7.18%,7.18%,0.00%,0.00%,0.00%
+Serotransferrin OS=Homo sapiens OX=9606 GN=TF PE=1 SV=3,TF,77 kDa,,72,68,66,72,68,66,35,32,30,35,32,30,26,22,22,26,22,22,100%,100%,100%,42.10%,35.10%,34.40%,0.11%,0.11%,0.10%
+Serine/threonine-protein phosphatase PP1-beta catalytic subunit OS=Homo sapiens OX=9606 GN=PPP1CB PE=1 SV=3,PPP1CB,37 kDa,TRUE,4,1,0,2,1,0,2,1,0,1,1,0,2,1,0,1,1,0,100%,97%,69%,10.40%,4.89%,0.00%,0.01%,0.00%,0.00%
+Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform OS=Homo sapiens OX=9606 GN=PPP2R1A PE=1 SV=4,PPP2R1A,65 kDa,,4,1,2,4,1,2,3,1,1,3,1,1,2,1,1,2,1,1,100%,99%,99%,5.60%,2.21%,2.21%,0.01%,0.00%,0.00%
+Serine/threonine-protein kinase Nek9 OS=Homo sapiens OX=9606 GN=NEK9 PE=1 SV=2,NEK9,107 kDa,,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,99%,27%,100%,1.94%,0.00%,3.27%,0.00%,0.00%,0.00%
+Serine/arginine-rich splicing factor 7 OS=Homo sapiens OX=9606 GN=SRSF7 PE=1 SV=1,SRSF7,27 kDa,,3,1,1,3,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,98%,10.90%,7.14%,7.14%,0.00%,0.00%,0.00%
+Serine/arginine-rich splicing factor 3 OS=Homo sapiens OX=9606 GN=SRSF3 PE=1 SV=1,SRSF3,19 kDa,,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,15.90%,15.90%,15.90%,0.00%,0.00%,0.00%
+Serine/arginine-rich splicing factor 1 OS=Homo sapiens OX=9606 GN=SRSF1 PE=1 SV=2,SRSF1,28 kDa,,11,11,8,11,11,8,6,6,4,6,6,4,5,5,4,5,5,4,100%,100%,100%,23.00%,23.00%,18.10%,0.02%,0.02%,0.01%
+Septin-11 OS=Homo sapiens OX=9606 GN=SEPTIN11 PE=1 SV=3,SEPTIN11,49 kDa,TRUE,13,9,9,6,3,3,6,4,4,5,3,3,5,4,4,4,3,3,100%,100%,100%,14.00%,11.70%,11.70%,0.02%,0.01%,0.01%
+Septin-10 OS=Homo sapiens OX=9606 GN=SEPTIN10 PE=1 SV=2,SEPTIN10,53 kDa,,3,3,5,3,3,5,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,5.07%,5.07%,5.07%,0.00%,0.00%,0.01%
+Septin-9 OS=Homo sapiens OX=9606 GN=SEPTIN9 PE=1 SV=2,SEPTIN9,65 kDa,,8,4,6,8,4,6,7,4,4,7,4,4,6,4,4,6,4,4,100%,100%,100%,12.60%,9.39%,10.20%,0.01%,0.01%,0.01%
+Septin-14 OS=Homo sapiens OX=9606 GN=SEPTIN14 PE=1 SV=2,SEPTIN14,50 kDa,TRUE,7,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,18%,0,0,2.08%,0,0,0.01%,0,0
+Septin-2 OS=Homo sapiens OX=9606 GN=SEPTIN2 PE=1 SV=1,SEPTIN2,41 kDa,,24,21,17,24,21,17,10,8,8,10,8,8,5,5,5,5,5,5,100%,100%,100%,21.90%,21.90%,21.90%,0.04%,0.03%,0.03%
+Secreted frizzled-related protein 1 OS=Homo sapiens OX=9606 GN=SFRP1 PE=1 SV=1,SFRP1,35 kDa,,2,2,3,2,2,3,2,1,1,2,1,1,2,1,1,2,1,1,100%,100%,100%,8.92%,5.10%,5.10%,0.00%,0.00%,0.00%
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 3 OS=Homo sapiens OX=9606 GN=ATP2A3 PE=1 SV=2,ATP2A3,114 kDa,TRUE,0,2,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,11%,0,0,3.16%,0,0,0.00%,0
+Sarcolemmal membrane-associated protein OS=Homo sapiens OX=9606 GN=SLMAP PE=1 SV=1,SLMAP,95 kDa,,6,6,2,6,6,2,5,5,2,5,5,2,4,4,2,4,4,2,100%,100%,100%,5.43%,5.43%,2.66%,0.01%,0.01%,0.00%
+SH3 and PX domain-containing protein 2A OS=Homo sapiens OX=9606 GN=SH3PXD2A PE=1 SV=1,SH3PXD2A,125 kDa,TRUE,3,1,2,2,1,2,2,1,1,1,1,1,2,1,1,1,1,1,94%,96%,92%,1.50%,0.79%,0.79%,0.00%,0.00%,0.00%
+RuvB-like 2 OS=Homo sapiens OX=9606 GN=RUVBL2 PE=1 SV=3,RUVBL2,51 kDa,,3,3,2,3,3,2,2,2,1,2,2,1,1,2,1,1,2,1,100%,100%,100%,2.38%,4.10%,2.38%,0.00%,0.00%,0.00%
+RuvB-like 1 OS=Homo sapiens OX=9606 GN=RUVBL1 PE=1 SV=1,RUVBL1,50 kDa,,4,1,0,4,1,0,3,1,0,3,1,0,3,1,0,3,1,0,100%,99%,0,7.89%,2.41%,0,0.01%,0.00%,0
+Ribosome-binding protein 1 OS=Homo sapiens OX=9606 GN=RRBP1 PE=1 SV=5,RRBP1,152 kDa,,13,10,11,13,10,11,11,7,9,11,7,9,10,7,8,10,7,8,100%,100%,100%,10.90%,8.16%,8.94%,0.02%,0.02%,0.02%
+Ribose-phosphate pyrophosphokinase 2 OS=Homo sapiens OX=9606 GN=PRPS2 PE=1 SV=2,PRPS2,35 kDa,,3,2,2,3,2,2,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,99%,10.10%,3.77%,3.77%,0.00%,0.00%,0.00%
+Ribonuclease inhibitor OS=Homo sapiens OX=9606 GN=RNH1 PE=1 SV=2,RNH1,50 kDa,,33,29,26,33,29,26,18,14,14,18,14,14,11,8,9,11,8,9,100%,100%,100%,38.60%,25.40%,30.20%,0.05%,0.05%,0.04%
+Rho-related GTP-binding protein RhoG OS=Homo sapiens OX=9606 GN=RHOG PE=1 SV=1,RHOG,21 kDa,TRUE,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,1,2,2,100%,100%,100%,9.95%,16.80%,16.80%,0.00%,0.00%,0.00%
+Transforming protein RhoA OS=Homo sapiens OX=9606 GN=RHOA PE=1 SV=1,RHOA,22 kDa,TRUE,5,4,3,1,1,1,4,3,2,1,1,1,3,2,2,1,1,1,100%,100%,100%,20.70%,15.00%,15.00%,0.01%,0.01%,0.00%
+Rho-associated protein kinase 2 OS=Homo sapiens OX=9606 GN=ROCK2 PE=1 SV=4,ROCK2,161 kDa,TRUE,2,0,0,1,0,0,2,0,0,1,0,0,2,0,0,1,0,0,100%,62%,14%,1.73%,0.00%,0.00%,0.00%,0.00%,0.00%
+Rho GTPase-activating protein 1 OS=Homo sapiens OX=9606 GN=ARHGAP1 PE=1 SV=1,ARHGAP1,50 kDa,,4,4,3,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,4.56%,4.56%,4.56%,0.01%,0.01%,0.00%
+Rho GDP-dissociation inhibitor 1 OS=Homo sapiens OX=9606 GN=ARHGDIA PE=1 SV=3,ARHGDIA,23 kDa,,8,8,4,8,8,4,7,4,3,7,4,3,4,3,2,4,3,2,100%,100%,100%,22.50%,15.70%,15.70%,0.01%,0.01%,0.01%
+Retinal dehydrogenase 1 OS=Homo sapiens OX=9606 GN=ALDH1A1 PE=1 SV=2,ALDH1A1,55 kDa,TRUE,8,5,7,6,5,7,6,3,3,5,3,3,5,3,3,4,3,3,100%,100%,100%,11.60%,7.58%,7.58%,0.01%,0.01%,0.01%
+Reticulon-4 OS=Homo sapiens OX=9606 GN=RTN4 PE=1 SV=2,RTN4,130 kDa,,9,4,4,9,4,4,4,2,2,4,2,2,2,2,2,2,2,2,100%,100%,100%,3.94%,3.94%,3.94%,0.01%,0.01%,0.01%
+Receptor of activated protein C kinase 1 OS=Homo sapiens OX=9606 GN=RACK1 PE=1 SV=3,RACK1,35 kDa,,9,4,4,9,4,4,5,4,4,5,4,4,5,4,3,5,4,3,100%,100%,100%,26.50%,12.00%,9.15%,0.01%,0.01%,0.01%
+Ras-related protein Rap-1b OS=Homo sapiens OX=9606 GN=RAP1B PE=1 SV=1,RAP1B,21 kDa,,4,5,4,4,5,4,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,13.00%,13.00%,13.00%,0.01%,0.01%,0.01%
+Ras-related protein Rab-11A OS=Homo sapiens OX=9606 GN=RAB11A PE=1 SV=3,RAB11A,24 kDa,,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,100%,99%,23%,9.72%,5.09%,0.00%,0.00%,0.00%,0.00%
+Ras-related protein Rab-7a OS=Homo sapiens OX=9606 GN=RAB7A PE=1 SV=1,RAB7A,23 kDa,,4,3,3,4,3,3,4,2,2,4,2,2,3,2,2,3,2,2,100%,100%,100%,16.90%,10.10%,11.60%,0.01%,0.00%,0.00%
+Ras-related protein Rab-2A OS=Homo sapiens OX=9606 GN=RAB2A PE=1 SV=1,RAB2A,24 kDa,,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,99%,100%,100%,6.60%,14.20%,14.20%,0.00%,0.00%,0.00%
+Ras-related protein Rab-43 OS=Homo sapiens OX=9606 GN=RAB43 PE=1 SV=1,RAB43,23 kDa,TRUE,2,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,10%,0,47%,5.19%,0,5.19%,0.00%,0,0.00%
+Ras-related C3 botulinum toxin substrate 2 OS=Homo sapiens OX=9606 GN=RAC2 PE=1 SV=1,RAC2,21 kDa,TRUE,6,4,3,0,0,0,3,3,3,0,0,0,2,2,2,0,0,0,40%,13%,21%,9.38%,9.38%,9.38%,0.01%,0.01%,0.00%
+Ras GTPase-activating-like protein IQGAP1 OS=Homo sapiens OX=9606 GN=IQGAP1 PE=1 SV=1,IQGAP1,189 kDa,,17,12,10,17,12,10,12,9,6,12,9,6,11,9,5,11,9,5,100%,100%,100%,10.30%,8.93%,5.49%,0.03%,0.02%,0.02%
+Rab GDP dissociation inhibitor beta OS=Homo sapiens OX=9606 GN=GDI2 PE=1 SV=2,GDI2,51 kDa,TRUE,16,12,11,11,10,10,11,7,8,7,6,7,7,6,5,4,5,4,100%,100%,100%,22.50%,16.90%,13.90%,0.02%,0.02%,0.02%
+RNA-splicing ligase RtcB homolog OS=Homo sapiens OX=9606 GN=RTCB PE=1 SV=1,RTCB,55 kDa,,4,2,2,4,2,2,3,1,2,3,1,2,3,1,1,3,1,1,100%,99%,100%,7.33%,2.18%,2.18%,0.01%,0.00%,0.00%
+"RNA-binding motif protein, X chromosome OS=Homo sapiens OX=9606 GN=RBMX PE=1 SV=3",RBMX,42 kDa,TRUE,4,0,1,1,0,0,4,0,1,1,0,0,3,0,1,1,0,0,100%,76%,84%,11.00%,0.00%,3.32%,0.01%,0.00%,0.00%
+Pyruvate kinase PKM OS=Homo sapiens OX=9606 GN=PKM PE=1 SV=4,PKM,58 kDa,TRUE,61,49,41,60,49,41,26,19,17,25,19,17,15,11,10,14,11,10,100%,100%,100%,31.50%,22.20%,23.00%,0.09%,0.08%,0.07%
+Prothrombin OS=Homo sapiens OX=9606 GN=F2 PE=1 SV=2,F2,70 kDa,,4,4,3,4,4,3,4,2,2,4,2,2,3,2,2,3,2,2,100%,100%,100%,5.31%,3.70%,3.70%,0.01%,0.01%,0.00%
+Protein/nucleic acid deglycase DJ-1 OS=Homo sapiens OX=9606 GN=PARK7 PE=1 SV=2,PARK7,20 kDa,,14,9,11,14,9,11,7,7,9,7,7,9,4,4,4,4,4,4,100%,100%,100%,38.10%,38.10%,38.10%,0.02%,0.01%,0.02%
+Protein-glutamine gamma-glutamyltransferase 2 OS=Homo sapiens OX=9606 GN=TGM2 PE=1 SV=2,TGM2,77 kDa,,3,2,3,3,2,3,3,2,2,3,2,2,2,2,2,2,2,2,100%,100%,100%,4.08%,4.08%,4.08%,0.00%,0.00%,0.00%
+Protein transport protein Sec31A OS=Homo sapiens OX=9606 GN=SEC31A PE=1 SV=3,SEC31A,133 kDa,,6,4,3,6,4,3,4,3,2,4,3,2,3,3,2,3,3,2,100%,100%,100%,3.44%,3.44%,1.89%,0.01%,0.01%,0.00%
+Protein transport protein Sec23B OS=Homo sapiens OX=9606 GN=SEC23B PE=1 SV=2,SEC23B,86 kDa,TRUE,0,1,2,0,0,0,0,1,2,0,0,0,0,1,1,0,0,0,0,7%,6%,0,1.56%,1.56%,0,0.00%,0.00%
+Protein piccolo OS=Homo sapiens OX=9606 GN=PCLO PE=1 SV=5,PCLO,561 kDa,TRUE,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,100%,100%,100%,0.00%,0.00%,0.41%,0.00%,0.00%,0.00%
+Protein phosphatase 1 regulatory subunit 12A OS=Homo sapiens OX=9606 GN=PPP1R12A PE=1 SV=1,PPP1R12A,115 kDa,,5,2,2,5,2,2,4,1,1,4,1,1,4,1,1,4,1,1,100%,99%,99%,5.15%,0.97%,0.97%,0.01%,0.00%,0.00%
+Protein disulfide-isomerase OS=Homo sapiens OX=9606 GN=P4HB PE=1 SV=3,P4HB,57 kDa,,12,8,10,12,8,10,8,7,6,8,7,6,7,6,6,7,6,6,100%,100%,100%,16.50%,15.60%,13.00%,0.02%,0.01%,0.02%
+Protein disulfide-isomerase A6 OS=Homo sapiens OX=9606 GN=PDIA6 PE=1 SV=1,PDIA6,48 kDa,,13,13,10,13,13,10,6,7,6,6,7,6,4,5,5,4,5,5,100%,100%,100%,13.00%,15.70%,15.70%,0.02%,0.02%,0.02%
+Protein disulfide-isomerase A4 OS=Homo sapiens OX=9606 GN=PDIA4 PE=1 SV=2,PDIA4,73 kDa,,14,3,9,13,3,9,9,2,6,9,2,6,7,2,6,7,2,6,100%,100%,100%,14.30%,3.57%,12.60%,0.02%,0.00%,0.01%
+Protein disulfide-isomerase A3 OS=Homo sapiens OX=9606 GN=PDIA3 PE=1 SV=4,PDIA3,57 kDa,,25,21,19,25,21,19,16,10,13,16,10,13,12,9,11,12,9,11,100%,100%,100%,28.30%,24.20%,26.50%,0.04%,0.03%,0.03%
+Protein arginine N-methyltransferase 1 OS=Homo sapiens OX=9606 GN=PRMT1 PE=1 SV=3,PRMT1,42 kDa,,4,2,2,4,2,2,3,1,1,3,1,1,3,1,1,3,1,1,100%,100%,99%,10.80%,4.04%,4.04%,0.01%,0.00%,0.00%
+Protein PML OS=Homo sapiens OX=9606 GN=PML PE=1 SV=3,PML,98 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,8%,0,2.49%,0.00%,0,0.00%,0.00%,0
+Protein LYRIC OS=Homo sapiens OX=9606 GN=MTDH PE=1 SV=2,MTDH,64 kDa,,3,1,1,3,1,1,3,1,1,3,1,1,2,1,1,2,1,1,100%,99%,91%,5.84%,2.23%,2.23%,0.00%,0.00%,0.00%
+Protein AMBP OS=Homo sapiens OX=9606 GN=AMBP PE=1 SV=1,AMBP,39 kDa,,5,4,2,5,4,2,3,3,2,3,3,2,3,3,2,3,3,2,100%,100%,100%,9.66%,9.66%,5.40%,0.01%,0.01%,0.00%
+Proteasome subunit alpha type-6 OS=Homo sapiens OX=9606 GN=PSMA6 PE=1 SV=1,PSMA6,27 kDa,,3,1,1,3,1,1,3,1,1,3,1,1,3,1,1,3,1,1,100%,100%,100%,13.80%,5.28%,5.28%,0.00%,0.00%,0.00%
+Proteasome activator complex subunit 1 OS=Homo sapiens OX=9606 GN=PSME1 PE=1 SV=1,PSME1,29 kDa,,7,3,4,7,3,4,3,3,3,3,3,3,3,3,2,3,3,2,100%,100%,100%,14.50%,14.50%,9.24%,0.01%,0.00%,0.01%
+Prolow-density lipoprotein receptor-related protein 1 OS=Homo sapiens OX=9606 GN=LRP1 PE=1 SV=2,LRP1,505 kDa,,11,5,7,11,5,7,10,5,7,10,5,7,9,5,7,9,5,7,100%,100%,100%,2.53%,1.52%,2.07%,0.02%,0.01%,0.01%
+Prolargin OS=Homo sapiens OX=9606 GN=PRELP PE=1 SV=1,PRELP,44 kDa,,8,9,5,8,9,5,3,3,2,3,3,2,2,3,2,2,3,2,100%,100%,100%,7.59%,9.69%,7.59%,0.01%,0.01%,0.01%
+Programmed cell death protein 4 OS=Homo sapiens OX=9606 GN=PDCD4 PE=1 SV=2,PDCD4,52 kDa,,2,2,3,2,2,3,2,1,2,2,1,2,2,1,2,2,1,2,100%,99%,100%,5.76%,2.35%,5.76%,0.00%,0.00%,0.00%
+Programmed cell death 6-interacting protein OS=Homo sapiens OX=9606 GN=PDCD6IP PE=1 SV=1,PDCD6IP,96 kDa,,8,7,6,8,7,6,6,4,5,6,4,5,6,4,4,6,4,4,100%,100%,100%,7.83%,5.30%,5.30%,0.01%,0.01%,0.01%
+Profilin-1 OS=Homo sapiens OX=9606 GN=PFN1 PE=1 SV=2,PFN1,15 kDa,,30,27,29,30,27,29,8,10,8,8,10,8,5,5,5,5,5,5,100%,100%,100%,50.00%,50.00%,50.00%,0.04%,0.04%,0.05%
+Probable ATP-dependent RNA helicase DDX17 OS=Homo sapiens OX=9606 GN=DDX17 PE=1 SV=2,DDX17,80 kDa,TRUE,9,8,5,9,7,4,7,5,4,7,4,3,5,5,4,5,4,3,100%,100%,100%,8.23%,8.37%,6.31%,0.01%,0.01%,0.01%
+Prelamin-A/C OS=Homo sapiens OX=9606 GN=LMNA PE=1 SV=1,LMNA,74 kDa,TRUE,153,146,147,151,144,145,71,62,64,70,61,63,40,33,36,39,32,35,100%,100%,100%,53.60%,49.10%,51.40%,0.22%,0.23%,0.23%
+Pre-mRNA-processing factor 19 OS=Homo sapiens OX=9606 GN=PRPF19 PE=1 SV=1,PRPF19,55 kDa,,3,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,4.76%,5.56%,5.56%,0.00%,0.00%,0.00%
+Polypyrimidine tract-binding protein 1 OS=Homo sapiens OX=9606 GN=PTBP1 PE=1 SV=1,PTBP1,57 kDa,,13,2,2,13,2,2,7,1,2,7,1,2,3,1,2,3,1,2,100%,100%,100%,9.60%,3.01%,7.34%,0.02%,0.00%,0.00%
+Polyadenylate-binding protein 4 OS=Homo sapiens OX=9606 GN=PABPC4 PE=1 SV=1,PABPC4,71 kDa,TRUE,4,2,4,3,2,2,3,2,4,2,2,2,3,2,4,2,2,2,100%,100%,100%,5.90%,3.57%,8.54%,0.01%,0.00%,0.01%
+Polyadenylate-binding protein 3 OS=Homo sapiens OX=9606 GN=PABPC3 PE=1 SV=2,PABPC3,70 kDa,TRUE,5,2,3,0,0,0,4,1,2,0,0,0,4,1,2,0,0,0,73%,25%,20%,7.29%,1.74%,4.12%,0.01%,0.00%,0.00%
+Poly(rC)-binding protein 2 OS=Homo sapiens OX=9606 GN=PCBP2 PE=1 SV=1,PCBP2,39 kDa,TRUE,5,7,6,1,2,2,4,4,4,1,1,1,3,3,3,1,1,1,100%,100%,100%,12.30%,12.30%,12.30%,0.01%,0.01%,0.01%
+Poly [ADP-ribose] polymerase 1 OS=Homo sapiens OX=9606 GN=PARP1 PE=1 SV=4,PARP1,113 kDa,TRUE,3,3,1,3,3,1,2,3,1,2,3,1,2,3,1,2,3,1,100%,100%,100%,2.37%,3.85%,1.08%,0.00%,0.00%,0.00%
+Plectin OS=Homo sapiens OX=9606 GN=PLEC PE=1 SV=3,PLEC,532 kDa,TRUE,110,81,86,109,79,85,69,53,53,68,52,52,52,41,42,51,40,41,100%,100%,100%,14.10%,11.20%,11.30%,0.16%,0.13%,0.14%
+Plastin-3 OS=Homo sapiens OX=9606 GN=PLS3 PE=1 SV=4,PLS3,71 kDa,TRUE,6,3,4,3,2,2,4,2,2,1,1,1,3,2,2,1,1,1,100%,100%,100%,6.35%,4.29%,4.29%,0.01%,0.00%,0.01%
+Plastin-2 OS=Homo sapiens OX=9606 GN=LCP1 PE=1 SV=6,LCP1,70 kDa,TRUE,3,1,2,0,0,0,3,1,1,0,0,0,2,1,1,0,0,0,93%,21%,92%,4.15%,2.07%,2.07%,0.00%,0.00%,0.00%
+Plasminogen OS=Homo sapiens OX=9606 GN=PLG PE=1 SV=2,PLG,91 kDa,,19,10,11,19,10,11,17,9,10,17,9,10,10,8,8,10,8,8,100%,100%,100%,19.10%,17.80%,19.90%,0.03%,0.02%,0.02%
+Pigment epithelium-derived factor OS=Homo sapiens OX=9606 GN=SERPINF1 PE=1 SV=4,SERPINF1,46 kDa,,7,6,6,7,6,6,6,5,5,6,5,5,4,5,5,4,5,5,100%,100%,100%,14.80%,18.70%,18.70%,0.01%,0.01%,0.01%
+Phosphoglycerate mutase 1 OS=Homo sapiens OX=9606 GN=PGAM1 PE=1 SV=2,PGAM1,29 kDa,,4,4,3,4,4,3,3,3,3,3,3,3,2,2,2,2,2,2,100%,100%,100%,8.27%,8.27%,8.27%,0.01%,0.01%,0.00%
+Phosphoglycerate kinase 2 OS=Homo sapiens OX=9606 GN=PGK2 PE=1 SV=3,PGK2,45 kDa,TRUE,7,6,4,1,0,0,5,4,3,1,0,0,4,3,2,1,0,0,92%,10%,7%,13.90%,9.83%,5.52%,0.01%,0.01%,0.01%
+Phosphoglucomutase-like protein 5 OS=Homo sapiens OX=9606 GN=PGM5 PE=1 SV=2,PGM5,62 kDa,,10,12,10,10,12,10,7,9,6,7,9,6,5,5,5,5,5,5,100%,100%,100%,9.52%,9.52%,9.52%,0.02%,0.02%,0.02%
+Phosphoglucomutase-1 OS=Homo sapiens OX=9606 GN=PGM1 PE=1 SV=3,PGM1,61 kDa,,14,3,6,14,3,6,10,2,3,10,2,3,8,2,3,8,2,3,100%,100%,100%,18.50%,4.80%,7.47%,0.02%,0.00%,0.01%
+Phosphatidylinositol-binding clathrin assembly protein OS=Homo sapiens OX=9606 GN=PICALM PE=1 SV=2,PICALM,71 kDa,,3,0,0,3,0,0,3,0,0,3,0,0,2,0,0,2,0,0,100%,0,0,6.13%,0,0,0.00%,0,0
+Phosphatidylethanolamine-binding protein 1 OS=Homo sapiens OX=9606 GN=PEBP1 PE=1 SV=3,PEBP1,21 kDa,,20,11,11,20,11,11,14,7,9,14,7,9,6,5,6,6,5,6,100%,100%,100%,44.40%,40.10%,44.40%,0.03%,0.02%,0.02%
+Peroxiredoxin-6 OS=Homo sapiens OX=9606 GN=PRDX6 PE=1 SV=3,PRDX6,25 kDa,,15,12,12,15,12,12,6,7,5,6,7,5,4,4,4,4,4,4,100%,100%,100%,24.60%,24.60%,24.60%,0.02%,0.02%,0.02%
+"Peroxiredoxin-5, mitochondrial OS=Homo sapiens OX=9606 GN=PRDX5 PE=1 SV=4",PRDX5,22 kDa,,2,1,4,2,1,4,2,1,4,2,1,4,2,1,4,2,1,4,100%,100%,100%,15.90%,5.14%,31.80%,0.00%,0.00%,0.01%
+Peroxiredoxin-4 OS=Homo sapiens OX=9606 GN=PRDX4 PE=1 SV=1,PRDX4,31 kDa,TRUE,11,8,9,7,5,6,4,4,4,3,3,3,3,3,3,2,2,2,100%,100%,100%,10.70%,10.70%,10.70%,0.02%,0.01%,0.01%
+Peroxiredoxin-2 OS=Homo sapiens OX=9606 GN=PRDX2 PE=1 SV=5,PRDX2,22 kDa,TRUE,17,15,13,7,7,6,9,5,5,4,2,2,5,3,3,4,2,2,100%,100%,100%,27.80%,14.60%,14.60%,0.03%,0.02%,0.02%
+Peroxiredoxin-1 OS=Homo sapiens OX=9606 GN=PRDX1 PE=1 SV=1,PRDX1,22 kDa,TRUE,33,35,33,19,24,23,15,16,15,9,12,11,10,9,9,8,7,7,100%,100%,100%,48.20%,43.70%,43.70%,0.05%,0.05%,0.05%
+Peroxidasin homolog OS=Homo sapiens OX=9606 GN=PXDN PE=1 SV=2,PXDN,165 kDa,,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,100%,93%,0,2.03%,1.08%,0,0.00%,0.00%,0
+Perilipin-3 OS=Homo sapiens OX=9606 GN=PLIN3 PE=1 SV=3,PLIN3,47 kDa,,11,8,8,11,8,8,7,6,5,7,6,5,6,6,5,6,6,5,100%,100%,100%,21.70%,21.70%,18.00%,0.02%,0.01%,0.01%
+Peptidyl-prolyl cis-trans isomerase B OS=Homo sapiens OX=9606 GN=PPIB PE=1 SV=2,PPIB,24 kDa,,12,9,8,12,9,8,7,5,5,7,5,5,5,4,3,5,4,3,100%,100%,100%,28.20%,21.80%,17.60%,0.02%,0.01%,0.01%
+Peptidyl-prolyl cis-trans isomerase A OS=Homo sapiens OX=9606 GN=PPIA PE=1 SV=2,PPIA,18 kDa,,22,22,19,22,22,19,10,10,9,10,10,9,7,7,7,7,7,7,100%,100%,100%,50.90%,50.90%,50.30%,0.03%,0.03%,0.03%
+Palladin OS=Homo sapiens OX=9606 GN=PALLD PE=1 SV=3,PALLD,151 kDa,TRUE,31,27,24,29,27,24,19,15,13,17,15,13,15,13,11,14,13,11,100%,100%,100%,14.80%,13.20%,11.20%,0.05%,0.04%,0.04%
+PRKC apoptosis WT1 regulator protein OS=Homo sapiens OX=9606 GN=PAWR PE=1 SV=1,PAWR,37 kDa,,8,3,4,8,3,4,5,3,4,5,3,4,5,3,3,5,3,3,100%,100%,100%,21.50%,16.80%,16.80%,0.01%,0.00%,0.01%
+PDZ and LIM domain protein 7 OS=Homo sapiens OX=9606 GN=PDLIM7 PE=1 SV=1,PDLIM7,50 kDa,,22,20,15,22,20,15,11,8,6,11,8,6,9,7,6,9,7,6,100%,100%,100%,28.00%,21.90%,15.10%,0.03%,0.03%,0.02%
+PDZ and LIM domain protein 5 OS=Homo sapiens OX=9606 GN=PDLIM5 PE=1 SV=5,PDLIM5,64 kDa,,11,9,8,11,9,8,8,8,7,8,8,7,6,8,5,6,8,5,100%,100%,100%,16.90%,21.60%,13.40%,0.02%,0.01%,0.01%
+PDZ and LIM domain protein 4 OS=Homo sapiens OX=9606 GN=PDLIM4 PE=1 SV=2,PDLIM4,35 kDa,,8,3,4,8,3,4,5,2,4,5,2,4,4,2,4,4,2,4,100%,100%,100%,14.80%,5.76%,14.80%,0.01%,0.00%,0.01%
+PDZ and LIM domain protein 3 OS=Homo sapiens OX=9606 GN=PDLIM3 PE=1 SV=1,PDLIM3,39 kDa,,11,5,5,11,5,5,4,1,1,4,1,1,4,1,1,4,1,1,100%,100%,100%,19.80%,4.12%,4.12%,0.02%,0.01%,0.01%
+PDZ and LIM domain protein 2 OS=Homo sapiens OX=9606 GN=PDLIM2 PE=1 SV=1,PDLIM2,37 kDa,,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,100%,100%,99%,3.12%,7.67%,3.12%,0.00%,0.00%,0.00%
+PDZ and LIM domain protein 1 OS=Homo sapiens OX=9606 GN=PDLIM1 PE=1 SV=4,PDLIM1,36 kDa,,2,2,1,2,2,1,1,2,1,1,2,1,1,2,1,1,2,1,99%,100%,100%,3.04%,7.60%,3.04%,0.00%,0.00%,0.00%
+Omega-amidase NIT2 OS=Homo sapiens OX=9606 GN=NIT2 PE=1 SV=1,NIT2,31 kDa,,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,100%,6%,90%,11.60%,0.00%,5.43%,0.00%,0.00%,0.00%
+Olfactomedin-like protein 3 OS=Homo sapiens OX=9606 GN=OLFML3 PE=2 SV=1,OLFML3,46 kDa,,28,22,22,28,22,22,14,13,10,14,13,10,8,7,8,8,7,8,100%,100%,100%,26.60%,23.20%,26.80%,0.04%,0.03%,0.04%
+Olfactomedin-like protein 1 OS=Homo sapiens OX=9606 GN=OLFML1 PE=1 SV=2,OLFML1,46 kDa,,13,16,15,13,16,15,10,8,8,10,8,8,7,7,6,7,7,6,100%,100%,100%,19.20%,19.90%,17.20%,0.02%,0.03%,0.02%
+Nucleoside diphosphate kinase B OS=Homo sapiens OX=9606 GN=NME2 PE=1 SV=1,NME2,17 kDa,TRUE,4,3,1,0,0,0,2,2,1,0,0,0,2,2,1,0,0,0,100%,98%,76%,17.10%,17.10%,11.20%,0.01%,0.00%,0.00%
+Nucleolin OS=Homo sapiens OX=9606 GN=NCL PE=1 SV=3,NCL,77 kDa,,23,20,22,23,20,22,12,10,8,12,10,8,10,8,7,10,8,7,100%,100%,100%,14.90%,11.30%,11.30%,0.03%,0.03%,0.04%
+Nuclear mitotic apparatus protein 1 OS=Homo sapiens OX=9606 GN=NUMA1 PE=1 SV=2,NUMA1,238 kDa,,7,4,3,7,4,3,7,4,3,7,4,3,7,4,3,7,4,3,100%,100%,100%,4.78%,2.13%,2.08%,0.01%,0.01%,0.00%
+Non-histone chromosomal protein HMG-17 OS=Homo sapiens OX=9606 GN=HMGN2 PE=1 SV=3,HMGN2,9 kDa,,6,13,8,6,13,8,6,8,5,6,8,5,4,5,4,4,5,4,100%,100%,100%,51.10%,53.30%,53.30%,0.01%,0.02%,0.01%
+Non-POU domain-containing octamer-binding protein OS=Homo sapiens OX=9606 GN=NONO PE=1 SV=4,NONO,54 kDa,,3,1,3,3,1,3,3,1,2,3,1,2,3,1,2,3,1,2,100%,100%,100%,9.98%,2.97%,7.64%,0.00%,0.00%,0.00%
+Nidogen-2 OS=Homo sapiens OX=9606 GN=NID2 PE=1 SV=3,NID2,151 kDa,,49,31,24,46,31,24,31,21,17,30,21,17,22,17,13,21,17,13,100%,100%,100%,24.90%,19.30%,15.10%,0.07%,0.05%,0.04%
+Nidogen-1 OS=Homo sapiens OX=9606 GN=NID1 PE=1 SV=3,NID1,136 kDa,,33,27,27,33,27,27,21,16,17,21,16,17,16,9,11,16,9,11,100%,100%,100%,20.10%,10.00%,13.30%,0.05%,0.04%,0.04%
+Nexilin OS=Homo sapiens OX=9606 GN=NEXN PE=1 SV=1,NEXN,81 kDa,,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,3.70%,2.37%,3.41%,0.00%,0.00%,0.00%
+Neutral alpha-glucosidase AB OS=Homo sapiens OX=9606 GN=GANAB PE=1 SV=3,GANAB,107 kDa,,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,73%,100%,93%,0.00%,3.39%,1.59%,0.00%,0.00%,0.00%
+Neuroblast differentiation-associated protein AHNAK OS=Homo sapiens OX=9606 GN=AHNAK PE=1 SV=2,AHNAK,629 kDa,,258,195,207,256,192,204,164,122,123,164,122,123,127,106,99,127,106,99,100%,100%,100%,30.50%,25.30%,22.90%,0.38%,0.30%,0.32%
+"Nascent polypeptide-associated complex subunit alpha, muscle-specific form OS=Homo sapiens OX=9606 GN=NACA PE=1 SV=1",NACA,205 kDa,,4,2,2,2,1,1,2,2,2,1,1,1,2,2,2,1,1,1,100%,100%,100%,1.40%,1.40%,1.40%,0.01%,0.00%,0.00%
+NSFL1 cofactor p47 OS=Homo sapiens OX=9606 GN=NSFL1C PE=1 SV=2,NSFL1C,41 kDa,,2,1,2,2,1,2,2,1,1,2,1,1,2,1,1,2,1,1,100%,100%,99%,8.38%,4.05%,4.05%,0.00%,0.00%,0.00%
+NHP2-like protein 1 OS=Homo sapiens OX=9606 GN=SNU13 PE=1 SV=3,SNU13,14 kDa,,5,2,4,5,2,4,4,2,4,4,2,4,3,2,3,3,2,3,100%,100%,100%,25.00%,18.80%,25.00%,0.01%,0.00%,0.01%
+NEDD8-conjugating enzyme Ubc12 OS=Homo sapiens OX=9606 GN=UBE2M PE=1 SV=1,UBE2M,21 kDa,,4,1,1,4,1,1,4,1,1,4,1,1,4,1,1,4,1,1,100%,99%,99%,25.70%,6.01%,6.01%,0.01%,0.00%,0.00%
+NADH-cytochrome b5 reductase 3 OS=Homo sapiens OX=9606 GN=CYB5R3 PE=1 SV=3,CYB5R3,34 kDa,,4,1,3,4,1,3,3,1,2,3,1,2,2,1,1,2,1,1,100%,99%,99%,5.65%,5.65%,5.65%,0.01%,0.00%,0.00%
+"N(G),N(G)-dimethylarginine dimethylaminohydrolase 2 OS=Homo sapiens OX=9606 GN=DDAH2 PE=1 SV=1",DDAH2,30 kDa,,1,3,3,1,3,3,1,2,2,1,2,2,1,2,2,1,2,2,97%,100%,100%,5.61%,13.70%,13.70%,0.00%,0.00%,0.00%
+Myosin-14 OS=Homo sapiens OX=9606 GN=MYH14 PE=1 SV=2,MYH14,228 kDa,TRUE,100,97,94,1,0,1,29,19,22,1,0,1,14,10,12,1,0,1,99%,99%,100%,6.92%,5.16%,6.17%,0.15%,0.15%,0.15%
+Myosin regulatory light polypeptide 9 OS=Homo sapiens OX=9606 GN=MYL9 PE=1 SV=4,MYL9,20 kDa,TRUE,11,12,11,5,5,4,8,6,7,3,2,2,4,4,4,2,2,2,100%,100%,100%,23.80%,23.80%,23.80%,0.02%,0.02%,0.02%
+Myosin light polypeptide 6 OS=Homo sapiens OX=9606 GN=MYL6 PE=1 SV=2,MYL6,17 kDa,TRUE,33,37,39,22,21,23,13,15,13,8,7,7,8,8,8,4,4,4,100%,100%,100%,47.70%,47.70%,47.70%,0.05%,0.06%,0.06%
+"Myosin light chain kinase, smooth muscle OS=Homo sapiens OX=9606 GN=MYLK PE=1 SV=4",MYLK,211 kDa,,39,32,36,37,32,36,24,18,17,23,18,17,19,15,15,18,15,15,100%,100%,100%,12.80%,10.40%,9.25%,0.06%,0.05%,0.06%
+Myosin light chain 3 OS=Homo sapiens OX=9606 GN=MYL3 PE=1 SV=3,MYL3,22 kDa,TRUE,2,5,4,0,0,0,2,5,3,0,0,0,2,2,2,0,0,0,17%,40%,12%,8.21%,8.21%,8.21%,0.00%,0.01%,0.01%
+Myoferlin OS=Homo sapiens OX=9606 GN=MYOF PE=1 SV=1,MYOF,235 kDa,,8,9,7,8,9,7,7,8,6,7,8,6,7,8,5,7,8,5,100%,100%,100%,4.22%,5.39%,3.35%,0.01%,0.01%,0.01%
+Radixin OS=Homo sapiens OX=9606 GN=RDX PE=1 SV=1,RDX,69 kDa,TRUE,6,3,5,3,1,3,4,3,4,2,1,2,4,3,4,2,1,2,100%,100%,100%,10.30%,5.66%,10.10%,0.01%,0.00%,0.01%
+Mimecan OS=Homo sapiens OX=9606 GN=OGN PE=1 SV=1,OGN,34 kDa,,11,12,11,11,12,11,2,2,3,2,2,3,2,2,2,2,2,2,100%,100%,100%,5.70%,5.70%,5.70%,0.02%,0.02%,0.02%
+Microtubule-associated protein RP/EB family member 1 OS=Homo sapiens OX=9606 GN=MAPRE1 PE=1 SV=3,MAPRE1,30 kDa,,3,2,2,3,2,2,3,2,2,3,2,2,2,2,1,2,2,1,100%,100%,99%,13.80%,14.60%,7.46%,0.00%,0.00%,0.00%
+Microtubule-associated protein 4 OS=Homo sapiens OX=9606 GN=MAP4 PE=1 SV=3,MAP4,121 kDa,,18,13,11,18,13,11,11,9,6,11,9,6,10,7,6,10,7,6,100%,100%,100%,11.90%,8.33%,6.86%,0.03%,0.02%,0.02%
+Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,MAP1B,271 kDa,TRUE,6,3,3,5,2,2,6,2,3,5,1,2,5,2,3,4,1,2,100%,100%,100%,3.48%,0.89%,1.66%,0.01%,0.00%,0.00%
+Microtubule-associated protein 1A OS=Homo sapiens OX=9606 GN=MAP1A PE=1 SV=6,MAP1A,305 kDa,TRUE,2,1,1,1,0,0,2,1,1,1,0,0,2,1,1,1,0,0,92%,14%,15%,0.86%,0.36%,0.36%,0.00%,0.00%,0.00%
+Methyl-CpG-binding protein 2 OS=Homo sapiens OX=9606 GN=MECP2 PE=1 SV=1,MECP2,52 kDa,,3,5,3,3,5,3,1,4,1,1,4,1,1,3,1,1,3,1,100%,100%,99%,3.70%,8.64%,3.70%,0.00%,0.01%,0.00%
+Methanethiol oxidase OS=Homo sapiens OX=9606 GN=SELENBP1 PE=1 SV=2,SELENBP1,52 kDa,,6,6,5,6,6,5,3,3,4,3,3,4,3,3,3,3,3,3,100%,100%,100%,8.69%,8.69%,8.69%,0.01%,0.01%,0.01%
+Membrane primary amine oxidase OS=Homo sapiens OX=9606 GN=AOC3 PE=1 SV=3,AOC3,85 kDa,,12,9,9,12,9,9,8,3,4,8,3,4,4,2,3,4,2,3,100%,100%,100%,6.29%,3.80%,4.85%,0.02%,0.01%,0.01%
+Matrilin-2 OS=Homo sapiens OX=9606 GN=MATN2 PE=1 SV=4,MATN2,107 kDa,,14,5,5,14,5,5,9,4,4,9,4,4,9,4,3,9,4,3,100%,100%,100%,12.00%,5.75%,5.54%,0.02%,0.01%,0.01%
+Mannosyl-oligosaccharide glucosidase OS=Homo sapiens OX=9606 GN=MOGS PE=1 SV=5,MOGS,92 kDa,,2,3,2,2,3,2,2,2,2,2,2,2,2,2,1,2,2,1,100%,100%,94%,2.63%,2.63%,1.31%,0.00%,0.00%,0.00%
+"Malate dehydrogenase, mitochondrial OS=Homo sapiens OX=9606 GN=MDH2 PE=1 SV=3",MDH2,36 kDa,,20,12,12,20,12,12,8,7,6,8,7,6,8,6,6,8,6,6,100%,100%,100%,31.40%,23.10%,25.10%,0.03%,0.02%,0.02%
+"Malate dehydrogenase, cytoplasmic OS=Homo sapiens OX=9606 GN=MDH1 PE=1 SV=4",MDH1,36 kDa,,4,5,6,4,5,6,3,3,2,3,3,2,2,2,2,2,2,2,100%,100%,100%,8.68%,8.68%,8.68%,0.01%,0.01%,0.01%
+Major vault protein OS=Homo sapiens OX=9606 GN=MVP PE=1 SV=4,MVP,99 kDa,,16,15,18,16,15,18,11,9,11,11,9,11,8,7,6,8,7,6,100%,100%,100%,13.50%,14.10%,13.00%,0.02%,0.02%,0.03%
+Macrophage migration inhibitory factor OS=Homo sapiens OX=9606 GN=MIF PE=1 SV=4,MIF,12 kDa,,4,4,3,4,4,3,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,99%,17.40%,17.40%,7.83%,0.01%,0.01%,0.00%
+MICOS complex subunit MIC60 OS=Homo sapiens OX=9606 GN=IMMT PE=1 SV=1,IMMT,84 kDa,,4,2,4,4,2,4,2,2,3,2,2,3,2,2,3,2,2,3,100%,100%,100%,5.54%,5.54%,6.99%,0.01%,0.00%,0.01%
+Lysyl oxidase homolog 1 OS=Homo sapiens OX=9606 GN=LOXL1 PE=1 SV=2,LOXL1,63 kDa,,4,3,4,4,3,4,4,2,2,4,2,2,3,2,2,3,2,2,100%,100%,100%,5.75%,3.48%,3.48%,0.01%,0.00%,0.01%
+Lumican OS=Homo sapiens OX=9606 GN=LUM PE=1 SV=2,LUM,38 kDa,TRUE,37,42,38,37,42,38,13,10,11,13,10,11,7,6,6,7,6,6,100%,100%,100%,25.70%,22.80%,22.80%,0.05%,0.07%,0.06%
+Lipoma-preferred partner OS=Homo sapiens OX=9606 GN=LPP PE=1 SV=1,LPP,66 kDa,,22,23,16,22,23,16,18,12,10,18,12,10,14,11,9,14,11,9,100%,100%,100%,39.90%,19.00%,13.90%,0.03%,0.04%,0.03%
+Leukotriene A-4 hydrolase OS=Homo sapiens OX=9606 GN=LTA4H PE=1 SV=2,LTA4H,69 kDa,,4,0,1,4,0,1,3,0,1,3,0,1,3,0,1,3,0,1,100%,10%,85%,7.20%,0.00%,1.96%,0.01%,0.00%,0.00%
+Leukocyte surface antigen CD47 OS=Homo sapiens OX=9606 GN=CD47 PE=1 SV=1,CD47,35 kDa,,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,97%,94%,5.88%,2.48%,3.41%,0.00%,0.00%,0.00%
+Leucine-rich repeat-containing protein 47 OS=Homo sapiens OX=9606 GN=LRRC47 PE=1 SV=1,LRRC47,63 kDa,,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,100%,100%,100%,2.40%,3.95%,4.46%,0.00%,0.00%,0.00%
+"Leucine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=LARS PE=1 SV=2",LARS,134 kDa,,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,97%,100%,100%,1.96%,0.77%,2.21%,0.00%,0.00%,0.00%
+Leiomodin-1 OS=Homo sapiens OX=9606 GN=LMOD1 PE=1 SV=3,LMOD1,67 kDa,,11,15,11,11,15,11,8,9,5,8,9,5,6,6,4,6,6,4,100%,100%,100%,14.80%,14.80%,13.50%,0.02%,0.02%,0.02%
+Latent-transforming growth factor beta-binding protein 4 OS=Homo sapiens OX=9606 GN=LTBP4 PE=1 SV=2,LTBP4,173 kDa,,20,19,20,20,19,20,18,13,16,18,13,16,14,10,12,14,10,12,100%,100%,100%,12.90%,8.68%,10.60%,0.03%,0.03%,0.03%
+Latent-transforming growth factor beta-binding protein 2 OS=Homo sapiens OX=9606 GN=LTBP2 PE=1 SV=3,LTBP2,195 kDa,,49,33,37,49,33,37,25,21,25,25,21,25,18,14,19,18,14,19,100%,100%,100%,14.80%,11.40%,17.80%,0.07%,0.05%,0.06%
+Latent-transforming growth factor beta-binding protein 1 OS=Homo sapiens OX=9606 GN=LTBP1 PE=1 SV=4,LTBP1,187 kDa,,17,11,11,17,11,11,15,7,8,15,7,8,13,7,7,13,7,7,100%,100%,100%,12.10%,6.22%,6.04%,0.03%,0.02%,0.02%
+Laminin subunit gamma-1 OS=Homo sapiens OX=9606 GN=LAMC1 PE=1 SV=3,LAMC1,178 kDa,,94,95,75,94,95,75,51,46,38,51,46,38,37,29,27,37,29,27,100%,100%,100%,31.00%,26.10%,24.40%,0.14%,0.15%,0.12%
+Laminin subunit beta-2 OS=Homo sapiens OX=9606 GN=LAMB2 PE=1 SV=2,LAMB2,196 kDa,,27,14,13,27,14,13,20,11,10,20,11,10,17,11,10,17,11,10,100%,100%,100%,14.20%,9.73%,8.62%,0.04%,0.02%,0.02%
+Laminin subunit beta-1 OS=Homo sapiens OX=9606 GN=LAMB1 PE=1 SV=2,LAMB1,198 kDa,,45,33,35,45,33,35,28,18,17,28,18,17,20,15,15,20,15,15,100%,100%,100%,17.70%,13.20%,13.20%,0.07%,0.05%,0.06%
+Laminin subunit alpha-5 OS=Homo sapiens OX=9606 GN=LAMA5 PE=1 SV=8,LAMA5,400 kDa,,13,7,10,13,7,10,12,5,8,12,5,8,9,5,6,9,5,6,100%,100%,100%,3.46%,2.03%,2.46%,0.02%,0.01%,0.02%
+Laminin subunit alpha-4 OS=Homo sapiens OX=9606 GN=LAMA4 PE=1 SV=4,LAMA4,203 kDa,,21,12,12,21,12,12,14,6,5,14,6,5,11,6,5,11,6,5,100%,100%,100%,8.45%,4.22%,3.46%,0.03%,0.02%,0.02%
+Laminin subunit alpha-2 OS=Homo sapiens OX=9606 GN=LAMA2 PE=1 SV=4,LAMA2,344 kDa,,10,7,7,10,7,7,10,6,6,10,6,6,8,5,5,8,5,5,100%,100%,100%,4.20%,2.47%,2.69%,0.02%,0.01%,0.01%
+"Lamina-associated polypeptide 2, isoforms beta/gamma OS=Homo sapiens OX=9606 GN=TMPO PE=1 SV=2",TMPO,51 kDa,TRUE,13,8,7,0,0,1,7,6,5,0,0,1,4,4,5,0,0,1,100%,100%,100%,17.00%,17.00%,20.90%,0.02%,0.01%,0.01%
+Lamin-B2 OS=Homo sapiens OX=9606 GN=LMNB2 PE=1 SV=4,LMNB2,70 kDa,TRUE,20,12,11,16,10,9,15,10,10,12,9,9,11,8,7,9,7,6,100%,100%,100%,20.20%,14.50%,12.40%,0.03%,0.02%,0.02%
+Lamin-B1 OS=Homo sapiens OX=9606 GN=LMNB1 PE=1 SV=2,LMNB1,66 kDa,TRUE,10,8,6,6,6,4,7,5,3,4,4,2,6,5,3,4,4,2,100%,100%,100%,14.50%,9.04%,4.95%,0.02%,0.01%,0.01%
+LIM and cysteine-rich domains protein 1 OS=Homo sapiens OX=9606 GN=LMCD1 PE=1 SV=1,LMCD1,41 kDa,,4,1,3,3,1,3,4,1,3,3,1,3,4,1,3,3,1,3,100%,99%,100%,11.50%,5.21%,10.40%,0.01%,0.00%,0.00%
+LIM and SH3 domain protein 1 OS=Homo sapiens OX=9606 GN=LASP1 PE=1 SV=2,LASP1,30 kDa,,20,14,17,20,14,17,9,7,7,9,7,7,6,5,4,6,5,4,100%,100%,100%,24.10%,20.70%,19.90%,0.03%,0.02%,0.03%
+L-lactate dehydrogenase C chain OS=Homo sapiens OX=9606 GN=LDHC PE=1 SV=4,LDHC,36 kDa,TRUE,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,18%,0,0,3.61%,0,0,0.00%,0
+Kininogen-1 OS=Homo sapiens OX=9606 GN=KNG1 PE=1 SV=2,KNG1,72 kDa,,14,13,12,14,13,12,9,7,7,9,7,7,6,5,6,6,5,6,100%,100%,100%,12.00%,10.10%,11.80%,0.02%,0.02%,0.02%
+Kinesin-1 heavy chain OS=Homo sapiens OX=9606 GN=KIF5B PE=1 SV=1,KIF5B,110 kDa,TRUE,3,3,2,2,2,1,3,3,2,2,2,1,3,3,2,2,2,1,100%,100%,100%,3.95%,3.74%,2.49%,0.00%,0.00%,0.00%
+Kinectin OS=Homo sapiens OX=9606 GN=KTN1 PE=1 SV=1,KTN1,156 kDa,,5,3,3,5,3,3,5,2,3,5,2,3,4,2,3,4,2,3,100%,100%,100%,3.68%,2.14%,3.02%,0.01%,0.00%,0.00%
+"Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens OX=9606 GN=KRT2 PE=1 SV=2",KRT2,65 kDa,TRUE,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,65%,0,9%,1.25%,0,1.25%,0.00%,0,0.00%
+KN motif and ankyrin repeat domain-containing protein 2 OS=Homo sapiens OX=9606 GN=KANK2 PE=1 SV=1,KANK2,91 kDa,TRUE,7,6,4,6,6,3,7,6,4,6,6,3,6,5,4,5,5,3,100%,100%,100%,9.75%,7.99%,6.58%,0.01%,0.01%,0.01%
+"Isocitrate dehydrogenase [NADP], mitochondrial OS=Homo sapiens OX=9606 GN=IDH2 PE=1 SV=2",IDH2,51 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,69%,88%,5.31%,0.00%,0.00%,0.00%,0.00%,0.00%
+Isocitrate dehydrogenase [NADP] cytoplasmic OS=Homo sapiens OX=9606 GN=IDH1 PE=1 SV=2,IDH1,47 kDa,,3,4,4,3,4,4,3,4,4,3,4,4,3,4,4,3,4,4,100%,100%,100%,8.45%,11.60%,11.60%,0.00%,0.01%,0.01%
+Interleukin enhancer-binding factor 3 OS=Homo sapiens OX=9606 GN=ILF3 PE=1 SV=3,ILF3,95 kDa,TRUE,13,10,10,13,10,10,10,6,6,10,6,6,8,6,5,8,6,5,100%,100%,100%,9.28%,7.49%,6.38%,0.02%,0.02%,0.02%
+Interleukin enhancer-binding factor 2 OS=Homo sapiens OX=9606 GN=ILF2 PE=1 SV=2,ILF2,43 kDa,,4,5,3,4,5,3,3,4,3,3,4,3,1,3,2,1,3,2,100%,100%,100%,5.13%,12.10%,7.95%,0.01%,0.01%,0.00%
+Inter-alpha-trypsin inhibitor heavy chain H4 OS=Homo sapiens OX=9606 GN=ITIH4 PE=1 SV=4,ITIH4,103 kDa,,3,2,0,3,2,0,3,2,0,3,2,0,2,2,0,2,2,0,100%,100%,43%,4.09%,4.09%,0.00%,0.00%,0.00%,0.00%
+Inter-alpha-trypsin inhibitor heavy chain H2 OS=Homo sapiens OX=9606 GN=ITIH2 PE=1 SV=2,ITIH2,106 kDa,,9,6,5,9,6,5,7,4,4,7,4,4,5,4,3,5,4,3,100%,100%,100%,7.19%,5.81%,4.76%,0.01%,0.01%,0.01%
+Inter-alpha-trypsin inhibitor heavy chain H1 OS=Homo sapiens OX=9606 GN=ITIH1 PE=1 SV=3,ITIH1,101 kDa,,7,3,2,7,3,2,4,2,1,4,2,1,3,2,1,3,2,1,100%,100%,100%,3.95%,2.85%,1.43%,0.01%,0.00%,0.00%
+Integrin-linked protein kinase OS=Homo sapiens OX=9606 GN=ILK PE=1 SV=2,ILK,51 kDa,,3,1,1,3,1,1,3,1,1,3,1,1,2,1,1,2,1,1,100%,99%,100%,3.98%,1.77%,1.77%,0.00%,0.00%,0.00%
+Integrin beta-1 OS=Homo sapiens OX=9606 GN=ITGB1 PE=1 SV=2,ITGB1,88 kDa,,19,12,12,15,9,8,12,7,5,10,5,3,9,7,5,7,5,3,100%,100%,100%,13.40%,12.00%,8.52%,0.03%,0.02%,0.02%
+"Inositol 1,4,5-trisphosphate receptor type 1 OS=Homo sapiens OX=9606 GN=ITPR1 PE=1 SV=3",ITPR1,314 kDa,TRUE,4,2,2,4,2,2,4,2,2,4,2,2,4,2,2,4,2,2,100%,100%,100%,2.10%,1.05%,0.91%,0.01%,0.00%,0.00%
+Inorganic pyrophosphatase OS=Homo sapiens OX=9606 GN=PPA1 PE=1 SV=2,PPA1,33 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,13%,0,10.70%,0.00%,0,0.00%,0.00%,0
+Inactive tyrosine-protein kinase 7 OS=Homo sapiens OX=9606 GN=PTK7 PE=1 SV=2,PTK7,118 kDa,,2,3,3,2,3,3,2,2,3,2,2,3,2,2,2,2,2,2,100%,100%,100%,2.06%,2.06%,2.06%,0.00%,0.00%,0.00%
+Inactive carboxypeptidase-like protein X2 OS=Homo sapiens OX=9606 GN=CPXM2 PE=2 SV=3,CPXM2,86 kDa,TRUE,5,0,2,1,0,0,2,0,2,1,0,0,2,0,1,1,0,0,99%,0,16%,3.17%,0,1.19%,0.01%,0,0.00%
+Immunoglobulin mu heavy chain OS=Homo sapiens OX=9606 PE=1 SV=2,,63 kDa,TRUE,11,15,12,0,0,0,4,6,4,0,0,0,4,6,4,0,0,0,100%,100%,100%,9.72%,14.20%,9.72%,0.02%,0.02%,0.02%
+Immunoglobulin lambda-like polypeptide 5 OS=Homo sapiens OX=9606 GN=IGLL5 PE=2 SV=2,IGLL5,23 kDa,TRUE,41,28,30,23,13,16,11,7,8,6,3,4,4,4,4,2,2,2,100%,100%,100%,26.60%,26.60%,26.60%,0.06%,0.04%,0.05%
+Immunoglobulin kappa variable 2-30 OS=Homo sapiens OX=9606 GN=IGKV2-30 PE=3 SV=2,IGKV2-30,13 kDa,TRUE,2,1,2,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,13%,18%,22%,10.80%,10.80%,10.80%,0.00%,0.00%,0.00%
+Immunoglobulin kappa light chain OS=Homo sapiens OX=9606 PE=1 SV=1,,23 kDa,TRUE,99,93,79,3,8,8,21,20,16,2,3,2,8,8,8,2,2,2,100%,100%,100%,50.50%,50.50%,50.50%,0.15%,0.14%,0.12%
+Immunoglobulin heavy variable 3-66 OS=Homo sapiens OX=9606 GN=IGHV3-66 PE=3 SV=1,IGHV3-66,13 kDa,TRUE,2,0,2,0,0,0,1,0,2,0,0,0,1,0,2,0,0,0,42%,6%,53%,9.48%,0.00%,19.00%,0.00%,0.00%,0.00%
+Immunoglobulin heavy constant gamma 4 OS=Homo sapiens OX=9606 GN=IGHG4 PE=1 SV=1,IGHG4,36 kDa,TRUE,43,33,45,3,5,8,17,14,15,3,2,3,6,5,6,2,1,2,100%,100%,100%,31.20%,22.90%,31.20%,0.06%,0.05%,0.07%
+Immunoglobulin heavy constant alpha 1 OS=Homo sapiens OX=9606 GN=IGHA1 PE=1 SV=2,IGHA1,38 kDa,TRUE,30,31,37,26,27,34,12,11,10,9,9,9,7,5,6,5,4,5,100%,100%,100%,26.90%,17.80%,26.30%,0.04%,0.05%,0.06%
+Immunoglobulin heavy constant gamma 3 OS=Homo sapiens OX=9606 GN=IGHG3 PE=1 SV=2,IGHG3,41 kDa,TRUE,27,30,31,2,0,0,10,8,8,2,0,0,6,4,4,2,0,0,100%,44%,44%,17.50%,11.70%,11.70%,0.04%,0.05%,0.05%
+Immunoglobulin alpha-2 heavy chain OS=Homo sapiens OX=9606 PE=1 SV=2,,49 kDa,TRUE,9,5,6,3,1,2,6,3,3,2,1,1,5,2,3,2,1,1,100%,100%,100%,10.30%,5.49%,7.91%,0.01%,0.01%,0.01%
+Putative protein FAM10A5 OS=Homo sapiens OX=9606 GN=ST13P5 PE=5 SV=1,ST13P5,41 kDa,TRUE,7,8,7,0,0,0,2,2,4,0,0,0,2,2,2,0,0,0,11%,13%,9%,6.23%,6.23%,6.23%,0.01%,0.01%,0.01%
+Histone H4 OS=Homo sapiens OX=9606 GN=H4C1 PE=1 SV=2,H4C1,11 kDa,,47,44,44,47,44,44,15,13,12,15,13,12,7,8,6,7,8,6,100%,100%,100%,52.40%,54.40%,53.40%,0.07%,0.07%,0.07%
+Histone H3.3C OS=Homo sapiens OX=9606 GN=H3F3C PE=1 SV=3,H3F3C,15 kDa,TRUE,2,3,4,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,15%,23%,22%,6.67%,6.67%,6.67%,0.00%,0.00%,0.01%
+Histone H2B type 1-O OS=Homo sapiens OX=9606 GN=HIST1H2BO PE=1 SV=3,HIST1H2BO,14 kDa,TRUE,199,160,177,0,0,0,7,4,4,0,0,0,5,4,4,0,0,0,27%,31%,31%,30.20%,23.80%,23.80%,0.29%,0.25%,0.28%
+Histone H2A.V OS=Homo sapiens OX=9606 GN=H2AFV PE=1 SV=3,H2AFV,14 kDa,TRUE,13,14,15,1,0,0,2,1,1,1,0,0,2,1,1,1,0,0,100%,26%,80%,18.00%,7.03%,7.03%,0.02%,0.02%,0.02%
+Histone H2A type 1-C OS=Homo sapiens OX=9606 GN=HIST1H2AC PE=1 SV=3,HIST1H2AC,14 kDa,TRUE,46,43,40,34,29,25,3,3,3,2,2,2,2,2,2,1,1,1,100%,100%,100%,21.50%,21.50%,21.50%,0.07%,0.07%,0.06%
+Histone H1x OS=Homo sapiens OX=9606 GN=H1FX PE=1 SV=1,H1FX,22 kDa,,3,0,0,3,0,0,3,0,0,3,0,0,2,0,0,2,0,0,100%,79%,74%,7.51%,0.00%,0.00%,0.00%,0.00%,0.00%
+Histone H1.5 OS=Homo sapiens OX=9606 GN=H1-5 PE=1 SV=3,H1-5,23 kDa,,5,2,3,5,2,3,4,1,2,4,1,2,4,1,2,4,1,2,100%,100%,100%,15.00%,5.31%,5.75%,0.01%,0.00%,0.00%
+Histone H1t OS=Homo sapiens OX=9606 GN=HIST1H1T PE=2 SV=4,HIST1H1T,22 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Histone H1.0 OS=Homo sapiens OX=9606 GN=H1-0 PE=1 SV=3,H1-0,21 kDa,,9,7,6,9,7,6,4,3,2,4,3,2,2,2,2,2,2,2,100%,100%,100%,10.80%,10.80%,10.80%,0.01%,0.01%,0.01%
+High mobility group protein B1 OS=Homo sapiens OX=9606 GN=HMGB1 PE=1 SV=3,HMGB1,25 kDa,,7,1,3,7,1,3,5,1,3,5,1,3,3,1,2,3,1,2,100%,100%,100%,14.00%,6.51%,13.50%,0.01%,0.00%,0.00%
+Heterogeneous nuclear ribonucleoproteins C1/C2 OS=Homo sapiens OX=9606 GN=HNRNPC PE=1 SV=4,HNRNPC,34 kDa,TRUE,13,9,9,11,7,6,7,4,3,5,2,1,4,3,3,3,2,1,100%,100%,100%,15.70%,10.50%,10.80%,0.02%,0.01%,0.01%
+Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens OX=9606 GN=HNRNPA2B1 PE=1 SV=2,HNRNPA2B1,37 kDa,,18,16,18,18,16,18,10,9,10,10,9,10,8,7,7,8,7,7,100%,100%,100%,27.50%,27.20%,27.20%,0.03%,0.03%,0.03%
+Heterogeneous nuclear ribonucleoprotein U-like protein 2 OS=Homo sapiens OX=9606 GN=HNRNPUL2 PE=1 SV=1,HNRNPUL2,85 kDa,,2,1,2,2,1,2,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,99%,3.75%,2.01%,2.01%,0.00%,0.00%,0.00%
+Heterogeneous nuclear ribonucleoprotein U-like protein 1 OS=Homo sapiens OX=9606 GN=HNRNPUL1 PE=1 SV=2,HNRNPUL1,96 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,7%,16%,3.62%,0.00%,0.00%,0.00%,0.00%,0.00%
+Heterogeneous nuclear ribonucleoprotein U OS=Homo sapiens OX=9606 GN=HNRNPU PE=1 SV=6,HNRNPU,91 kDa,,29,20,23,29,20,23,19,10,13,19,10,13,10,5,7,10,5,7,100%,100%,100%,17.20%,10.50%,14.80%,0.04%,0.03%,0.04%
+Heterogeneous nuclear ribonucleoprotein R OS=Homo sapiens OX=9606 GN=HNRNPR PE=1 SV=1,HNRNPR,71 kDa,TRUE,14,13,12,10,8,7,7,6,5,5,4,3,6,6,5,4,4,3,100%,100%,100%,9.79%,9.79%,8.06%,0.02%,0.02%,0.02%
+Heterogeneous nuclear ribonucleoprotein M OS=Homo sapiens OX=9606 GN=HNRNPM PE=1 SV=3,HNRNPM,78 kDa,,5,3,2,5,3,2,5,2,2,5,2,2,5,2,2,5,2,2,100%,100%,100%,9.32%,5.21%,5.21%,0.01%,0.00%,0.00%
+Heterogeneous nuclear ribonucleoprotein L OS=Homo sapiens OX=9606 GN=HNRNPL PE=1 SV=2,HNRNPL,64 kDa,,9,4,3,9,4,3,8,4,3,8,4,3,5,3,3,5,3,3,100%,100%,100%,10.50%,8.15%,8.15%,0.01%,0.01%,0.00%
+Heterogeneous nuclear ribonucleoprotein K OS=Homo sapiens OX=9606 GN=HNRNPK PE=1 SV=1,HNRNPK,51 kDa,,32,29,25,32,29,25,11,8,8,11,8,8,6,6,6,6,6,6,100%,100%,100%,14.70%,14.70%,14.70%,0.05%,0.05%,0.04%
+Heterogeneous nuclear ribonucleoprotein H OS=Homo sapiens OX=9606 GN=HNRNPH1 PE=1 SV=4,HNRNPH1,49 kDa,TRUE,22,16,19,4,2,3,9,7,8,4,2,2,6,5,5,3,2,2,100%,100%,100%,19.20%,16.50%,16.50%,0.03%,0.03%,0.03%
+Heterogeneous nuclear ribonucleoprotein H3 OS=Homo sapiens OX=9606 GN=HNRNPH3 PE=1 SV=2,HNRNPH3,37 kDa,,16,5,5,16,5,5,5,4,3,5,4,3,2,2,2,2,2,2,100%,100%,100%,8.38%,8.38%,8.38%,0.02%,0.01%,0.01%
+Heterogeneous nuclear ribonucleoprotein D-like OS=Homo sapiens OX=9606 GN=HNRNPDL PE=1 SV=3,HNRNPDL,46 kDa,,8,9,10,4,5,6,5,3,4,3,2,3,4,3,4,3,2,3,100%,100%,100%,9.76%,8.10%,9.76%,0.01%,0.01%,0.02%
+Heterogeneous nuclear ribonucleoprotein D0 OS=Homo sapiens OX=9606 GN=HNRNPD PE=1 SV=1,HNRNPD,38 kDa,,9,7,6,5,3,2,3,2,2,1,1,1,2,2,2,1,1,1,100%,100%,100%,6.76%,6.76%,6.76%,0.01%,0.01%,0.01%
+Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2,HNRNPA3,40 kDa,,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,100%,8.99%,2.65%,2.65%,0.00%,0.00%,0.00%
+Heterogeneous nuclear ribonucleoprotein A1-like 2 OS=Homo sapiens OX=9606 GN=HNRNPA1L2 PE=2 SV=2,HNRNPA1L2,34 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18%,0,0,0.00%,0,0,0.00%
+Heterochromatin protein 1-binding protein 3 OS=Homo sapiens OX=9606 GN=HP1BP3 PE=1 SV=1,HP1BP3,61 kDa,,24,15,16,24,15,16,10,7,6,10,7,6,6,5,5,6,5,5,100%,100%,100%,11.40%,9.95%,9.95%,0.04%,0.02%,0.03%
+Hemopexin OS=Homo sapiens OX=9606 GN=HPX PE=1 SV=2,HPX,52 kDa,,28,22,21,28,22,21,10,10,9,10,10,9,6,6,6,6,6,6,100%,100%,100%,16.20%,16.20%,16.20%,0.04%,0.03%,0.03%
+Hemoglobin subunit epsilon OS=Homo sapiens OX=9606 GN=HBE1 PE=1 SV=2,HBE1,16 kDa,TRUE,0,3,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,13%,0,0,6.80%,0,0,0.00%,0
+Hemoglobin subunit alpha OS=Homo sapiens OX=9606 GN=HBA1 PE=1 SV=2,HBA1,15 kDa,,31,31,27,31,31,27,8,8,5,8,8,5,4,3,2,4,3,2,100%,100%,100%,34.50%,23.20%,16.90%,0.05%,0.05%,0.04%
+Heat shock protein beta-6 OS=Homo sapiens OX=9606 GN=HSPB6 PE=1 SV=2,HSPB6,17 kDa,,6,2,2,6,2,2,6,2,1,6,2,1,4,1,1,4,1,1,100%,100%,100%,33.80%,8.12%,8.12%,0.01%,0.00%,0.00%
+Heat shock protein beta-1 OS=Homo sapiens OX=9606 GN=HSPB1 PE=1 SV=2,HSPB1,23 kDa,,49,39,35,49,39,35,16,13,13,16,13,13,8,7,7,8,7,7,100%,100%,100%,54.60%,49.30%,49.30%,0.07%,0.06%,0.06%
+Putative heat shock protein HSP 90-beta-3 OS=Homo sapiens OX=9606 GN=HSP90AB3P PE=5 SV=1,HSP90AB3P,68 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heat shock protein 105 kDa OS=Homo sapiens OX=9606 GN=HSPH1 PE=1 SV=1,HSPH1,97 kDa,TRUE,3,2,2,0,1,0,1,2,1,0,1,0,1,2,1,0,1,0,18%,88%,77%,1.63%,2.80%,1.63%,0.00%,0.00%,0.00%
+Heat shock-related 70 kDa protein 2 OS=Homo sapiens OX=9606 GN=HSPA2 PE=1 SV=1,HSPA2,70 kDa,TRUE,33,30,27,5,4,4,12,10,11,3,2,2,9,7,8,3,2,2,100%,100%,100%,16.40%,12.50%,14.10%,0.05%,0.05%,0.04%
+Heat shock cognate 71 kDa protein OS=Homo sapiens OX=9606 GN=HSPA8 PE=1 SV=1,HSPA8,71 kDa,TRUE,53,47,39,25,21,16,24,20,18,15,12,9,16,15,14,10,10,8,100%,100%,100%,31.40%,29.30%,29.10%,0.08%,0.07%,0.06%
+Heat shock 70 kDa protein 12A OS=Homo sapiens OX=9606 GN=HSPA12A PE=1 SV=2,HSPA12A,75 kDa,,4,3,3,4,3,3,4,3,3,4,3,3,4,2,3,4,2,3,100%,100%,100%,8.00%,6.67%,5.19%,0.01%,0.00%,0.00%
+Heat shock 70 kDa protein 4 OS=Homo sapiens OX=9606 GN=HSPA4 PE=1 SV=4,HSPA4,94 kDa,TRUE,8,5,4,5,4,2,4,4,3,3,3,2,4,4,3,3,3,2,100%,100%,100%,6.55%,6.19%,4.64%,0.01%,0.01%,0.01%
+Putative heat shock 70 kDa protein 7 OS=Homo sapiens OX=9606 GN=HSPA7 PE=5 SV=2,HSPA7,40 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1,HP,45 kDa,,53,40,41,53,40,41,24,21,18,24,21,18,15,13,12,15,13,12,100%,100%,100%,40.60%,38.40%,36.50%,0.08%,0.06%,0.07%
+Guanine nucleotide-binding protein G(q) subunit alpha OS=Homo sapiens OX=9606 GN=GNAQ PE=1 SV=4,GNAQ,42 kDa,,3,0,2,3,0,2,2,0,2,2,0,2,2,0,2,2,0,2,100%,46%,100%,7.80%,0.00%,7.80%,0.00%,0.00%,0.00%
+Guanine nucleotide-binding protein G(t) subunit alpha-3 OS=Homo sapiens OX=9606 GN=GNAT3 PE=2 SV=2,GNAT3,40 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guanine nucleotide-binding protein subunit beta-4 OS=Homo sapiens OX=9606 GN=GNB4 PE=1 SV=3,GNB4,38 kDa,TRUE,2,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,52%,8%,8%,3.82%,3.82%,3.82%,0.00%,0.00%,0.00%
+Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1 OS=Homo sapiens OX=9606 GN=GNB1 PE=1 SV=3,GNB1,37 kDa,TRUE,7,2,1,4,2,1,3,2,1,2,2,1,3,2,1,2,2,1,100%,100%,100%,16.20%,9.41%,3.53%,0.01%,0.00%,0.00%
+Glyoxylate reductase/hydroxypyruvate reductase OS=Homo sapiens OX=9606 GN=GRHPR PE=1 SV=1,GRHPR,36 kDa,,3,2,3,3,2,3,2,1,2,2,1,2,2,1,2,2,1,2,100%,100%,100%,8.23%,5.18%,10.70%,0.00%,0.00%,0.00%
+Glyoxalase domain-containing protein 4 OS=Homo sapiens OX=9606 GN=GLOD4 PE=1 SV=1,GLOD4,35 kDa,,3,3,2,3,3,2,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,99%,7.35%,7.35%,4.15%,0.00%,0.00%,0.00%
+"Glycogen phosphorylase, muscle form OS=Homo sapiens OX=9606 GN=PYGM PE=1 SV=6",PYGM,97 kDa,TRUE,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,35%,6%,12%,1.43%,1.43%,0.00%,0.00%,0.00%,0.00%
+Glyceraldehyde-3-phosphate dehydrogenase OS=Homo sapiens OX=9606 GN=GAPDH PE=1 SV=3,GAPDH,36 kDa,,49,42,44,49,42,44,19,15,14,19,15,14,7,5,6,7,5,6,100%,100%,100%,27.50%,17.00%,23.30%,0.07%,0.07%,0.07%
+"Glutathione reductase, mitochondrial OS=Homo sapiens OX=9606 GN=GSR PE=1 SV=2",GSR,56 kDa,,18,11,8,18,11,8,10,7,5,10,7,5,6,5,5,6,5,5,100%,100%,100%,18.80%,17.40%,18.60%,0.03%,0.02%,0.01%
+Glutathione S-transferase P OS=Homo sapiens OX=9606 GN=GSTP1 PE=1 SV=2,GSTP1,23 kDa,,32,18,26,32,18,26,14,10,11,14,10,11,4,5,4,4,5,4,100%,100%,100%,30.50%,35.70%,30.50%,0.05%,0.03%,0.04%
+"Glutamate dehydrogenase 2, mitochondrial OS=Homo sapiens OX=9606 GN=GLUD2 PE=1 SV=2",GLUD2,61 kDa,TRUE,3,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,47%,0,0,5.56%,0,0,0.00%,0,0
+Glucosidase 2 subunit beta OS=Homo sapiens OX=9606 GN=PRKCSH PE=1 SV=2,PRKCSH,59 kDa,,5,0,1,5,0,1,5,0,1,5,0,1,4,0,1,4,0,1,100%,69%,100%,8.33%,0.00%,1.89%,0.01%,0.00%,0.00%
+Glia-derived nexin OS=Homo sapiens OX=9606 GN=SERPINE2 PE=1 SV=1,SERPINE2,44 kDa,,5,4,2,5,4,2,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,99%,6.53%,6.53%,3.02%,0.01%,0.01%,0.00%
+Gelsolin OS=Homo sapiens OX=9606 GN=GSN PE=1 SV=1,GSN,86 kDa,,45,37,27,45,37,27,21,14,11,21,14,11,11,8,6,11,8,6,100%,100%,100%,25.20%,14.70%,12.30%,0.07%,0.06%,0.04%
+Gamma-adducin OS=Homo sapiens OX=9606 GN=ADD3 PE=1 SV=1,ADD3,79 kDa,,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,100%,100%,100%,1.98%,1.98%,4.25%,0.00%,0.00%,0.00%
+Galectin-3-binding protein OS=Homo sapiens OX=9606 GN=LGALS3BP PE=1 SV=1,LGALS3BP,65 kDa,,2,2,2,2,2,2,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,100%,4.44%,2.22%,2.22%,0.00%,0.00%,0.00%
+Galectin-3 OS=Homo sapiens OX=9606 GN=LGALS3 PE=1 SV=5,LGALS3,26 kDa,,7,5,7,7,5,7,4,3,3,4,3,3,3,2,2,3,2,2,100%,100%,100%,15.20%,9.60%,9.60%,0.01%,0.01%,0.01%
+Galectin-1 OS=Homo sapiens OX=9606 GN=LGALS1 PE=1 SV=2,LGALS1,15 kDa,,20,21,21,20,21,21,9,6,8,9,6,8,4,4,4,4,4,4,100%,100%,100%,31.90%,31.90%,31.90%,0.03%,0.03%,0.03%
+GTP-binding nuclear protein Ran OS=Homo sapiens OX=9606 GN=RAN PE=1 SV=3,RAN,24 kDa,,9,9,8,9,9,8,4,5,3,4,5,3,4,4,3,4,4,3,100%,100%,100%,17.60%,18.10%,17.60%,0.01%,0.01%,0.01%
+Fructose-bisphosphate aldolase C OS=Homo sapiens OX=9606 GN=ALDOC PE=1 SV=2,ALDOC,39 kDa,TRUE,10,14,10,10,10,9,3,6,4,3,3,3,1,3,2,1,1,1,99%,100%,100%,6.32%,14.80%,7.14%,0.02%,0.02%,0.02%
+Fructose-bisphosphate aldolase A OS=Homo sapiens OX=9606 GN=ALDOA PE=1 SV=2,ALDOA,39 kDa,TRUE,31,28,25,31,24,24,15,16,13,15,13,12,10,10,8,10,8,7,100%,100%,100%,30.50%,32.70%,28.00%,0.05%,0.04%,0.04%
+Four and a half LIM domains protein 2 OS=Homo sapiens OX=9606 GN=FHL2 PE=1 SV=3,FHL2,32 kDa,,9,5,5,9,5,5,7,3,3,7,3,3,6,3,3,6,3,3,100%,100%,100%,20.10%,13.60%,10.00%,0.01%,0.01%,0.01%
+Four and a half LIM domains protein 1 OS=Homo sapiens OX=9606 GN=FHL1 PE=1 SV=4,FHL1,36 kDa,,19,14,15,19,14,15,8,6,7,8,6,7,5,4,4,5,4,4,100%,100%,100%,18.90%,14.90%,14.90%,0.03%,0.02%,0.02%
+Flotillin-2 OS=Homo sapiens OX=9606 GN=FLOT2 PE=1 SV=2,FLOT2,47 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,0,22%,5.84%,0,0.00%,0.00%,0,0.00%
+Filamin-C OS=Homo sapiens OX=9606 GN=FLNC PE=1 SV=3,FLNC,291 kDa,TRUE,54,49,43,30,26,20,33,29,26,23,19,15,26,23,21,19,17,14,100%,100%,100%,14.00%,12.10%,11.40%,0.08%,0.08%,0.07%
+Filamin-B OS=Homo sapiens OX=9606 GN=FLNB PE=1 SV=2,FLNB,278 kDa,TRUE,89,70,68,71,52,50,52,40,39,46,32,31,42,31,32,37,26,27,100%,100%,100%,22.10%,16.50%,16.90%,0.13%,0.11%,0.11%
+Filamin-A OS=Homo sapiens OX=9606 GN=FLNA PE=1 SV=4,FLNA,281 kDa,TRUE,783,721,725,762,700,704,237,212,201,229,204,192,118,106,105,113,102,100,100%,100%,100%,60.10%,54.30%,54.00%,1.10%,1.10%,1.10%
+Filamin A-interacting protein 1-like OS=Homo sapiens OX=9606 GN=FILIP1L PE=1 SV=2,FILIP1L,130 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,48%,0,2.56%,0.00%,0,0.00%,0.00%,0
+Fibulin-5 OS=Homo sapiens OX=9606 GN=FBLN5 PE=1 SV=1,FBLN5,50 kDa,,24,23,24,24,23,24,11,7,7,11,7,7,4,5,4,4,5,4,100%,100%,100%,11.80%,14.30%,11.80%,0.04%,0.04%,0.04%
+Fibulin-2 OS=Homo sapiens OX=9606 GN=FBLN2 PE=1 SV=2,FBLN2,127 kDa,,4,1,1,4,1,1,4,1,1,4,1,1,3,1,1,3,1,1,100%,97%,100%,5.74%,1.01%,1.01%,0.01%,0.00%,0.00%
+Fibulin-1 OS=Homo sapiens OX=9606 GN=FBLN1 PE=1 SV=4,FBLN1,77 kDa,,6,3,3,6,3,3,4,1,2,4,1,2,3,1,2,3,1,2,100%,100%,100%,5.26%,1.42%,2.99%,0.01%,0.00%,0.00%
+Fibronectin OS=Homo sapiens OX=9606 GN=FN1 PE=1 SV=5,FN1,272 kDa,,211,181,167,211,181,167,92,72,68,92,72,68,46,37,41,46,37,41,100%,100%,100%,28.50%,22.90%,25.80%,0.31%,0.28%,0.26%
+Fibromodulin OS=Homo sapiens OX=9606 GN=FMOD PE=1 SV=2,FMOD,43 kDa,,9,10,9,9,10,9,5,6,6,5,6,6,4,4,4,4,4,4,100%,100%,100%,12.50%,15.40%,15.40%,0.01%,0.02%,0.01%
+Fibrinogen gamma chain OS=Homo sapiens OX=9606 GN=FGG PE=1 SV=3,FGG,52 kDa,,35,30,30,35,30,30,19,14,15,19,14,15,12,9,11,12,9,11,100%,100%,100%,31.60%,24.30%,27.60%,0.05%,0.05%,0.05%
+Fibrinogen beta chain OS=Homo sapiens OX=9606 GN=FGB PE=1 SV=2,FGB,56 kDa,,62,51,43,62,51,43,35,22,22,35,22,22,15,14,14,15,14,14,100%,100%,100%,35.60%,35.60%,33.80%,0.09%,0.08%,0.07%
+Fibrinogen alpha chain OS=Homo sapiens OX=9606 GN=FGA PE=1 SV=2,FGA,95 kDa,,31,26,26,31,26,26,16,15,10,16,15,10,11,12,8,11,12,8,100%,100%,100%,18.90%,20.20%,14.00%,0.05%,0.04%,0.04%
+Fibrillin-2 OS=Homo sapiens OX=9606 GN=FBN2 PE=1 SV=3,FBN2,315 kDa,TRUE,15,14,13,5,5,3,8,6,8,4,3,3,5,4,4,3,3,2,100%,100%,100%,2.13%,1.89%,1.75%,0.02%,0.02%,0.02%
+Fibrillin-1 OS=Homo sapiens OX=9606 GN=FBN1 PE=1 SV=4,FBN1,312 kDa,TRUE,425,371,385,415,362,375,156,144,146,152,141,141,75,71,74,73,70,72,100%,100%,100%,38.70%,35.00%,39.10%,0.62%,0.57%,0.61%
+Fermitin family homolog 2 OS=Homo sapiens OX=9606 GN=FERMT2 PE=1 SV=1,FERMT2,78 kDa,,13,5,2,13,5,2,10,4,2,10,4,2,7,4,2,7,4,2,100%,100%,100%,19.70%,11.80%,2.65%,0.02%,0.01%,0.00%
+Fascin OS=Homo sapiens OX=9606 GN=FSCN1 PE=1 SV=3,FSCN1,55 kDa,,14,8,8,14,8,8,10,6,6,10,6,6,5,5,5,5,5,5,100%,100%,100%,14.40%,14.40%,13.20%,0.02%,0.01%,0.01%
+Far upstream element-binding protein 2 OS=Homo sapiens OX=9606 GN=KHSRP PE=1 SV=4,KHSRP,73 kDa,,5,4,5,5,4,5,3,3,3,3,3,3,3,3,3,3,3,3,100%,100%,100%,5.20%,5.20%,5.20%,0.01%,0.01%,0.01%
+Far upstream element-binding protein 1 OS=Homo sapiens OX=9606 GN=FUBP1 PE=1 SV=3,FUBP1,68 kDa,,2,2,3,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,4.04%,4.04%,4.04%,0.00%,0.00%,0.00%
+F-actin-capping protein subunit beta OS=Homo sapiens OX=9606 GN=CAPZB PE=1 SV=4,CAPZB,31 kDa,,6,1,2,6,1,2,5,1,2,5,1,2,4,1,2,4,1,2,100%,99%,100%,21.30%,3.25%,10.80%,0.01%,0.00%,0.00%
+F-actin-capping protein subunit alpha-2 OS=Homo sapiens OX=9606 GN=CAPZA2 PE=1 SV=3,CAPZA2,33 kDa,TRUE,0,0,3,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,12%,0,0,3.50%,0,0,0.00%
+Extended synaptotagmin-1 OS=Homo sapiens OX=9606 GN=ESYT1 PE=1 SV=1,ESYT1,123 kDa,,4,3,3,4,3,3,4,3,3,4,3,3,3,2,3,3,2,3,100%,100%,100%,3.89%,2.54%,3.89%,0.01%,0.00%,0.00%
+Exportin-2 OS=Homo sapiens OX=9606 GN=CSE1L PE=1 SV=3,CSE1L,110 kDa,,38,36,48,38,36,48,2,1,2,2,1,2,2,1,2,2,1,2,100%,96%,100%,2.57%,0.82%,2.37%,0.06%,0.06%,0.08%
+Eukaryotic translation initiation factor 5A-1-like OS=Homo sapiens OX=9606 GN=EIF5AL1 PE=2 SV=2,EIF5AL1,17 kDa,TRUE,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,94%,19%,44%,11.70%,0.00%,11.70%,0.00%,0.00%,0.00%
+Eukaryotic initiation factor 4A-II OS=Homo sapiens OX=9606 GN=EIF4A2 PE=1 SV=2,EIF4A2,46 kDa,,6,6,7,6,6,7,4,3,4,4,3,4,4,3,4,4,3,4,100%,100%,100%,13.50%,10.10%,13.50%,0.01%,0.01%,0.01%
+Erlin-2 OS=Homo sapiens OX=9606 GN=ERLIN2 PE=1 SV=1,ERLIN2,38 kDa,TRUE,5,5,3,2,3,1,3,3,2,1,2,1,3,3,2,1,2,1,100%,100%,100%,10.60%,10.00%,7.08%,0.01%,0.01%,0.00%
+Epiplakin OS=Homo sapiens OX=9606 GN=EPPK1 PE=1 SV=3,EPPK1,556 kDa,TRUE,1,3,1,0,1,0,1,2,1,0,1,0,1,2,1,0,1,0,37%,99%,33%,0.20%,0.39%,0.20%,0.00%,0.00%,0.00%
+Epidermal growth factor receptor kinase substrate 8 OS=Homo sapiens OX=9606 GN=EPS8 PE=1 SV=1,EPS8,92 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,0,0,3.16%,0,0,0.00%,0,0
+Endoplasmin OS=Homo sapiens OX=9606 GN=HSP90B1 PE=1 SV=1,HSP90B1,92 kDa,TRUE,19,9,12,18,8,11,13,5,7,12,4,6,10,5,7,9,4,6,100%,100%,100%,17.40%,8.72%,9.46%,0.03%,0.01%,0.02%
+Endoplasmic reticulum chaperone BiP OS=Homo sapiens OX=9606 GN=HSPA5 PE=1 SV=2,HSPA5,72 kDa,TRUE,66,55,50,54,43,40,26,21,22,23,18,19,20,16,17,18,14,15,100%,100%,100%,34.70%,29.40%,31.70%,0.10%,0.09%,0.08%
+"Elongation factor Tu, mitochondrial OS=Homo sapiens OX=9606 GN=TUFM PE=1 SV=2",TUFM,50 kDa,,3,4,3,3,4,3,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,5.75%,5.75%,5.75%,0.00%,0.01%,0.00%
+Elongation factor 2 OS=Homo sapiens OX=9606 GN=EEF2 PE=1 SV=4,EEF2,95 kDa,TRUE,15,15,15,15,15,13,8,9,10,8,9,8,6,6,7,6,6,6,100%,100%,100%,10.30%,9.56%,10.70%,0.02%,0.02%,0.02%
+Elongation factor 1-gamma OS=Homo sapiens OX=9606 GN=EEF1G PE=1 SV=3,EEF1G,50 kDa,,7,5,4,7,5,4,5,4,3,5,4,3,4,3,3,4,3,3,100%,100%,100%,10.80%,11.40%,11.40%,0.01%,0.01%,0.01%
+Elongation factor 1-delta OS=Homo sapiens OX=9606 GN=EEF1D PE=1 SV=5,EEF1D,31 kDa,,9,3,4,9,3,4,7,2,4,7,2,4,6,2,4,6,2,4,100%,100%,100%,28.50%,7.47%,20.30%,0.01%,0.00%,0.01%
+Elongation factor 1-beta OS=Homo sapiens OX=9606 GN=EEF1B2 PE=1 SV=3,EEF1B2,25 kDa,,6,8,6,6,8,6,3,5,4,3,5,4,2,3,3,2,3,3,100%,100%,100%,12.40%,16.40%,16.40%,0.01%,0.01%,0.01%
+Elongation factor 1-alpha 2 OS=Homo sapiens OX=9606 GN=EEF1A2 PE=1 SV=1,EEF1A2,50 kDa,TRUE,14,16,19,0,0,0,5,5,5,0,0,0,3,3,3,0,0,0,43%,55%,49%,6.48%,6.48%,6.48%,0.02%,0.03%,0.03%
+Elastin OS=Homo sapiens OX=9606 GN=ELN PE=1 SV=4,ELN,68 kDa,,6,6,7,6,6,7,4,5,4,4,5,4,4,4,4,4,4,4,100%,100%,100%,8.65%,10.60%,10.60%,0.01%,0.01%,0.01%
+Echinoderm microtubule-associated protein-like 4 OS=Homo sapiens OX=9606 GN=EML4 PE=1 SV=3,EML4,109 kDa,,3,2,1,3,2,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,99%,2.65%,1.63%,1.63%,0.00%,0.00%,0.00%
+Early endosome antigen 1 OS=Homo sapiens OX=9606 GN=EEA1 PE=1 SV=2,EEA1,162 kDa,,4,1,2,4,1,2,4,1,2,4,1,2,3,1,2,3,1,2,100%,99%,100%,2.55%,1.13%,1.84%,0.01%,0.00%,0.00%
+EMILIN-1 OS=Homo sapiens OX=9606 GN=EMILIN1 PE=1 SV=3,EMILIN1,107 kDa,,74,56,52,74,56,52,45,30,27,45,30,27,22,16,15,22,16,15,100%,100%,100%,31.50%,22.50%,22.60%,0.11%,0.09%,0.08%
+ELAV-like protein 1 OS=Homo sapiens OX=9606 GN=ELAVL1 PE=1 SV=2,ELAVL1,36 kDa,,2,2,3,2,2,3,2,2,3,2,2,3,2,2,3,2,2,3,100%,100%,100%,6.75%,6.75%,10.70%,0.00%,0.00%,0.00%
+EH domain-containing protein 4 OS=Homo sapiens OX=9606 GN=EHD4 PE=1 SV=1,EHD4,61 kDa,TRUE,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,100%,96%,0,5.18%,2.40%,0,0.00%,0.00%,0
+EH domain-containing protein 2 OS=Homo sapiens OX=9606 GN=EHD2 PE=1 SV=2,EHD2,61 kDa,TRUE,6,8,7,6,8,7,4,5,5,4,5,5,2,3,3,2,3,3,100%,100%,100%,5.16%,5.16%,5.16%,0.01%,0.01%,0.01%
+EH domain-containing protein 1 OS=Homo sapiens OX=9606 GN=EHD1 PE=1 SV=2,EHD1,61 kDa,TRUE,3,2,1,3,2,1,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,99%,5.43%,5.43%,2.06%,0.00%,0.00%,0.00%
+EGF-containing fibulin-like extracellular matrix protein 1 OS=Homo sapiens OX=9606 GN=EFEMP1 PE=1 SV=2,EFEMP1,55 kDa,,43,28,25,43,28,25,22,16,14,22,16,14,13,9,10,13,9,10,100%,100%,100%,40.40%,25.80%,30.40%,0.06%,0.04%,0.04%
+E3 ubiquitin/ISG15 ligase TRIM25 OS=Homo sapiens OX=9606 GN=TRIM25 PE=1 SV=2,TRIM25,71 kDa,,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,100%,0,99%,4.29%,0,3.02%,0.00%,0,0.00%
+RanBP2-like and GRIP domain-containing protein 3 OS=Homo sapiens OX=9606 GN=RGPD3 PE=3 SV=2,RGPD3,197 kDa,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,17%,9%,16%,0.74%,0.00%,0.00%,0.00%,0.00%,0.00%
+Dystrophin OS=Homo sapiens OX=9606 GN=DMD PE=1 SV=3,DMD,427 kDa,,7,3,5,7,3,5,7,3,5,7,3,5,6,3,4,6,3,4,100%,100%,100%,2.55%,1.19%,1.49%,0.01%,0.00%,0.01%
+Dynactin subunit 2 OS=Homo sapiens OX=9606 GN=DCTN2 PE=1 SV=4,DCTN2,44 kDa,,2,2,1,2,2,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,88%,88%,12.70%,2.24%,2.24%,0.00%,0.00%,0.00%
+Dynactin subunit 1 OS=Homo sapiens OX=9606 GN=DCTN1 PE=1 SV=3,DCTN1,142 kDa,,3,2,3,3,2,3,3,2,3,3,2,3,3,2,3,3,2,3,100%,100%,100%,2.90%,2.35%,3.29%,0.00%,0.00%,0.00%
+Drebrin OS=Homo sapiens OX=9606 GN=DBN1 PE=1 SV=4,DBN1,71 kDa,,3,1,0,3,1,0,2,1,0,2,1,0,2,1,0,2,1,0,100%,99%,9%,8.32%,5.55%,0.00%,0.00%,0.00%,0.00%
+Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2 OS=Homo sapiens OX=9606 GN=RPN2 PE=1 SV=3,RPN2,69 kDa,,13,6,6,13,6,6,8,3,3,8,3,3,5,2,2,5,2,2,100%,100%,100%,15.40%,6.50%,6.50%,0.02%,0.01%,0.01%
+Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Homo sapiens OX=9606 GN=RPN1 PE=1 SV=1,RPN1,69 kDa,,11,13,12,11,13,12,8,8,7,8,8,7,7,7,7,7,7,7,100%,100%,100%,13.00%,12.50%,12.50%,0.02%,0.02%,0.02%
+Dihydropyrimidinase-related protein 3 OS=Homo sapiens OX=9606 GN=DPYSL3 PE=1 SV=1,DPYSL3,62 kDa,TRUE,109,98,93,102,93,88,35,32,33,31,28,30,18,18,17,16,16,15,100%,100%,100%,47.70%,40.00%,35.10%,0.16%,0.15%,0.15%
+"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial OS=Homo sapiens OX=9606 GN=DLST PE=1 SV=4",DLST,49 kDa,,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,4.86%,4.86%,4.86%,0.00%,0.00%,0.00%
+Dermatopontin OS=Homo sapiens OX=9606 GN=DPT PE=1 SV=2,DPT,24 kDa,,4,1,3,4,1,3,4,1,1,4,1,1,2,1,1,2,1,1,100%,99%,99%,13.90%,5.47%,5.47%,0.01%,0.00%,0.00%
+Delta-sarcoglycan OS=Homo sapiens OX=9606 GN=SGCD PE=1 SV=2,SGCD,32 kDa,,10,9,9,10,9,9,4,5,6,4,5,6,4,4,4,4,4,4,100%,100%,100%,16.30%,16.30%,16.30%,0.02%,0.01%,0.01%
+Decorin OS=Homo sapiens OX=9606 GN=DCN PE=1 SV=1,DCN,40 kDa,,75,63,62,75,63,62,20,18,18,20,18,18,9,8,8,9,8,8,100%,100%,100%,32.30%,25.60%,25.60%,0.11%,0.10%,0.10%
+Death domain-associated protein 6 OS=Homo sapiens OX=9606 GN=DAXX PE=1 SV=2,DAXX,81 kDa,,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,90%,100%,99%,1.08%,3.24%,1.08%,0.00%,0.00%,0.00%
+DNA-dependent protein kinase catalytic subunit OS=Homo sapiens OX=9606 GN=PRKDC PE=1 SV=3,PRKDC,469 kDa,,7,3,3,7,3,3,7,3,3,7,3,3,6,2,2,6,2,2,100%,100%,100%,2.11%,0.53%,0.78%,0.01%,0.00%,0.00%
+D-3-phosphoglycerate dehydrogenase OS=Homo sapiens OX=9606 GN=PHGDH PE=1 SV=4,PHGDH,57 kDa,,9,4,4,9,4,4,8,3,3,8,3,3,6,3,2,6,3,2,100%,100%,100%,17.10%,8.44%,4.88%,0.01%,0.01%,0.01%
+Cytosolic non-specific dipeptidase OS=Homo sapiens OX=9606 GN=CNDP2 PE=1 SV=2,CNDP2,53 kDa,,9,6,5,9,6,5,5,4,3,5,4,3,5,4,3,5,4,3,100%,100%,100%,14.50%,10.70%,8.00%,0.01%,0.01%,0.01%
+Cytosol aminopeptidase OS=Homo sapiens OX=9606 GN=LAP3 PE=1 SV=3,LAP3,56 kDa,,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,100%,100%,100%,9.25%,2.89%,5.20%,0.00%,0.00%,0.00%
+Cytoskeleton-associated protein 4 OS=Homo sapiens OX=9606 GN=CKAP4 PE=1 SV=2,CKAP4,66 kDa,TRUE,45,37,39,45,37,39,29,21,24,29,21,24,18,16,17,18,16,17,100%,100%,100%,38.20%,37.20%,36.00%,0.07%,0.06%,0.06%
+Cytoplasmic dynein 1 light intermediate chain 2 OS=Homo sapiens OX=9606 GN=DYNC1LI2 PE=1 SV=1,DYNC1LI2,54 kDa,,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,100%,5.08%,2.64%,2.64%,0.00%,0.00%,0.00%
+Cytoplasmic dynein 1 heavy chain 1 OS=Homo sapiens OX=9606 GN=DYNC1H1 PE=1 SV=5,DYNC1H1,532 kDa,,26,19,15,26,19,15,20,14,11,20,14,11,19,14,11,19,14,11,100%,100%,100%,5.73%,3.70%,3.19%,0.04%,0.03%,0.02%
+Cytoplasmic FMR1-interacting protein 2 OS=Homo sapiens OX=9606 GN=CYFIP2 PE=1 SV=2,CYFIP2,148 kDa,TRUE,1,1,2,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,19%,17%,8%,0.86%,0.86%,0.86%,0.00%,0.00%,0.00%
+Cysteine-rich protein 2 OS=Homo sapiens OX=9606 GN=CRIP2 PE=1 SV=1,CRIP2,22 kDa,,6,5,6,6,5,6,4,5,4,4,5,4,4,2,3,4,2,3,100%,100%,100%,32.20%,24.50%,24.50%,0.01%,0.01%,0.01%
+Cysteine and glycine-rich protein 2 OS=Homo sapiens OX=9606 GN=CSRP2 PE=1 SV=3,CSRP2,21 kDa,,4,2,1,4,2,1,4,1,1,4,1,1,4,1,1,4,1,1,100%,99%,95%,33.20%,7.77%,7.77%,0.01%,0.00%,0.00%
+Cysteine and glycine-rich protein 1 OS=Homo sapiens OX=9606 GN=CSRP1 PE=1 SV=3,CSRP1,21 kDa,,38,40,39,38,40,39,16,16,18,16,16,18,9,9,9,9,9,9,100%,100%,100%,50.80%,59.60%,59.60%,0.06%,0.06%,0.06%
+Cullin-associated NEDD8-dissociated protein 1 OS=Homo sapiens OX=9606 GN=CAND1 PE=1 SV=2,CAND1,136 kDa,,7,10,7,7,10,7,3,4,3,3,4,3,3,4,3,3,4,3,100%,100%,100%,3.01%,4.23%,3.41%,0.01%,0.02%,0.01%
+Creatine kinase B-type OS=Homo sapiens OX=9606 GN=CKB PE=1 SV=1,CKB,43 kDa,,11,9,11,11,9,11,6,5,6,6,5,6,6,5,5,6,5,5,100%,100%,100%,19.40%,19.20%,19.20%,0.02%,0.01%,0.02%
+Coronin-6 OS=Homo sapiens OX=9606 GN=CORO6 PE=1 SV=2,CORO6,53 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coronin-1B OS=Homo sapiens OX=9606 GN=CORO1B PE=1 SV=1,CORO1B,54 kDa,,5,2,4,5,2,4,2,1,2,2,1,2,2,1,2,2,1,2,100%,99%,100%,4.70%,2.04%,4.70%,0.01%,0.00%,0.01%
+Coronin-1A OS=Homo sapiens OX=9606 GN=CORO1A PE=1 SV=4,CORO1A,51 kDa,,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,99%,5.64%,2.17%,2.17%,0.00%,0.00%,0.00%
+Core histone macro-H2A.2 OS=Homo sapiens OX=9606 GN=H2AFY2 PE=1 SV=3,H2AFY2,40 kDa,TRUE,15,15,16,10,8,10,6,5,5,5,4,4,4,4,4,3,3,3,100%,100%,100%,14.20%,14.20%,14.20%,0.02%,0.02%,0.03%
+Core histone macro-H2A.1 OS=Homo sapiens OX=9606 GN=H2AFY PE=1 SV=4,H2AFY,40 kDa,TRUE,23,14,17,18,7,11,7,6,6,6,5,5,5,4,5,4,3,4,100%,100%,100%,22.00%,16.70%,22.00%,0.03%,0.02%,0.03%
+Copine-3 OS=Homo sapiens OX=9606 GN=CPNE3 PE=1 SV=1,CPNE3,60 kDa,,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,100%,99%,0,6.70%,2.23%,0,0.00%,0.00%,0
+Constitutive coactivator of PPAR-gamma-like protein 1 OS=Homo sapiens OX=9606 GN=FAM120A PE=1 SV=2,FAM120A,122 kDa,,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,100%,16%,99%,1.97%,0.00%,1.16%,0.00%,0.00%,0.00%
+Complement factor H OS=Homo sapiens OX=9606 GN=CFH PE=1 SV=4,CFH,139 kDa,,30,23,25,30,23,25,23,16,18,23,16,18,16,12,16,16,12,16,100%,100%,100%,17.90%,12.80%,17.50%,0.04%,0.04%,0.04%
+Complement factor B OS=Homo sapiens OX=9606 GN=CFB PE=1 SV=2,CFB,86 kDa,,12,6,5,12,6,5,8,4,3,8,4,3,7,3,3,7,3,3,100%,100%,100%,10.90%,4.71%,4.06%,0.02%,0.01%,0.01%
+Complement C5 OS=Homo sapiens OX=9606 GN=C5 PE=1 SV=4,C5,188 kDa,,4,2,2,4,2,2,4,2,2,4,2,2,4,2,2,4,2,2,100%,100%,100%,2.74%,1.49%,1.43%,0.01%,0.00%,0.00%
+Complement C4-B OS=Homo sapiens OX=9606 GN=C4B PE=1 SV=2,C4B,193 kDa,TRUE,27,17,19,0,0,0,15,11,9,0,0,0,14,8,8,0,0,0,99%,93%,93%,11.80%,6.54%,6.31%,0.04%,0.03%,0.03%
+Complement C3 OS=Homo sapiens OX=9606 GN=C3 PE=1 SV=2,C3,187 kDa,,108,70,67,108,70,67,54,28,28,54,28,28,36,20,20,36,20,20,100%,100%,100%,28.40%,16.40%,18.40%,0.16%,0.11%,0.11%
+Collagen alpha-5(IV) chain OS=Homo sapiens OX=9606 GN=COL4A5 PE=1 SV=2,COL4A5,161 kDa,TRUE,5,7,6,0,0,0,4,4,4,0,0,0,2,2,2,0,0,0,95%,91%,92%,1.42%,1.42%,1.42%,0.01%,0.01%,0.01%
+Collagen alpha-3(VI) chain OS=Homo sapiens OX=9606 GN=COL6A3 PE=1 SV=5,COL6A3,344 kDa,,467,429,413,467,429,413,166,138,128,166,138,128,87,77,78,87,77,78,100%,100%,100%,30.80%,27.60%,28.40%,0.68%,0.66%,0.65%
+Collagen alpha-2(VI) chain OS=Homo sapiens OX=9606 GN=COL6A2 PE=1 SV=4,COL6A2,109 kDa,,128,118,124,128,118,124,40,30,33,40,30,33,13,11,13,13,11,13,100%,100%,100%,17.90%,14.80%,18.90%,0.19%,0.18%,0.20%
+Collagen alpha-2(V) chain OS=Homo sapiens OX=9606 GN=COL5A2 PE=1 SV=3,COL5A2,145 kDa,,2,3,4,2,3,4,2,2,3,2,2,3,2,1,2,2,1,2,100%,100%,100%,2.54%,1.07%,2.40%,0.00%,0.00%,0.01%
+Collagen alpha-2(IV) chain OS=Homo sapiens OX=9606 GN=COL4A2 PE=1 SV=4,COL4A2,168 kDa,,77,73,70,77,73,70,39,33,32,39,33,32,16,18,18,16,18,18,100%,100%,100%,16.70%,18.80%,17.30%,0.11%,0.11%,0.11%
+Collagen alpha-2(I) chain OS=Homo sapiens OX=9606 GN=COL1A2 PE=1 SV=7,COL1A2,129 kDa,,415,357,362,415,357,362,183,144,154,183,144,154,65,55,55,65,55,55,100%,100%,100%,64.50%,62.80%,62.60%,0.61%,0.55%,0.57%
+Collagen alpha-1(XVIII) chain OS=Homo sapiens OX=9606 GN=COL18A1 PE=1 SV=5,COL18A1,178 kDa,,21,18,21,21,18,21,11,7,9,11,7,9,7,6,7,7,6,7,100%,100%,100%,7.01%,6.21%,7.35%,0.03%,0.03%,0.03%
+Collagen alpha-1(XVI) chain OS=Homo sapiens OX=9606 GN=COL16A1 PE=1 SV=2,COL16A1,158 kDa,TRUE,9,6,9,9,6,9,7,5,7,7,5,7,5,4,6,5,4,6,100%,100%,100%,5.99%,5.55%,7.86%,0.01%,0.01%,0.01%
+Collagen alpha-1(XV) chain OS=Homo sapiens OX=9606 GN=COL15A1 PE=1 SV=2,COL15A1,142 kDa,,1,3,1,1,3,1,1,2,1,1,2,1,1,2,1,1,2,1,100%,100%,100%,0.72%,1.95%,1.22%,0.00%,0.00%,0.00%
+Collagen alpha-1(XIV) chain OS=Homo sapiens OX=9606 GN=COL14A1 PE=1 SV=3,COL14A1,194 kDa,,189,173,168,189,173,168,71,56,61,71,56,61,40,31,34,40,31,34,100%,100%,100%,33.40%,26.30%,28.70%,0.28%,0.27%,0.27%
+Collagen alpha-1(XII) chain OS=Homo sapiens OX=9606 GN=COL12A1 PE=1 SV=2,COL12A1,333 kDa,,154,129,122,154,129,122,80,63,65,80,63,65,51,46,44,51,46,44,100%,100%,100%,24.20%,21.40%,20.30%,0.23%,0.20%,0.19%
+Collagen alpha-1(VI) chain OS=Homo sapiens OX=9606 GN=COL6A1 PE=1 SV=3,COL6A1,109 kDa,,166,133,140,166,133,140,50,38,41,50,38,41,23,21,20,23,21,20,100%,100%,100%,26.70%,25.70%,23.80%,0.24%,0.21%,0.22%
+Collagen alpha-1(V) chain OS=Homo sapiens OX=9606 GN=COL5A1 PE=1 SV=3,COL5A1,184 kDa,TRUE,3,1,1,1,0,0,2,1,1,1,0,0,2,1,1,1,0,0,100%,98%,99%,1.69%,0.65%,0.65%,0.00%,0.00%,0.00%
+Collagen alpha-1(IV) chain OS=Homo sapiens OX=9606 GN=COL4A1 PE=1 SV=4,COL4A1,161 kDa,TRUE,40,44,43,35,37,37,21,20,20,17,16,16,9,9,9,7,7,7,100%,100%,100%,8.87%,8.87%,8.87%,0.06%,0.07%,0.07%
+Collagen alpha-1(III) chain OS=Homo sapiens OX=9606 GN=COL3A1 PE=1 SV=4,COL3A1,139 kDa,TRUE,190,157,148,181,148,139,111,81,81,107,76,76,44,38,37,43,37,36,100%,100%,100%,49.80%,49.70%,46.10%,0.28%,0.24%,0.23%
+Collagen alpha-1(II) chain OS=Homo sapiens OX=9606 GN=COL2A1 PE=1 SV=3,COL2A1,142 kDa,TRUE,47,42,42,6,6,6,11,12,11,3,3,2,5,4,4,3,2,2,100%,100%,100%,5.31%,4.30%,4.30%,0.07%,0.07%,0.07%
+Collagen alpha-1(I) chain OS=Homo sapiens OX=9606 GN=COL1A1 PE=1 SV=5,COL1A1,139 kDa,TRUE,616,532,534,584,504,507,262,205,219,258,201,215,78,68,69,77,67,68,100%,100%,100%,63.60%,61.80%,63.60%,0.90%,0.82%,0.84%
+Cofilin-2 OS=Homo sapiens OX=9606 GN=CFL2 PE=1 SV=1,CFL2,19 kDa,TRUE,6,4,5,2,0,0,3,2,1,2,0,0,2,1,1,1,0,0,99%,8%,8%,18.70%,6.63%,6.63%,0.01%,0.01%,0.01%
+Coatomer subunit gamma-1 OS=Homo sapiens OX=9606 GN=COPG1 PE=1 SV=1,COPG1,98 kDa,TRUE,4,4,3,4,4,3,4,4,3,4,4,3,4,4,3,4,4,3,100%,100%,100%,6.64%,6.86%,4.92%,0.01%,0.01%,0.00%
+Coatomer subunit delta OS=Homo sapiens OX=9606 GN=ARCN1 PE=1 SV=1,ARCN1,57 kDa,,4,3,2,4,3,2,4,3,2,4,3,2,4,3,2,4,3,2,100%,100%,100%,8.41%,6.65%,4.31%,0.01%,0.00%,0.00%
+Coatomer subunit beta' OS=Homo sapiens OX=9606 GN=COPB2 PE=1 SV=2,COPB2,102 kDa,,7,6,6,7,6,6,4,4,3,4,4,3,3,3,3,3,3,3,100%,100%,100%,5.19%,5.74%,5.74%,0.01%,0.01%,0.01%
+Coatomer subunit beta OS=Homo sapiens OX=9606 GN=COPB1 PE=1 SV=3,COPB1,107 kDa,,2,3,1,2,3,1,1,2,1,1,2,1,1,2,1,1,2,1,99%,100%,100%,1.47%,3.36%,1.47%,0.00%,0.00%,0.00%
+Coatomer subunit alpha OS=Homo sapiens OX=9606 GN=COPA PE=1 SV=2,COPA,138 kDa,,9,4,8,9,4,8,7,4,5,7,4,5,7,4,5,7,4,5,100%,100%,100%,8.09%,4.41%,5.47%,0.01%,0.01%,0.01%
+Coagulation factor XIII A chain OS=Homo sapiens OX=9606 GN=F13A1 PE=1 SV=4,F13A1,83 kDa,,15,14,11,15,14,11,6,4,5,6,4,5,4,3,2,4,3,2,100%,100%,100%,9.43%,7.10%,5.60%,0.02%,0.02%,0.02%
+Clusterin OS=Homo sapiens OX=9606 GN=CLU PE=1 SV=1,CLU,52 kDa,,4,5,3,4,5,3,3,4,2,3,4,2,3,3,2,3,3,2,100%,100%,100%,7.80%,9.13%,6.68%,0.01%,0.01%,0.00%
+Clathrin light chain B OS=Homo sapiens OX=9606 GN=CLTB PE=1 SV=1,CLTB,25 kDa,,5,4,4,5,4,4,4,4,2,4,4,2,2,2,2,2,2,2,100%,100%,100%,10.00%,10.00%,10.00%,0.01%,0.01%,0.01%
+Clathrin heavy chain 1 OS=Homo sapiens OX=9606 GN=CLTC PE=1 SV=5,CLTC,192 kDa,TRUE,38,29,26,38,29,26,25,20,16,25,20,16,18,14,13,18,14,13,100%,100%,100%,15.20%,11.30%,11.30%,0.06%,0.05%,0.04%
+Ceruloplasmin OS=Homo sapiens OX=9606 GN=CP PE=1 SV=1,CP,122 kDa,,26,23,22,26,23,22,15,12,14,15,12,14,9,11,10,9,11,10,100%,100%,100%,13.50%,17.20%,15.20%,0.04%,0.04%,0.04%
+Cell surface glycoprotein MUC18 OS=Homo sapiens OX=9606 GN=MCAM PE=1 SV=2,MCAM,72 kDa,,9,9,11,9,9,11,7,7,6,7,7,6,5,5,5,5,5,5,100%,100%,100%,12.10%,12.10%,12.10%,0.01%,0.01%,0.02%
+Cell cycle and apoptosis regulator protein 2 OS=Homo sapiens OX=9606 GN=CCAR2 PE=1 SV=2,CCAR2,103 kDa,,3,2,1,3,2,1,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,100%,4.33%,2.82%,1.63%,0.00%,0.00%,0.00%
+Caveolin-1 OS=Homo sapiens OX=9606 GN=CAV1 PE=1 SV=4,CAV1,20 kDa,,13,12,11,13,12,11,6,3,4,6,3,4,4,2,2,4,2,2,100%,100%,100%,23.00%,13.50%,13.50%,0.02%,0.02%,0.02%
+Caveolae-associated protein 3 OS=Homo sapiens OX=9606 GN=CAVIN3 PE=1 SV=3,CAVIN3,28 kDa,,5,5,5,5,5,5,5,3,3,5,3,3,3,2,2,3,2,2,100%,100%,100%,15.70%,11.50%,11.50%,0.01%,0.01%,0.01%
+Caveolae-associated protein 2 OS=Homo sapiens OX=9606 GN=CAVIN2 PE=1 SV=3,CAVIN2,47 kDa,,15,7,10,15,7,10,9,4,4,9,4,4,6,3,3,6,3,3,100%,100%,100%,25.20%,8.24%,8.24%,0.02%,0.01%,0.02%
+Caveolae-associated protein 1 OS=Homo sapiens OX=9606 GN=CAVIN1 PE=1 SV=1,CAVIN1,43 kDa,,78,67,73,78,67,73,27,15,20,27,15,20,11,9,10,11,9,10,100%,100%,100%,33.30%,30.80%,33.10%,0.11%,0.10%,0.12%
+Cathepsin D OS=Homo sapiens OX=9606 GN=CTSD PE=1 SV=1,CTSD,45 kDa,,3,3,2,3,3,2,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,100%,4.61%,4.61%,2.43%,0.00%,0.00%,0.00%
+Catenin beta-1 OS=Homo sapiens OX=9606 GN=CTNNB1 PE=1 SV=1,CTNNB1,85 kDa,,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,99%,99%,100%,1.54%,1.54%,3.59%,0.00%,0.00%,0.00%
+Catenin alpha-1 OS=Homo sapiens OX=9606 GN=CTNNA1 PE=1 SV=1,CTNNA1,100 kDa,,4,1,7,4,1,7,3,1,4,3,1,4,1,1,2,1,1,2,100%,100%,100%,1.43%,1.43%,2.87%,0.01%,0.00%,0.01%
+Carbonyl reductase [NADPH] 1 OS=Homo sapiens OX=9606 GN=CBR1 PE=1 SV=3,CBR1,30 kDa,,4,3,3,4,3,3,4,2,3,4,2,3,4,2,2,4,2,2,100%,100%,100%,18.10%,9.75%,9.75%,0.01%,0.00%,0.00%
+Carbonic anhydrase 1 OS=Homo sapiens OX=9606 GN=CA1 PE=1 SV=2,CA1,29 kDa,,7,3,3,7,3,3,5,3,3,5,3,3,3,2,2,3,2,2,100%,100%,100%,18.40%,13.00%,13.00%,0.01%,0.00%,0.00%
+Calumenin OS=Homo sapiens OX=9606 GN=CALU PE=1 SV=2,CALU,37 kDa,,2,2,3,2,2,3,1,2,2,1,2,2,1,2,2,1,2,2,99%,100%,100%,5.08%,9.84%,9.84%,0.00%,0.00%,0.00%
+Calreticulin OS=Homo sapiens OX=9606 GN=CALR PE=1 SV=1,CALR,48 kDa,,20,9,8,20,9,8,5,5,4,5,5,4,3,3,2,3,3,2,100%,100%,100%,11.80%,11.80%,8.15%,0.03%,0.01%,0.01%
+Calponin-3 OS=Homo sapiens OX=9606 GN=CNN3 PE=1 SV=1,CNN3,36 kDa,TRUE,5,4,4,4,4,4,4,3,3,3,3,3,4,2,2,3,2,2,100%,100%,100%,16.10%,10.00%,10.00%,0.01%,0.01%,0.01%
+Calponin-2 OS=Homo sapiens OX=9606 GN=CNN2 PE=1 SV=4,CNN2,34 kDa,TRUE,7,5,7,6,5,7,5,2,3,4,2,3,3,2,2,2,2,2,100%,100%,100%,11.70%,8.09%,8.09%,0.01%,0.01%,0.01%
+Calponin-1 OS=Homo sapiens OX=9606 GN=CNN1 PE=1 SV=2,CNN1,33 kDa,,29,26,24,29,26,24,15,9,9,15,9,9,9,7,7,9,7,7,100%,100%,100%,33.30%,28.60%,28.60%,0.04%,0.04%,0.04%
+Calpastatin OS=Homo sapiens OX=9606 GN=CAST PE=1 SV=4,CAST,77 kDa,,4,3,3,4,3,3,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,4.38%,4.38%,4.38%,0.01%,0.00%,0.00%
+Calpain-2 catalytic subunit OS=Homo sapiens OX=9606 GN=CAPN2 PE=1 SV=6,CAPN2,80 kDa,,4,2,3,4,2,3,3,2,2,3,2,2,2,2,2,2,2,2,100%,100%,100%,5.14%,5.14%,5.14%,0.01%,0.00%,0.00%
+Calpain-1 catalytic subunit OS=Homo sapiens OX=9606 GN=CAPN1 PE=1 SV=1,CAPN1,82 kDa,,4,4,3,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,100%,100%,100%,3.78%,3.78%,3.78%,0.01%,0.01%,0.00%
+Calnexin OS=Homo sapiens OX=9606 GN=CANX PE=1 SV=2,CANX,68 kDa,,7,1,3,7,1,3,4,1,1,4,1,1,4,1,1,4,1,1,100%,100%,99%,7.09%,2.70%,2.70%,0.01%,0.00%,0.00%
+Calmodulin-1 OS=Homo sapiens OX=9606 GN=CALM1 PE=1 SV=1,CALM1,17 kDa,,23,22,26,23,22,26,10,10,11,10,10,11,5,5,5,5,5,5,100%,100%,100%,30.90%,30.90%,30.90%,0.03%,0.03%,0.04%
+Caldesmon OS=Homo sapiens OX=9606 GN=CALD1 PE=1 SV=3,CALD1,93 kDa,,153,137,135,153,137,135,72,55,54,72,55,54,33,27,29,33,27,29,100%,100%,100%,36.60%,32.80%,34.60%,0.22%,0.21%,0.21%
+C-type mannose receptor 2 OS=Homo sapiens OX=9606 GN=MRC2 PE=1 SV=2,MRC2,167 kDa,,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,100%,98%,2.57%,0.74%,1.69%,0.00%,0.00%,0.00%
+"C-1-tetrahydrofolate synthase, cytoplasmic OS=Homo sapiens OX=9606 GN=MTHFD1 PE=1 SV=3",MTHFD1,102 kDa,,7,4,4,7,4,4,6,3,4,6,3,4,6,3,4,6,3,4,100%,100%,100%,8.88%,4.39%,5.24%,0.01%,0.01%,0.01%
+C4b-binding protein alpha chain OS=Homo sapiens OX=9606 GN=C4BPA PE=1 SV=2,C4BPA,67 kDa,,5,2,2,5,2,2,4,2,2,4,2,2,3,2,2,3,2,2,100%,100%,100%,6.53%,5.03%,5.03%,0.01%,0.00%,0.00%
+Brain acid soluble protein 1 OS=Homo sapiens OX=9606 GN=BASP1 PE=1 SV=2,BASP1,23 kDa,,6,2,3,6,2,3,5,2,3,5,2,3,5,2,3,5,2,3,100%,100%,100%,48.00%,23.30%,29.50%,0.01%,0.00%,0.00%
+Biglycan OS=Homo sapiens OX=9606 GN=BGN PE=1 SV=2,BGN,42 kDa,,21,13,13,21,13,13,8,5,7,8,5,7,5,4,5,5,4,5,100%,100%,100%,17.40%,14.90%,17.40%,0.03%,0.02%,0.02%
+Bifunctional purine biosynthesis protein PURH OS=Homo sapiens OX=9606 GN=ATIC PE=1 SV=3,ATIC,65 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,53%,77%,5.07%,0.00%,0.00%,0.00%,0.00%,0.00%
+Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2 OS=Homo sapiens OX=9606 GN=PAPSS2 PE=1 SV=2,PAPSS2,70 kDa,,4,1,1,4,1,1,3,1,1,3,1,1,2,1,1,2,1,1,100%,100%,100%,4.89%,2.77%,2.77%,0.01%,0.00%,0.00%
+Beta-2-syntrophin OS=Homo sapiens OX=9606 GN=SNTB2 PE=1 SV=1,SNTB2,58 kDa,,5,4,3,5,4,3,3,3,2,3,3,2,3,2,2,3,2,2,100%,100%,100%,7.96%,5.00%,5.00%,0.01%,0.01%,0.00%
+Beta-2-glycoprotein 1 OS=Homo sapiens OX=9606 GN=APOH PE=1 SV=3,APOH,38 kDa,,19,16,11,19,16,11,10,8,8,10,8,8,8,7,7,8,7,7,100%,100%,100%,38.80%,37.10%,37.10%,0.03%,0.03%,0.02%
+Basement membrane-specific heparan sulfate proteoglycan core protein OS=Homo sapiens OX=9606 GN=HSPG2 PE=1 SV=4,HSPG2,469 kDa,,243,188,201,243,188,201,136,93,96,136,93,96,75,59,63,75,59,63,100%,100%,100%,26.70%,20.70%,21.90%,0.36%,0.29%,0.32%
+Band 4.1-like protein 2 OS=Homo sapiens OX=9606 GN=EPB41L2 PE=1 SV=1,EPB41L2,113 kDa,,5,5,4,5,5,4,5,4,3,5,4,3,4,3,3,4,3,3,100%,100%,100%,8.36%,6.07%,4.68%,0.01%,0.01%,0.01%
+Band 3 anion transport protein OS=Homo sapiens OX=9606 GN=SLC4A1 PE=1 SV=3,SLC4A1,102 kDa,,3,1,3,3,1,3,3,1,2,3,1,2,2,1,2,2,1,2,100%,99%,100%,4.17%,1.54%,4.17%,0.00%,0.00%,0.00%
+BTB/POZ domain-containing protein KCTD12 OS=Homo sapiens OX=9606 GN=KCTD12 PE=1 SV=1,KCTD12,36 kDa,,14,9,11,14,9,11,9,6,8,9,6,8,8,5,7,8,5,7,100%,100%,100%,34.50%,19.10%,19.40%,0.02%,0.01%,0.02%
+Asporin OS=Homo sapiens OX=9606 GN=ASPN PE=1 SV=2,ASPN,43 kDa,,6,5,5,6,5,5,4,3,5,4,3,5,4,3,4,4,3,4,100%,100%,100%,15.30%,12.40%,15.30%,0.01%,0.01%,0.01%
+Aspartyl/asparaginyl beta-hydroxylase OS=Homo sapiens OX=9606 GN=ASPH PE=1 SV=3,ASPH,86 kDa,,3,1,1,3,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,100%,100%,3.56%,2.37%,2.37%,0.00%,0.00%,0.00%
+"Aspartate--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=DARS PE=1 SV=2",DARS,57 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,0,11%,5.59%,0,0.00%,0.00%,0,0.00%
+Apoptosis inhibitor 5 OS=Homo sapiens OX=9606 GN=API5 PE=1 SV=3,API5,59 kDa,,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,100%,95%,0,7.25%,2.10%,0,0.00%,0.00%,0
+Apolipoprotein A-II OS=Homo sapiens OX=9606 GN=APOA2 PE=1 SV=1,APOA2,11 kDa,,3,1,0,3,1,0,2,1,0,2,1,0,2,1,0,2,1,0,100%,98%,0,34.00%,11.00%,0,0.00%,0.00%,0
+Apolipoprotein A-I OS=Homo sapiens OX=9606 GN=APOA1 PE=1 SV=1,APOA1,31 kDa,,11,11,10,11,11,10,9,6,7,9,6,7,6,5,6,6,5,6,100%,100%,100%,23.60%,18.70%,24.30%,0.02%,0.02%,0.02%
+Antithrombin-III OS=Homo sapiens OX=9606 GN=SERPINC1 PE=1 SV=1,SERPINC1,53 kDa,,32,19,20,32,19,20,13,8,11,13,8,11,6,3,4,6,3,4,100%,100%,100%,16.60%,8.84%,12.50%,0.05%,0.03%,0.03%
+Annexin A11 OS=Homo sapiens OX=9606 GN=ANXA11 PE=1 SV=1,ANXA11,54 kDa,,4,3,2,4,3,2,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,99%,4.16%,4.16%,1.78%,0.01%,0.00%,0.00%
+Annexin A6 OS=Homo sapiens OX=9606 GN=ANXA6 PE=1 SV=3,ANXA6,76 kDa,,43,31,31,43,31,31,25,17,19,25,17,19,18,12,13,18,12,13,100%,100%,100%,32.40%,21.50%,24.20%,0.06%,0.05%,0.05%
+Annexin A5 OS=Homo sapiens OX=9606 GN=ANXA5 PE=1 SV=2,ANXA5,36 kDa,,19,17,13,19,17,13,11,9,7,11,9,7,8,5,5,8,5,5,100%,100%,100%,33.10%,19.10%,19.10%,0.03%,0.03%,0.02%
+Putative annexin A2-like protein OS=Homo sapiens OX=9606 GN=ANXA2P2 PE=5 SV=2,ANXA2P2,39 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Annexin A1 OS=Homo sapiens OX=9606 GN=ANXA1 PE=1 SV=2,ANXA1,39 kDa,,31,27,28,31,27,28,14,13,12,14,13,12,10,11,9,10,11,9,100%,100%,100%,41.30%,39.00%,31.50%,0.05%,0.04%,0.04%
+Ankyrin-2 OS=Homo sapiens OX=9606 GN=ANK2 PE=1 SV=4,ANK2,434 kDa,TRUE,3,1,2,2,0,1,3,1,2,2,0,1,3,1,2,2,0,1,100%,93%,100%,0.91%,0.28%,0.68%,0.00%,0.00%,0.00%
+Ankyrin-1 OS=Homo sapiens OX=9606 GN=ANK1 PE=1 SV=3,ANK1,206 kDa,,2,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,2,100%,98%,100%,1.54%,0.80%,1.70%,0.00%,0.00%,0.00%
+Ankycorbin OS=Homo sapiens OX=9606 GN=RAI14 PE=1 SV=2,RAI14,110 kDa,,4,2,1,4,2,1,4,2,1,4,2,1,4,2,1,4,2,1,100%,100%,100%,6.84%,2.65%,1.43%,0.01%,0.00%,0.00%
+Aminopeptidase B OS=Homo sapiens OX=9606 GN=RNPEP PE=1 SV=2,RNPEP,73 kDa,,2,1,2,2,1,2,2,1,1,2,1,1,2,1,1,2,1,1,100%,94%,94%,3.54%,1.85%,1.85%,0.00%,0.00%,0.00%
+Amine oxidase [flavin-containing] B OS=Homo sapiens OX=9606 GN=MAOB PE=1 SV=3,MAOB,59 kDa,,3,3,2,3,3,2,3,3,2,3,3,2,2,2,2,2,2,2,100%,100%,100%,5.38%,5.38%,5.38%,0.00%,0.00%,0.00%
+Gamma-enolase OS=Homo sapiens OX=9606 GN=ENO2 PE=1 SV=3,ENO2,47 kDa,TRUE,13,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,40%,0,0,4.15%,0,0,0.02%,0,0
+Beta-centractin OS=Homo sapiens OX=9606 GN=ACTR1B PE=1 SV=1,ACTR1B,42 kDa,TRUE,2,1,0,0,0,0,2,1,0,0,0,0,2,1,0,0,0,0,12%,6%,18%,5.59%,2.66%,0.00%,0.00%,0.00%,0.00%
+Alpha-aminoadipic semialdehyde dehydrogenase OS=Homo sapiens OX=9606 GN=ALDH7A1 PE=1 SV=5,ALDH7A1,58 kDa,,6,5,4,6,5,4,6,3,3,6,3,3,4,3,3,4,3,3,100%,100%,100%,11.70%,6.86%,9.65%,0.01%,0.01%,0.01%
+Alpha-adducin OS=Homo sapiens OX=9606 GN=ADD1 PE=1 SV=2,ADD1,81 kDa,,4,5,6,4,5,6,3,4,3,3,4,3,3,3,3,3,3,3,100%,100%,100%,5.43%,5.97%,5.97%,0.01%,0.01%,0.01%
+Alpha-actinin-4 OS=Homo sapiens OX=9606 GN=ACTN4 PE=1 SV=2,ACTN4,105 kDa,TRUE,122,115,106,74,70,58,51,45,36,39,37,27,26,24,24,19,18,17,100%,100%,100%,35.20%,31.90%,33.30%,0.18%,0.18%,0.17%
+Pregnancy zone protein OS=Homo sapiens OX=9606 GN=PZP PE=1 SV=4,PZP,164 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alpha-2-HS-glycoprotein OS=Homo sapiens OX=9606 GN=AHSG PE=1 SV=2,AHSG,39 kDa,,20,20,18,20,20,18,9,11,11,9,11,11,4,5,4,4,5,4,100%,100%,100%,19.60%,22.30%,19.60%,0.03%,0.03%,0.03%
+Alpha-1B-glycoprotein OS=Homo sapiens OX=9606 GN=A1BG PE=1 SV=4,A1BG,54 kDa,,5,4,2,5,4,2,4,3,2,4,3,2,4,3,2,4,3,2,100%,100%,100%,9.49%,7.27%,5.66%,0.01%,0.01%,0.00%
+Alpha-1-antitrypsin OS=Homo sapiens OX=9606 GN=SERPINA1 PE=1 SV=3,SERPINA1,47 kDa,,32,27,22,32,27,22,9,8,7,9,8,7,6,5,5,6,5,5,100%,100%,100%,18.20%,12.90%,16.30%,0.05%,0.04%,0.04%
+Alpha-1-antichymotrypsin OS=Homo sapiens OX=9606 GN=SERPINA3 PE=1 SV=2,SERPINA3,48 kDa,,13,4,5,13,4,5,9,3,3,9,3,3,4,2,2,4,2,2,100%,100%,100%,13.50%,6.86%,8.75%,0.02%,0.01%,0.01%
+All-trans-retinol dehydrogenase [NAD(+)] ADH1B OS=Homo sapiens OX=9606 GN=ADH1B PE=1 SV=2,ADH1B,40 kDa,TRUE,17,11,11,10,6,7,11,6,8,8,4,5,8,4,5,5,3,4,100%,100%,100%,26.40%,15.20%,21.60%,0.03%,0.02%,0.02%
+Aldo-keto reductase family 1 member C4 OS=Homo sapiens OX=9606 GN=AKR1C4 PE=1 SV=3,AKR1C4,37 kDa,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,48%,0,9%,2.48%,0,0.00%,0.00%,0,0.00%
+Aldo-keto reductase family 1 member A1 OS=Homo sapiens OX=9606 GN=AKR1A1 PE=1 SV=3,AKR1A1,37 kDa,,3,2,2,2,2,2,3,1,1,2,1,1,2,1,1,1,1,1,100%,100%,100%,7.08%,4.62%,4.62%,0.00%,0.00%,0.00%
+Alcohol dehydrogenase class-3 OS=Homo sapiens OX=9606 GN=ADH5 PE=1 SV=4,ADH5,40 kDa,,21,15,17,21,15,17,7,6,7,7,6,7,5,5,6,5,5,6,100%,100%,100%,20.30%,15.50%,20.90%,0.03%,0.02%,0.03%
+"Alanine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=AARS PE=1 SV=2",AARS,107 kDa,,6,2,2,6,2,2,5,2,2,5,2,2,4,2,2,4,2,2,100%,100%,100%,4.96%,2.58%,2.58%,0.01%,0.00%,0.00%
+Adipocyte plasma membrane-associated protein OS=Homo sapiens OX=9606 GN=APMAP PE=1 SV=2,APMAP,46 kDa,,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,100%,100%,100%,3.37%,6.25%,6.25%,0.00%,0.00%,0.00%
+Adipocyte enhancer-binding protein 1 OS=Homo sapiens OX=9606 GN=AEBP1 PE=1 SV=1,AEBP1,131 kDa,TRUE,21,17,12,17,14,10,14,12,11,13,11,9,10,10,9,9,9,8,100%,100%,100%,12.00%,12.30%,10.40%,0.03%,0.03%,0.02%
+Adenylyl cyclase-associated protein 1 OS=Homo sapiens OX=9606 GN=CAP1 PE=1 SV=5,CAP1,52 kDa,,15,9,10,15,9,10,10,6,6,10,6,6,6,5,5,6,5,5,100%,100%,100%,21.30%,18.50%,18.50%,0.02%,0.01%,0.02%
+Adenosylhomocysteinase OS=Homo sapiens OX=9606 GN=AHCY PE=1 SV=4,AHCY,48 kDa,,9,1,2,9,1,2,6,1,2,6,1,2,6,1,2,6,1,2,100%,100%,100%,16.70%,2.78%,5.32%,0.01%,0.00%,0.00%
+Activated RNA polymerase II transcriptional coactivator p15 OS=Homo sapiens OX=9606 GN=SUB1 PE=1 SV=3,SUB1,14 kDa,,1,3,3,1,3,3,1,2,2,1,2,2,1,2,2,1,2,2,99%,100%,100%,8.66%,18.90%,18.90%,0.00%,0.00%,0.00%
+Actin-related protein 3 OS=Homo sapiens OX=9606 GN=ACTR3 PE=1 SV=3,ACTR3,47 kDa,,10,5,7,10,5,7,7,4,6,7,4,6,5,4,5,5,4,5,100%,100%,100%,13.40%,11.00%,13.40%,0.02%,0.01%,0.01%
+Actin-related protein 2/3 complex subunit 4 OS=Homo sapiens OX=9606 GN=ARPC4 PE=1 SV=3,ARPC4,20 kDa,,4,5,6,4,5,6,3,2,3,3,2,3,3,2,3,3,2,3,100%,100%,100%,17.90%,11.30%,17.90%,0.01%,0.01%,0.01%
+Actin-related protein 2/3 complex subunit 2 OS=Homo sapiens OX=9606 GN=ARPC2 PE=1 SV=1,ARPC2,34 kDa,,3,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,7.67%,7.67%,7.67%,0.00%,0.00%,0.00%
+Actin-related protein 2/3 complex subunit 1B OS=Homo sapiens OX=9606 GN=ARPC1B PE=1 SV=3,ARPC1B,41 kDa,,2,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,2,100%,100%,100%,8.06%,3.49%,8.33%,0.00%,0.00%,0.00%
+Actin-related protein 2 OS=Homo sapiens OX=9606 GN=ACTR2 PE=1 SV=1,ACTR2,45 kDa,,1,3,3,1,3,3,1,3,3,1,3,3,1,3,3,1,3,3,100%,100%,100%,3.05%,9.14%,9.14%,0.00%,0.00%,0.00%
+Actin-binding LIM protein 1 OS=Homo sapiens OX=9606 GN=ABLIM1 PE=1 SV=3,ABLIM1,88 kDa,,2,2,3,1,1,3,2,2,3,1,1,3,2,2,3,1,1,3,100%,100%,100%,2.57%,3.08%,5.27%,0.00%,0.00%,0.00%
+Putative beta-actin-like protein 3 OS=Homo sapiens OX=9606 GN=POTEKP PE=5 SV=1,POTEKP,42 kDa,TRUE,63,52,55,0,0,0,11,6,9,0,0,0,3,2,3,0,0,0,17%,69%,39%,8.00%,7.73%,8.00%,0.09%,0.08%,0.09%
+"Aconitate hydratase, mitochondrial OS=Homo sapiens OX=9606 GN=ACO2 PE=1 SV=2",ACO2,85 kDa,,3,3,2,3,3,2,3,3,2,3,3,2,3,3,2,3,3,2,100%,100%,100%,7.18%,5.64%,3.59%,0.00%,0.00%,0.00%
+ATP-dependent RNA helicase DDX42 OS=Homo sapiens OX=9606 GN=DDX42 PE=1 SV=1,DDX42,103 kDa,,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,1,0,2,100%,0,100%,1.39%,0,3.73%,0.00%,0,0.00%
+ATP-dependent RNA helicase DDX1 OS=Homo sapiens OX=9606 GN=DDX1 PE=1 SV=2,DDX1,82 kDa,,3,2,1,3,2,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,100%,100%,3.65%,2.16%,2.16%,0.00%,0.00%,0.00%
+ATP-dependent RNA helicase A OS=Homo sapiens OX=9606 GN=DHX9 PE=1 SV=4,DHX9,141 kDa,,5,3,4,5,3,4,4,3,3,4,3,3,4,3,3,4,3,3,100%,100%,100%,3.78%,3.15%,2.52%,0.01%,0.00%,0.01%
+"ATP-dependent 6-phosphofructokinase, platelet type OS=Homo sapiens OX=9606 GN=PFKP PE=1 SV=2",PFKP,86 kDa,,4,5,2,4,5,2,3,4,2,3,4,2,3,3,2,3,3,2,100%,100%,100%,5.87%,5.87%,3.06%,0.01%,0.01%,0.00%
+"ATP synthase subunit beta, mitochondrial OS=Homo sapiens OX=9606 GN=ATP5F1B PE=1 SV=3",ATP5F1B,57 kDa,,8,7,7,8,7,7,5,4,5,5,4,5,5,4,3,5,4,3,100%,100%,100%,14.40%,11.30%,9.07%,0.01%,0.01%,0.01%
+"ATP synthase subunit alpha, mitochondrial OS=Homo sapiens OX=9606 GN=ATP5F1A PE=1 SV=1",ATP5F1A,60 kDa,,20,17,20,20,17,20,8,9,9,8,9,9,8,8,9,8,8,9,100%,100%,100%,17.00%,17.00%,18.30%,0.03%,0.03%,0.03%
+AP-3 complex subunit delta-1 OS=Homo sapiens OX=9606 GN=AP3D1 PE=1 SV=1,AP3D1,130 kDa,,3,0,0,3,0,0,3,0,0,3,0,0,2,0,0,2,0,0,100%,73%,0,4.25%,0.00%,0,0.00%,0.00%,0
+AP-2 complex subunit mu OS=Homo sapiens OX=9606 GN=AP2M1 PE=1 SV=2,AP2M1,50 kDa,,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,2,0,1,100%,55%,100%,7.13%,0.00%,3.45%,0.00%,0.00%,0.00%
+AP-2 complex subunit beta OS=Homo sapiens OX=9606 GN=AP2B1 PE=1 SV=1,AP2B1,105 kDa,TRUE,10,9,8,8,7,6,6,6,6,4,4,4,6,6,5,4,4,3,100%,100%,100%,7.26%,7.47%,6.40%,0.02%,0.01%,0.01%
+AP-2 complex subunit alpha-2 OS=Homo sapiens OX=9606 GN=AP2A2 PE=1 SV=2,AP2A2,104 kDa,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,30%,8%,13%,1.28%,0.00%,0.00%,0.00%,0.00%,0.00%
+ADP/ATP translocase 3 OS=Homo sapiens OX=9606 GN=SLC25A6 PE=1 SV=4,SLC25A6,33 kDa,TRUE,3,1,1,1,1,1,3,1,1,1,1,1,3,1,1,1,1,1,100%,98%,99%,11.40%,4.36%,4.36%,0.00%,0.00%,0.00%
+ADP/ATP translocase 2 OS=Homo sapiens OX=9606 GN=SLC25A5 PE=1 SV=7,SLC25A5,33 kDa,TRUE,3,2,1,2,2,1,2,2,1,1,2,1,2,1,1,1,1,1,99%,94%,99%,7.72%,4.36%,4.36%,0.00%,0.00%,0.00%
+A-kinase anchor protein 12 OS=Homo sapiens OX=9606 GN=AKAP12 PE=1 SV=4,AKAP12,191 kDa,,42,27,20,42,27,20,29,16,12,29,16,12,21,13,10,21,13,10,100%,100%,100%,23.00%,12.80%,9.71%,0.06%,0.04%,0.03%
+182 kDa tankyrase-1-binding protein OS=Homo sapiens OX=9606 GN=TNKS1BP1 PE=1 SV=4,TNKS1BP1,182 kDa,,1,3,0,1,3,0,1,3,0,1,3,0,1,3,0,1,3,0,100%,100%,52%,1.10%,3.47%,0.00%,0.00%,0.00%,0.00%
+116 kDa U5 small nuclear ribonucleoprotein component OS=Homo sapiens OX=9606 GN=EFTUD2 PE=1 SV=1,EFTUD2,109 kDa,TRUE,1,1,3,1,1,1,1,1,3,1,1,1,1,1,2,1,1,1,99%,99%,90%,1.34%,1.34%,2.37%,0.00%,0.00%,0.00%
+60S ribosomal protein L30 OS=Homo sapiens OX=9606 GN=RPL30 PE=1 SV=2,RPL30,13 kDa,,10,9,9,10,9,9,4,2,3,4,2,3,3,2,3,3,2,3,100%,100%,100%,40.90%,24.30%,40.90%,0.02%,0.01%,0.01%
+60S ribosomal protein L28 OS=Homo sapiens OX=9606 GN=RPL28 PE=1 SV=3,RPL28,16 kDa,,4,2,1,4,2,1,4,1,1,4,1,1,4,1,1,4,1,1,100%,95%,96%,16.10%,5.84%,5.84%,0.01%,0.00%,0.00%
+60S ribosomal protein L27a OS=Homo sapiens OX=9606 GN=RPL27A PE=1 SV=2,RPL27A,17 kDa,,8,8,7,8,8,7,5,4,3,5,4,3,3,3,3,3,3,3,100%,100%,100%,22.30%,22.30%,22.30%,0.01%,0.01%,0.01%
+60S ribosomal protein L27 OS=Homo sapiens OX=9606 GN=RPL27 PE=1 SV=2,RPL27,16 kDa,,1,3,3,1,3,3,1,2,2,1,2,2,1,2,2,1,2,2,100%,100%,100%,6.62%,14.70%,14.70%,0.00%,0.00%,0.00%
+60S ribosomal protein L24 OS=Homo sapiens OX=9606 GN=RPL24 PE=1 SV=1,RPL24,18 kDa,,8,7,6,8,7,6,3,3,2,3,3,2,3,2,2,3,2,2,100%,100%,100%,19.10%,13.40%,13.40%,0.01%,0.01%,0.01%
+60S ribosomal protein L23 OS=Homo sapiens OX=9606 GN=RPL23 PE=1 SV=1,RPL23,15 kDa,,11,10,11,11,10,11,5,4,4,5,4,4,2,2,2,2,2,2,100%,100%,100%,20.00%,20.00%,20.00%,0.02%,0.02%,0.02%
+60S ribosomal protein L22 OS=Homo sapiens OX=9606 GN=RPL22 PE=1 SV=2,RPL22,15 kDa,,2,5,5,2,5,5,1,3,3,1,3,3,1,3,3,1,3,3,99%,100%,100%,10.20%,19.50%,19.50%,0.00%,0.01%,0.01%
+60S ribosomal protein L18a OS=Homo sapiens OX=9606 GN=RPL18A PE=1 SV=2,RPL18A,21 kDa,,4,2,3,4,2,3,4,2,2,4,2,2,3,2,2,3,2,2,100%,100%,100%,21.00%,13.60%,13.60%,0.01%,0.00%,0.00%
+60S ribosomal protein L18 OS=Homo sapiens OX=9606 GN=RPL18 PE=1 SV=2,RPL18,22 kDa,,15,16,12,15,16,12,4,4,4,4,4,4,4,4,4,4,4,4,100%,100%,100%,25.50%,25.50%,25.50%,0.02%,0.03%,0.02%
+60S ribosomal protein L17 OS=Homo sapiens OX=9606 GN=RPL17 PE=1 SV=3,RPL17,21 kDa,,4,5,4,4,5,4,3,3,2,3,3,2,2,2,2,2,2,2,100%,100%,100%,13.00%,13.00%,13.00%,0.01%,0.01%,0.01%
+60S ribosomal protein L15 OS=Homo sapiens OX=9606 GN=RPL15 PE=1 SV=2,RPL15,24 kDa,,3,3,3,3,3,3,3,2,2,3,2,2,2,2,2,2,2,2,100%,100%,100%,11.30%,14.70%,11.30%,0.00%,0.00%,0.00%
+60S ribosomal protein L14 OS=Homo sapiens OX=9606 GN=RPL14 PE=1 SV=4,RPL14,23 kDa,,2,4,2,2,4,2,2,3,1,2,3,1,1,2,1,1,2,1,100%,100%,100%,5.12%,10.70%,5.12%,0.00%,0.01%,0.00%
+60S ribosomal protein L13a OS=Homo sapiens OX=9606 GN=RPL13A PE=1 SV=2,RPL13A,24 kDa,,5,4,3,5,4,3,3,3,2,3,3,2,3,3,2,3,3,2,100%,100%,100%,14.30%,15.30%,9.36%,0.01%,0.01%,0.00%
+60S ribosomal protein L13 OS=Homo sapiens OX=9606 GN=RPL13 PE=1 SV=4,RPL13,24 kDa,,6,6,7,6,6,7,3,3,4,3,3,4,3,3,4,3,3,4,100%,100%,100%,14.20%,14.20%,19.00%,0.01%,0.01%,0.01%
+60S ribosomal protein L12 OS=Homo sapiens OX=9606 GN=RPL12 PE=1 SV=1,RPL12,18 kDa,,2,5,3,2,5,3,1,3,2,1,3,2,1,3,2,1,3,2,100%,100%,100%,5.45%,24.80%,15.20%,0.00%,0.01%,0.00%
+60S ribosomal protein L9 OS=Homo sapiens OX=9606 GN=RPL9 PE=1 SV=1,RPL9,22 kDa,,4,5,3,4,5,3,2,3,3,2,3,3,2,2,2,2,2,2,100%,100%,100%,15.10%,15.10%,15.10%,0.01%,0.01%,0.00%
+60S ribosomal protein L8 OS=Homo sapiens OX=9606 GN=RPL8 PE=1 SV=2,RPL8,28 kDa,,3,1,1,3,1,1,3,1,1,3,1,1,2,1,1,2,1,1,100%,99%,99%,10.50%,6.23%,6.23%,0.00%,0.00%,0.00%
+60S ribosomal protein L7a OS=Homo sapiens OX=9606 GN=RPL7A PE=1 SV=2,RPL7A,30 kDa,,5,7,4,5,7,4,4,5,3,4,5,3,4,4,3,4,4,3,100%,100%,100%,12.00%,12.00%,8.65%,0.01%,0.01%,0.01%
+60S ribosomal protein L7 OS=Homo sapiens OX=9606 GN=RPL7 PE=1 SV=1,RPL7,29 kDa,,10,7,5,10,7,5,6,4,3,6,4,3,6,4,2,6,4,2,100%,100%,100%,25.40%,14.10%,8.47%,0.02%,0.01%,0.01%
+60S ribosomal protein L6 OS=Homo sapiens OX=9606 GN=RPL6 PE=1 SV=3,RPL6,33 kDa,,9,8,7,9,8,7,7,6,6,7,6,6,5,5,6,5,5,6,100%,100%,100%,16.00%,19.40%,19.80%,0.01%,0.01%,0.01%
+60S ribosomal protein L5 OS=Homo sapiens OX=9606 GN=RPL5 PE=1 SV=3,RPL5,34 kDa,,4,5,5,4,5,5,3,2,3,3,2,3,2,2,2,2,2,2,100%,100%,100%,8.08%,8.08%,8.08%,0.01%,0.01%,0.01%
+60S ribosomal protein L4 OS=Homo sapiens OX=9606 GN=RPL4 PE=1 SV=5,RPL4,48 kDa,,9,3,3,9,3,3,5,2,2,5,2,2,4,2,2,4,2,2,100%,100%,100%,13.30%,6.32%,7.26%,0.01%,0.00%,0.00%
+60S ribosomal protein L3-like OS=Homo sapiens OX=9606 GN=RPL3L PE=2 SV=3,RPL3L,46 kDa,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14%,0,0,0.00%,0,0,0.00%
+60S acidic ribosomal protein P0 OS=Homo sapiens OX=9606 GN=RPLP0 PE=1 SV=1,RPLP0,34 kDa,,4,3,5,4,3,5,4,2,5,4,2,5,2,2,3,2,2,3,100%,100%,100%,10.70%,10.70%,13.90%,0.01%,0.00%,0.01%
+"60 kDa heat shock protein, mitochondrial OS=Homo sapiens OX=9606 GN=HSPD1 PE=1 SV=2",HSPD1,61 kDa,,7,6,2,7,6,2,5,6,2,5,6,2,4,3,2,4,3,2,100%,100%,100%,11.50%,9.42%,6.46%,0.01%,0.01%,0.00%
+40S ribosomal protein SA OS=Homo sapiens OX=9606 GN=RPSA PE=1 SV=4,RPSA,33 kDa,,4,2,8,4,2,8,3,2,4,3,2,4,2,2,3,2,2,3,100%,100%,100%,11.90%,6.44%,15.60%,0.01%,0.00%,0.01%
+40S ribosomal protein S30 OS=Homo sapiens OX=9606 GN=FAU PE=1 SV=1,FAU,7 kDa,,3,3,3,3,3,3,1,2,1,1,2,1,1,2,1,1,2,1,99%,100%,99%,16.90%,18.60%,16.90%,0.00%,0.00%,0.00%
+40S ribosomal protein S20 OS=Homo sapiens OX=9606 GN=RPS20 PE=1 SV=1,RPS20,13 kDa,,7,4,4,7,4,4,4,2,3,4,2,3,3,2,3,3,2,3,100%,100%,100%,22.70%,22.70%,22.70%,0.01%,0.01%,0.01%
+40S ribosomal protein S16 OS=Homo sapiens OX=9606 GN=RPS16 PE=1 SV=2,RPS16,16 kDa,,8,7,6,8,7,6,2,3,2,2,3,2,2,2,2,2,2,2,100%,100%,100%,14.40%,14.40%,14.40%,0.01%,0.01%,0.01%
+40S ribosomal protein S15a OS=Homo sapiens OX=9606 GN=RPS15A PE=1 SV=2,RPS15A,15 kDa,,5,3,3,5,3,3,3,3,3,3,3,3,2,2,2,2,2,2,100%,100%,100%,13.80%,13.80%,13.80%,0.01%,0.00%,0.00%
+40S ribosomal protein S14 OS=Homo sapiens OX=9606 GN=RPS14 PE=1 SV=3,RPS14,16 kDa,,8,2,2,8,2,2,7,1,2,7,1,2,6,1,2,6,1,2,100%,93%,100%,41.10%,10.60%,24.50%,0.01%,0.00%,0.00%
+40S ribosomal protein S13 OS=Homo sapiens OX=9606 GN=RPS13 PE=1 SV=2,RPS13,17 kDa,,3,1,2,3,1,2,2,1,1,2,1,1,2,1,1,2,1,1,100%,99%,94%,7.28%,7.28%,7.28%,0.00%,0.00%,0.00%
+40S ribosomal protein S12 OS=Homo sapiens OX=9606 GN=RPS12 PE=1 SV=3,RPS12,15 kDa,,6,2,2,6,2,2,5,1,1,5,1,1,3,1,1,3,1,1,100%,97%,97%,21.20%,6.06%,6.06%,0.01%,0.00%,0.00%
+40S ribosomal protein S10 OS=Homo sapiens OX=9606 GN=RPS10 PE=1 SV=1,RPS10,19 kDa,,4,2,2,4,2,2,2,2,2,2,2,2,1,2,2,1,2,2,100%,100%,100%,9.09%,9.09%,9.09%,0.01%,0.00%,0.00%
+40S ribosomal protein S9 OS=Homo sapiens OX=9606 GN=RPS9 PE=1 SV=3,RPS9,23 kDa,,9,7,6,9,7,6,5,3,3,5,3,3,3,2,2,3,2,2,100%,100%,100%,14.40%,9.79%,9.79%,0.01%,0.01%,0.01%
+40S ribosomal protein S8 OS=Homo sapiens OX=9606 GN=RPS8 PE=1 SV=2,RPS8,24 kDa,,10,7,8,10,7,8,6,5,4,6,5,4,5,4,4,5,4,4,100%,100%,100%,31.70%,26.40%,26.40%,0.02%,0.01%,0.01%
+40S ribosomal protein S6 OS=Homo sapiens OX=9606 GN=RPS6 PE=1 SV=1,RPS6,29 kDa,,9,6,6,9,6,6,5,2,2,5,2,2,4,2,2,4,2,2,100%,100%,100%,18.90%,9.64%,9.64%,0.01%,0.01%,0.01%
+40S ribosomal protein S5 OS=Homo sapiens OX=9606 GN=RPS5 PE=1 SV=4,RPS5,23 kDa,,4,0,0,4,0,0,4,0,0,4,0,0,3,0,0,3,0,0,100%,40%,74%,18.60%,0.00%,0.00%,0.01%,0.00%,0.00%
+"40S ribosomal protein S4, X isoform OS=Homo sapiens OX=9606 GN=RPS4X PE=1 SV=2",RPS4X,30 kDa,,4,1,1,4,1,1,3,1,1,3,1,1,3,1,1,3,1,1,100%,100%,100%,15.20%,6.46%,6.46%,0.01%,0.00%,0.00%
+40S ribosomal protein S3a OS=Homo sapiens OX=9606 GN=RPS3A PE=1 SV=2,RPS3A,30 kDa,,7,5,3,7,5,3,7,4,2,7,4,2,5,4,2,5,4,2,100%,100%,100%,19.30%,14.00%,8.33%,0.01%,0.01%,0.00%
+40S ribosomal protein S3 OS=Homo sapiens OX=9606 GN=RPS3 PE=1 SV=2,RPS3,27 kDa,,12,8,11,12,8,11,7,4,6,7,4,6,7,4,6,7,4,6,100%,100%,100%,33.30%,21.00%,29.20%,0.02%,0.01%,0.02%
+40S ribosomal protein S2 OS=Homo sapiens OX=9606 GN=RPS2 PE=1 SV=2,RPS2,31 kDa,,7,6,5,7,6,5,3,3,3,3,3,3,3,3,3,3,3,3,100%,100%,100%,11.60%,11.60%,11.60%,0.01%,0.01%,0.01%
+28 kDa heat- and acid-stable phosphoprotein OS=Homo sapiens OX=9606 GN=PDAP1 PE=1 SV=1,PDAP1,21 kDa,,2,3,3,2,3,3,2,2,2,2,2,2,2,2,1,2,2,1,100%,100%,100%,16.00%,16.00%,8.84%,0.00%,0.00%,0.00%
+26S proteasome non-ATPase regulatory subunit 3 OS=Homo sapiens OX=9606 GN=PSMD3 PE=1 SV=2,PSMD3,61 kDa,,2,2,3,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,100%,100%,100%,4.87%,4.87%,4.87%,0.00%,0.00%,0.00%
+26S proteasome non-ATPase regulatory subunit 1 OS=Homo sapiens OX=9606 GN=PSMD1 PE=1 SV=2,PSMD1,106 kDa,,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,2,0,0,100%,0,0,1.99%,0,0,0.00%,0,0
+14-3-3 protein zeta/delta OS=Homo sapiens OX=9606 GN=YWHAZ PE=1 SV=1,YWHAZ,28 kDa,TRUE,19,18,16,17,16,13,10,11,10,8,9,8,8,7,6,6,6,5,100%,100%,100%,38.40%,34.30%,29.40%,0.03%,0.03%,0.03%
+14-3-3 protein epsilon OS=Homo sapiens OX=9606 GN=YWHAE PE=1 SV=1,YWHAE,29 kDa,TRUE,12,12,10,10,10,7,8,7,5,6,5,3,7,5,4,5,4,3,100%,100%,100%,32.90%,26.30%,19.60%,0.02%,0.02%,0.02%
+14-3-3 protein theta OS=Homo sapiens OX=9606 GN=YWHAQ PE=1 SV=1,YWHAQ,28 kDa,TRUE,7,5,7,4,3,4,6,4,4,3,2,2,5,2,3,2,1,2,100%,99%,100%,24.50%,8.98%,16.70%,0.01%,0.01%,0.01%
+"6-phosphogluconate dehydrogenase, decarboxylating OS=Homo sapiens OX=9606 GN=PGD PE=1 SV=3",PGD,53 kDa,,2,3,2,2,3,2,2,2,1,2,2,1,2,2,1,2,2,1,100%,100%,100%,7.87%,5.80%,3.52%,0.00%,0.00%,0.00%
+4-trimethylaminobutyraldehyde dehydrogenase OS=Homo sapiens OX=9606 GN=ALDH9A1 PE=1 SV=3,ALDH9A1,54 kDa,,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,100%,100%,100%,7.49%,2.02%,4.45%,0.00%,0.00%,0.00%
+"2,4-dienoyl-CoA reductase, mitochondrial OS=Homo sapiens OX=9606 GN=DECR1 PE=1 SV=1",DECR1,36 kDa,,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1,100%,97%,97%,9.55%,6.57%,6.57%,0.00%,0.00%,0.00%
