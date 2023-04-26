@@ -1,4 +1,5 @@
 # MatrisomeAnalyzeR
+If you use the MatrisomeAnalyzeR package, please cite: https://www.biorxiv.org/content/10.1101/2023.04.18.537378v1
 The Matrisome Project website: https://matrisome.org
 
 ## Abstract
