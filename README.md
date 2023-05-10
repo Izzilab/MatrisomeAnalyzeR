@@ -110,6 +110,7 @@ matriring(data = genes.ann)
 matristar(data = genes.ann)
 
 # in case you want to change colors, for example using the "ggsci package".
+library(ggsci)
 p <- matribar(data = genes.ann, print.plot = FALSE)
 p + scale_fill_npg()
 ```
