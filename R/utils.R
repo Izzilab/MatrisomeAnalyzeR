@@ -80,12 +80,16 @@ matrianalyze <- function(data=NULL){
 
   n <- "Annotated Gene"
   df <- data
-  tr <- suppressWarnings(
-    apply(df,2,function(x){
-      v <- gsub("[^0-9.-]", "",x)
-      as.numeric(v)
-    })
-  )
+  tr <- list()
+  for(an in 1:ncol(df)){
+    z <- df[,an]
+    #apply(df,2,function(x){
+    v <- gsub("[^0-9.-]", "",z)
+    v <- suppressWarnings(as.numeric(v))
+    tr[[an]] <- v
+  }
+  tr <- suppressMessages(as.data.frame(bind_cols(tr)))
+  
   colnames(tr) <- colnames(df)
   tr <- tr[,!(is.na(colSums(tr)))]
   nmtr <- colnames(tr)
