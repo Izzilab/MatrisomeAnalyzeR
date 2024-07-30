@@ -1,6 +1,12 @@
 # MatrisomeAnalyzeR
 If you use the MatrisomeAnalyzeR package, please cite: [Matrisome AnalyzeR: A suite of tools to annotate and quantify ECM molecules in big datasets across organisms](https://doi.org/10.1242/jcs.261255). Users can also refer to the Matrisome Project website to retrieve up-to-date lists of the matrisomes of different model organisms: https://matrisome.org. 
 
+* Authors and maintainers: IzziLab (✉️ <valerio.izzi@oulu.fi>) and Naba Lab (✉️ <anaba@uic.edu>)
+* This work was supported by the following grants (green: Naba lab; blue: Izzi lab):
+[![Badge](https://img.shields.io/badge/HuBMAP-U01HG012680-lightgreen)](https://commonfund.nih.gov/HuBMAP)
+[![Badge](https://img.shields.io/badge/IMAT-R21CA261642-lightgreen)](https://www.cancer.gov/about-nci/organization/cssi/research/imat)
+[![Badge](https://img.shields.io/badge/DigiHealth-Infotech-lightblue)](https://www.oulu.fi/en/research/creating-better-health-our-digital-health-knowhow)
+
 ## Abstract
 **Motivation**: The identification of genes or proteins belonging to the same functional compartment provides important information about the processes happening in cells and tissues, and is an essential step in the analysis of large -omic datasets. The extracellular matrix (ECM) is a complex meshwork of proteins. Its components, constituting the "matrisome", can be classified into specific *divisions* and *categories*, depending on their structure and function as scaffolding, enzymatic, and/or signalling activities. The Matrisome Project (https://matrisome.org) provides - among other resources - a centralized, multi-species classification of matrisome proteins, and has become an important resource for the ECM-centric analysis of different -omic studies.  
 **Results**: Here, we present an updated version of the previous MatrisomeAnalyzeRLinuxV1 (MAR) - a tool originally intended to annotate proteomic datasets for the presence and abundance of ECM proteins. We have completely rewritten MAR from the ground up, to make it faster, reactive, and compliant with a larger panel of data types (genomic, transcriptomic, proteomic) and multiple organisms (*Human, *Mouse, *Danio Rerio, *Drosophila*, *C. elegans*). The updated MAR tool now exists in two forms: a ShinyApp (https://sites.google.com/uic.edu/matrisome/tools/matrisome-analyzer) meant for a one-stop "click and forget" experience and the MatrisomeAnalyzeR package, an R library providing extended usability and multiple graphical options.
